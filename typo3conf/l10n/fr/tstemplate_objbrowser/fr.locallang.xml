@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+      <label index="constants">Constantes</label>
+      <label index="setup">Setup</label>
+      <label index="all">Tous</label>
+      <label index="plainSubstitution">Substitution simple (défaut)</label>
+      <label index="substitutedGreen">Constantes substituées en vert</label>
+      <label index="unsubstitutedGreen">Constantes NON substituées en vert</label>
+      <label index="currentTemplate">Gabarit courant :</label>
+      <label index="badProperty">Mauvaise propriété !</label>
+      <label index="noSpaces">Vous devez entrer une propriété avec les caractères a-z, A-Z et 0-9, sans espace !</label>
+      <label index="nothingUpdated">Rien n'a été mis à jour !</label>
+      <label index="propertyAdded">Propriété ajoutée</label>
+      <label index="valueUpdated">Valeur mise à jour</label>
+      <label index="objectCleared">Objet effacé</label>
+      <label index="updateButton">Mise à jour</label>
+      <label index="editProperty">Édite la valeur de l'objet/la propriété</label>
+      <label index="addButton">Ajoute</label>
+      <label index="addProperty">Ajoute la propriété d'objet :</label>
+      <label index="clear">Efface ?</label>
+      <label index="clearButton">Efface</label>
+      <label index="clearObject">Efface l'objet :</label>
+      <label index="edit">Édite :</label>
+      <label index="noCurrentTemplate">Vous ne pouvez éditer les propriétés et valeurs, s'il n'y a pas de gabarit courant.</label>
+      <label index="addKey">&lt;b&gt;Ajoute une clé&lt;/b&gt;&lt;/a&gt; "%s" à la liste d'objet</label>
+      <label index="removeKey">Enlève la clé de la liste d'objet</label>
+      <label index="back">&lt; Retour</label>
+      <label index="browse">Parcourir :</label>
+      <label index="objectList">Liste des objets :</label>
+      <label index="search">Recherche :</label>
+      <label index="regExp">Expressions régulières</label>
+      <label index="errorsWarnings">Erreurs et avertissements</label>
+      <label index="errorShowDetails">Afficher les détails</label>
+      <label index="removeKey">Enlève la clé de la liste d'objet</label>
+      <label index="setupRoot">racine du Setup</label>
+      <label index="constantRoot">racine des constantes</label>
+      <label index="displayComments">Afficher les commentaires</label>
+      <label index="sortAlphabetically">Tri alphabétique</label>
+      <label index="cropLines">Tronquer les lignes</label>
+      <label index="displayConstants">Affiche les constantes :</label>
+      <label index="displayOptions">Affiche les options :</label>
+      <label index="conditions">Conditions :</label>
+      <label index="setConditions">Activer les conditions</label>
+    </languageKey>
+  </data>
+</T3locallangExt>

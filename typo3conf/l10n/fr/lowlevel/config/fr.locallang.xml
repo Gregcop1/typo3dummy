@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+      <label index="configuration">Configuration</label>
+      <label index="typo3ConfVars">$TYPO3_CONF_VARS (Configuration Global)</label>
+      <label index="tca">$TCA (Configuration des tables)</label>
+      <label index="tcaDescr">$TCA_DESCR (Aide des tables)</label>
+      <label index="loadedExt">$TYPO3_LOADED_EXT (Extensions chargées)</label>
+      <label index="tbeStyles">$TBE_STYLES (Styles des thèmes)</label>
+      <label index="beUser">$BE_USER-&gt;uc (Paramètres utilisateurs)</label>
+      <label index="usersettings">$TYPO3_USER_SETTINGS (Configuration des paramètres utilisateur)</label>
+      <label index="t3services">$T3_SERVICES (Services enregistrés)</label>
+      <label index="tbemodulesext">$TBE_MODULES_EXT (Modules BE des extensions)</label>
+      <label index="tbemodules">$TBE_MODULES (Modules BE)</label>
+      <label index="cropLines">Limiter la longueur des lignes</label>
+      <label index="variable">Variables:</label>
+      <label index="copyPaste">(Maintenant, copier/coller cette valeur dans le fichier de configuration. Cette assistant ne peut pas le faire ici...)</label>
+      <label index="enterSearchPhrase">Entrer une phrase à rechercher</label>
+      <label index="search">Rechercher</label>
+      <label index="useRegExp">Utiliser une expression régulière</label>
+      <label index="writeValue">Ecrire les valeurs dans le fichier de configuration</label>
+      <label index="writeMessage">La ligne suivante a été ajouté au fichier de configuration (%s): %s%s</label>
+      <label index="writeMessageFailed">L'écriture du fichier de configuration a échoué (%s)!</label>
+    </languageKey>
+  </data>
+</T3locallangExt>

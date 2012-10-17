@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+      <label index="mlang_tabs_tab">Aide TypoScript</label>
+      <label index="mlang_labels_tabdescr">Référence d'objets pour le TSref, page TSconfig et user TSconfig. Permet également à l'administrateur de reconstruire la totalité des liens en ligne vers les manuels de toutes les extensions installées (y compris la documentation de base, si elle est installée).</label>
+      <label index="mlang_labels_tablabel">Aide TypoScript</label>
+    </languageKey>
+  </data>
+</T3locallangExt>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff version="1.0">
+  <file source-language="en" datatype="plaintext" original="messages" date="2011-10-17T20:22:36Z" product-name="rtehtmlarea" target-language="fr">
+    <header/>
+    <body>
+      <trans-unit id="RemoveFormatTooltip" xml:space="preserve" approved="yes">
+        <source>Remove format</source>
+      <target state="translated">Enlever le formatage</target></trans-unit>
+      <trans-unit id="Cleaning Area" xml:space="preserve" approved="yes">
+        <source>Cleaning Area</source>
+      <target state="translated">Zone à nettoyer</target></trans-unit>
+      <trans-unit id="Selection" xml:space="preserve" approved="yes">
+        <source>Selected text</source>
+      <target state="translated">Sélection courante</target></trans-unit>
+      <trans-unit id="All" xml:space="preserve" approved="yes">
+        <source>All</source>
+      <target state="translated">Tout</target></trans-unit>
+      <trans-unit id="Remove formatting" xml:space="preserve" approved="yes">
+        <source>Remove format</source>
+      <target state="translated">Supprimer le formatage</target></trans-unit>
+      <trans-unit id="Cleaning options" xml:space="preserve" approved="yes">
+        <source>Type(s) of format to remove</source>
+      <target state="translated">Type de formatage à supprimer</target></trans-unit>
+      <trans-unit id="Formatting:" xml:space="preserve" approved="yes">
+        <source>HTML Format:</source>
+      <target state="translated">Formatage HTML:</target></trans-unit>
+      <trans-unit id="MS Word Formatting:" xml:space="preserve" approved="yes">
+        <source>MS Word Format:</source>
+      <target state="translated">Formatage MS Word:</target></trans-unit>
+      <trans-unit id="Typographical punctuation:" xml:space="preserve" approved="yes">
+        <source>Typographical punctuation:</source>
+      <target state="translated">Ponctuation typographique:</target></trans-unit>
+      <trans-unit id="Spaces" xml:space="preserve" approved="yes">
+        <source>Non-breaking spaces:</source>
+      <target state="translated">Espaces insécables:</target></trans-unit>
+      <trans-unit id="Images:" xml:space="preserve" approved="yes">
+        <source>Images:</source>
+      <target state="translated">Images:</target></trans-unit>
+      <trans-unit id="All HTML:" xml:space="preserve" approved="yes">
+        <source>All HTML tags:</source>
+      <target state="translated">Toutes les balises HTML:</target></trans-unit>
+      <trans-unit id="Select the type of formatting you wish to remove." xml:space="preserve" approved="yes">
+        <source>Select the type(s) of format to remove.</source>
+      <target state="translated">Choisissez le type de formatage à enlever.</target></trans-unit>
+      <trans-unit id="OK" xml:space="preserve" approved="yes">
+        <source>OK</source>
+      <target state="translated">OK</target></trans-unit>
+      <trans-unit id="Cancel" xml:space="preserve" approved="yes">
+        <source>Cancel</source>
+      <target state="translated">Annuler</target></trans-unit>
+    </body>
+  </file>
+</xliff>

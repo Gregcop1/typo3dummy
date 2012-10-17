@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+      <label index="title">Aide TypoScprit</label>
+      <label index="display">Afficher l'aide TypoScript</label>
+      <label index="rebuild">Reconstruire l'aide TypoScript</label>
+      <label index="referenceExplanation">Choisissez à partir des données de référence suivantes</label>
+      <label index="referenceExplanationDetailed">Afin de disposer des différentes fenêtres d'aide de TypoScript, choisissez parmi les icônes suivantes. Cette aide en ligne est construite automatiquement à partir des manuels disponibles dans les extensions installées sur votre serveur TYPO3. Pour reconstruire les fichiers d'aide lorsque vous ajoutez ou supprimez une extension, vous devrez sélectionner la fonction de reconstruction de l'aide TypoScript proposée par ce module.</label>
+      <label index="displayReferences">Afficher l'aide TypoScript en ligne</label>
+      <label index="loadedTSfrom">TypoScript chargé à partir de:</label>
+      <label index="sections">sections</label>
+      <label index="rebuildTS">Reconstruire l'aide TypoScript en ligne</label>
+      <label index="warning_manualsWithoutMarkers">Les manuels suivants contiennent un ou plusieurs tableaux sans marqueurs:</label>
+      <label index="warning_duplicateMarkers">Les marqueurs suivants apparaissent dans plusieurs manuels ou plusieurs fois dans le même manuel:</label>
+      <label index="updateWarnings">Mise en garde suite à la mise à jour</label>
+      <label index="rebuildExplanation">La reconstruction de l'aide en ligne provoquera l'effacement des données avant analyse de l'aide TypoScript à partir des extensions chargées. Nous vous suggérons l'installation de doc_core_tsref et doc_core_tsconfig pour qu'ils soient pris en compte également.</label>
+      <label index="adminAccessOnly">L'accès à cette fonction du module est réservé aux administrateurs.</label>
+      <label index="noRebuildOnWindows">La fonction de reconstruction ne fonctionne pas sur les systèmes Windows. Désolé!</label>
+    </languageKey>
+  </data>
+</T3locallangExt>

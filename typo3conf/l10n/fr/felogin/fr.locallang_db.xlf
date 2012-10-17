@@ -1,0 +1,158 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff version="1.0">
+  <file source-language="en" datatype="plaintext" original="messages" date="2011-10-17T20:22:32Z" product-name="felogin" target-language="fr">
+    <header/>
+    <body>
+      <trans-unit id="tt_content.CType_pi1" xml:space="preserve" approved="yes">
+        <source>Website User Login</source>
+      <target state="translated">Connexion d'utilisateur web</target></trans-unit>
+      <trans-unit id="felogin_redirectPid" xml:space="preserve" approved="yes">
+        <source>Redirect at Login to Page (felogin)</source>
+      <target state="translated">Redirection à la connexion vers la page (felogin)</target></trans-unit>
+      <trans-unit id="tt_content.pi_flexform.general_header" xml:space="preserve" approved="yes">
+        <source>General Header</source>
+      <target state="translated">En-tête général</target></trans-unit>
+      <trans-unit id="tt_content.pi_flexform.general_message" xml:space="preserve" approved="yes">
+        <source>General Message</source>
+      <target state="translated">Message général</target></trans-unit>
+      <trans-unit id="tt_content.pi_flexform.redirect_header" xml:space="preserve" approved="yes">
+        <source>Redirect Header</source>
+      <target state="translated">En-tête de redirection</target></trans-unit>
+      <trans-unit id="tt_content.pi_flexform.redirect_message" xml:space="preserve" approved="yes">
+        <source>Redirect Message</source>
+      <target state="translated">Message de redirection</target></trans-unit>
+      <trans-unit id="tt_content.pi_flexform.welcome_header" xml:space="preserve" approved="yes">
+        <source>Welcome Header</source>
+      <target state="translated">En-tête de bienvenue</target></trans-unit>
+      <trans-unit id="tt_content.pi_flexform.welcome_message" xml:space="preserve" approved="yes">
+        <source>Welcome Message</source>
+      <target state="translated">Message de bienvenue</target></trans-unit>
+      <trans-unit id="tt_content.pi_flexform.success_header" xml:space="preserve" approved="yes">
+        <source>Login Success Header</source>
+      <target state="translated">En-tête succès de connexion</target></trans-unit>
+      <trans-unit id="tt_content.pi_flexform.success_message" xml:space="preserve" approved="yes">
+        <source>Login Success Message</source>
+      <target state="translated">Message succès de connexion</target></trans-unit>
+      <trans-unit id="tt_content.pi_flexform.error_header" xml:space="preserve" approved="yes">
+        <source>Login Error Header</source>
+      <target state="translated">En-tête erreur de connexion</target></trans-unit>
+      <trans-unit id="tt_content.pi_flexform.error_message" xml:space="preserve" approved="yes">
+        <source>Login Error Message</source>
+      <target state="translated">Message erreur de connexion</target></trans-unit>
+      <trans-unit id="tt_content.pi_flexform.status_header" xml:space="preserve" approved="yes">
+        <source>Status Display Header</source>
+      <target state="translated">En-tête affichage de l'état</target></trans-unit>
+      <trans-unit id="tt_content.pi_flexform.status_message" xml:space="preserve" approved="yes">
+        <source>Status Display Message</source>
+      <target state="translated">Message affichage de l'état</target></trans-unit>
+      <trans-unit id="tt_content.pi_flexform.logout_header" xml:space="preserve" approved="yes">
+        <source>Logout Header</source>
+      <target state="translated">En-tête déconnexion</target></trans-unit>
+      <trans-unit id="tt_content.pi_flexform.logout_message" xml:space="preserve" approved="yes">
+        <source>Logout Message</source>
+      <target state="translated">Message déconnexion</target></trans-unit>
+      <trans-unit id="tt_content.pi_flexform.forgot_header" xml:space="preserve" approved="yes">
+        <source>Forgot Password Header</source>
+      <target state="translated">En-tête mot de passe oublié</target></trans-unit>
+      <trans-unit id="tt_content.pi_flexform.forgot_message" xml:space="preserve" approved="yes">
+        <source>Forgot Password Message</source>
+      <target state="translated">Message mot de passe oublié</target></trans-unit>
+      <trans-unit id="tt_content.pi_flexform.sheet_general" xml:space="preserve" approved="yes">
+        <source>General</source>
+      <target state="translated">Général</target></trans-unit>
+      <trans-unit id="tt_content.pi_flexform.sheet_redirect" xml:space="preserve" approved="yes">
+        <source>Redirects</source>
+      <target state="translated">Redirections</target></trans-unit>
+      <trans-unit id="tt_content.pi_flexform.sheet_messages" xml:space="preserve" approved="yes">
+        <source>Messages</source>
+      <target state="translated">Messages</target></trans-unit>
+      <trans-unit id="tt_content.pi_flexform.show_forgot_password" xml:space="preserve" approved="yes">
+        <source>Display Password Recovery Link</source>
+      <target state="translated">Afficher le lien "Mot de passe oublié?"</target></trans-unit>
+      <trans-unit id="tt_content.pi_flexform.show_permalogin" xml:space="preserve" approved="yes">
+        <source>Display Remember Login Option</source>
+      <target state="translated">Afficher l'option "Rester connecté"</target></trans-unit>
+      <trans-unit id="tt_content.pi_flexform.show_logoutFormAfterLogin" xml:space="preserve" approved="yes">
+        <source>Display Logout Form After Successful Login</source>
+      <target state="translated">Afficher le formulaire de déconnexion après une connexion réussie</target></trans-unit>
+      <trans-unit id="tt_content.pi_flexform.groupSelectmode" xml:space="preserve" approved="yes">
+        <source>FE group select mode:</source>
+      <target state="translated">Mode de sélection groupe FE :</target></trans-unit>
+      <trans-unit id="tt_content.pi_flexform.groupSelectmode_showAll" xml:space="preserve" approved="yes">
+        <source>Show all</source>
+      <target state="translated">Tout afficher</target></trans-unit>
+      <trans-unit id="tt_content.pi_flexform.groupSelectmode_showSelected" xml:space="preserve" approved="yes">
+        <source>Show selected</source>
+      <target state="translated">Afficher sélectionné</target></trans-unit>
+      <trans-unit id="tt_content.pi_flexform.groupSelectmode_DontShowSelected" xml:space="preserve" approved="yes">
+        <source>Dont show selected</source>
+      <target state="translated">Ne pas afficher sélectionné</target></trans-unit>
+      <trans-unit id="tt_content.pi_flexform.groupSelectmode_FromTS" xml:space="preserve" approved="yes">
+        <source>(from Typoscript)</source>
+      <target state="translated">(de Typoscript)</target></trans-unit>
+      <trans-unit id="tt_content.pi_flexform.groupSelection" xml:space="preserve" approved="yes">
+        <source>FE group selection:</source>
+      <target state="translated">Sélection groupe FE :</target></trans-unit>
+      <trans-unit id="tt_content.pi_flexform.groupSelection_noGroup" xml:space="preserve" approved="yes">
+        <source>no group</source>
+      <target state="translated">Pas de groupe</target></trans-unit>
+      <trans-unit id="tt_content.pi_flexform.field_manualOrder" xml:space="preserve" approved="yes">
+        <source>Using fieldlists below:</source>
+      <target state="translated">Utiliser les champs suivant :</target></trans-unit>
+      <trans-unit id="tt_content.pi_flexform.field_orderList" xml:space="preserve" approved="yes">
+        <source>User Fields/list:</source>
+      <target state="translated">Champs (liste) :</target></trans-unit>
+      <trans-unit id="tt_content.pi_flexform.field_orderDetails" xml:space="preserve" approved="yes">
+        <source>User Fields/details:</source>
+      <target state="translated">Champs (détails) :</target></trans-unit>
+      <trans-unit id="tt_content.pi_flexform.redirectMode" xml:space="preserve" approved="yes">
+        <source>Redirect Mode</source>
+      <target state="translated">Mode de redirection</target></trans-unit>
+      <trans-unit id="tt_content.pi_flexform.redirectMode.I.0" xml:space="preserve" approved="yes">
+        <source>Defined by Usergroup Record</source>
+      <target state="translated">Défini par l'enregistrement "Groupe d'utilisateurs"</target></trans-unit>
+      <trans-unit id="tt_content.pi_flexform.redirectMode.I.1" xml:space="preserve" approved="yes">
+        <source>Defined by User Record</source>
+      <target state="translated">Défini par l'enregistrement "Utilisateurs"</target></trans-unit>
+      <trans-unit id="tt_content.pi_flexform.redirectMode.I.2" xml:space="preserve" approved="yes">
+        <source>After Login (TS or Flexform)</source>
+      <target state="translated">Après la connexion (TS ou Flexform)</target></trans-unit>
+      <trans-unit id="tt_content.pi_flexform.redirectMode.I.3" xml:space="preserve" approved="yes">
+        <source>After Logout (TS or Flexform)</source>
+      <target state="translated">Après la déconnexion (TS ou Flexform)</target></trans-unit>
+      <trans-unit id="tt_content.pi_flexform.redirectMode.I.4" xml:space="preserve" approved="yes">
+        <source>After Login Error (TS or Flexform)</source>
+      <target state="translated">Après une erreur de connexion (TS ou Flexform)</target></trans-unit>
+      <trans-unit id="tt_content.pi_flexform.redirectMode.I.5" xml:space="preserve" approved="yes">
+        <source>Defined by GET/POST Parameters</source>
+      <target state="translated">Défini par les paramètres GET/POST</target></trans-unit>
+      <trans-unit id="tt_content.pi_flexform.redirectMode.I.6" xml:space="preserve" approved="yes">
+        <source>Defined by Referrer</source>
+      <target state="translated">Défini par le référent</target></trans-unit>
+      <trans-unit id="tt_content.pi_flexform.redirectMode.I.7" xml:space="preserve" approved="yes">
+        <source>Defined by Domain Entries</source>
+      <target state="translated">Défini par des enregistrements "Domaines"</target></trans-unit>
+      <trans-unit id="tt_content.pi_flexform.redirectFirstMethod" xml:space="preserve" approved="yes">
+        <source>Use First Supported Mode from Selection</source>
+      <target state="translated">Utiliser le premier mode supporté pour la sélection</target></trans-unit>
+      <trans-unit id="tt_content.pi_flexform.redirectDisable" xml:space="preserve" approved="yes">
+        <source>Disable Redirect</source>
+      <target state="translated">Désactiver les redirections</target></trans-unit>
+      <trans-unit id="tt_content.pi_flexform.redirectPageLogin" xml:space="preserve" approved="yes">
+        <source>After Successful Login Redirect to Page</source>
+      <target state="translated">Après une connexion réussie, redirection vers la page</target></trans-unit>
+      <trans-unit id="tt_content.pi_flexform.redirectPageLoginError" xml:space="preserve" approved="yes">
+        <source>After Failed Login Redirect to Page</source>
+      <target state="translated">Après connexion échouée, redirection vers la page</target></trans-unit>
+      <trans-unit id="tt_content.pi_flexform.redirectPageLogout" xml:space="preserve" approved="yes">
+        <source>After Logout Redirect to Page</source>
+      <target state="translated">Après une déconnexion, redirection vers la page</target></trans-unit>
+      <trans-unit id="tt_content.pi_flexform.template_file" xml:space="preserve" approved="yes">
+        <source>Template File</source>
+      <target state="translated">Fichier de gabarit</target></trans-unit>
+      <trans-unit id="tt_content.pi_flexform.user_storage" xml:space="preserve" approved="yes">
+        <source>User Storage Page</source>
+      <target state="translated">Page de stockage des utilisateurs</target></trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,200 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff version="1.0">
+  <file source-language="en" datatype="plaintext" original="messages" date="2011-10-17T20:22:33Z" product-name="lang" target-language="fr">
+    <header/>
+    <body>
+      <trans-unit id="about" xml:space="preserve" approved="yes">
+        <source>About</source>
+      <target state="translated">A propos</target></trans-unit>
+      <trans-unit id="and" xml:space="preserve" approved="yes">
+        <source>and</source>
+      <target state="translated">et</target></trans-unit>
+      <trans-unit id="ascending" xml:space="preserve" approved="yes">
+        <source>Ascending</source>
+      <target state="translated">Croissant</target></trans-unit>
+      <trans-unit id="back" xml:space="preserve" approved="yes">
+        <source>Back</source>
+      <target state="translated">Retour</target></trans-unit>
+      <trans-unit id="byteSizeUnits" xml:space="preserve" approved="yes">
+        <source> B| KB| MB| GB</source>
+      <target state="translated">o| ko| Mo| Go</target></trans-unit>
+      <trans-unit id="cancel" xml:space="preserve" approved="yes">
+        <source>Cancel</source>
+      <target state="translated">Annuler</target></trans-unit>
+      <trans-unit id="category" xml:space="preserve" approved="yes">
+        <source>Category</source>
+      <target state="translated">Catégorie</target></trans-unit>
+      <trans-unit id="close" xml:space="preserve" approved="yes">
+        <source>Close</source>
+      <target state="translated">Fermer</target></trans-unit>
+      <trans-unit id="delete" xml:space="preserve" approved="yes">
+        <source>Delete</source>
+      <target state="translated">Supprimer</target></trans-unit>
+      <trans-unit id="descending" xml:space="preserve" approved="yes">
+        <source>Descending</source>
+      <target state="translated">Décroissant</target></trans-unit>
+      <trans-unit id="details" xml:space="preserve" approved="yes">
+        <source>Details</source>
+      <target state="translated">Détails</target></trans-unit>
+      <trans-unit id="disable" xml:space="preserve" approved="yes">
+        <source>Disable</source>
+      <target state="translated">Désactiver</target></trans-unit>
+      <trans-unit id="disabled" xml:space="preserve" approved="yes">
+        <source>Disabled</source>
+      <target state="translated">Désactivé</target></trans-unit>
+      <trans-unit id="down" xml:space="preserve" approved="yes">
+        <source>Down</source>
+      <target state="translated">Descendre</target></trans-unit>
+      <trans-unit id="download" xml:space="preserve" approved="yes">
+        <source>Download</source>
+      <target state="translated">Télécharger</target></trans-unit>
+      <trans-unit id="edit" xml:space="preserve" approved="yes">
+        <source>Edit</source>
+      <target state="translated">Modifier</target></trans-unit>
+      <trans-unit id="editField" xml:space="preserve" approved="yes">
+        <source>Edit field</source>
+      <target state="translated">Modifier le champ</target></trans-unit>
+      <trans-unit id="editFile" xml:space="preserve" approved="yes">
+        <source>Edit file</source>
+      <target state="translated">Modifier le fichier</target></trans-unit>
+      <trans-unit id="enable" xml:space="preserve" approved="yes">
+        <source>Enable</source>
+      <target state="translated">Activer</target></trans-unit>
+      <trans-unit id="enabled" xml:space="preserve" approved="yes">
+        <source>Enabled</source>
+      <target state="translated">Activé</target></trans-unit>
+      <trans-unit id="file" xml:space="preserve" approved="yes">
+        <source>File</source>
+      <target state="translated">Fichier</target></trans-unit>
+      <trans-unit id="files" xml:space="preserve" approved="yes">
+        <source>Files</source>
+      <target state="translated">Fichiers</target></trans-unit>
+      <trans-unit id="first" xml:space="preserve" approved="yes">
+        <source>First</source>
+      <target state="translated">Premier</target></trans-unit>
+      <trans-unit id="from" xml:space="preserve" approved="yes">
+        <source>From</source>
+      <target state="translated">De</target></trans-unit>
+      <trans-unit id="go" xml:space="preserve" approved="yes">
+        <source>Go</source>
+      <target state="translated">Aller</target></trans-unit>
+      <trans-unit id="goTo" xml:space="preserve" approved="yes">
+        <source>Go to</source>
+      <target state="translated">Aller à</target></trans-unit>
+      <trans-unit id="help" xml:space="preserve" approved="yes">
+        <source>Help</source>
+      <target state="translated">Aide</target></trans-unit>
+      <trans-unit id="item" xml:space="preserve" approved="yes">
+        <source>Item</source>
+      <target state="translated">Elément</target></trans-unit>
+      <trans-unit id="items" xml:space="preserve" approved="yes">
+        <source>Items</source>
+      <target state="translated">Eléments</target></trans-unit>
+      <trans-unit id="last" xml:space="preserve" approved="yes">
+        <source>Last</source>
+      <target state="translated">Dernier</target></trans-unit>
+      <trans-unit id="left" xml:space="preserve" approved="yes">
+        <source>Left</source>
+      <target state="translated">Gauche</target></trans-unit>
+      <trans-unit id="login" xml:space="preserve" approved="yes">
+        <source>Login</source>
+      <target state="translated">Connexion</target></trans-unit>
+      <trans-unit id="logout" xml:space="preserve" approved="yes">
+        <source>Logout</source>
+      <target state="translated">Déconnexion</target></trans-unit>
+      <trans-unit id="more" xml:space="preserve" approved="yes">
+        <source>More</source>
+      <target state="translated">Plus</target></trans-unit>
+      <trans-unit id="move" xml:space="preserve" approved="yes">
+        <source>Move</source>
+      <target state="translated">Déplacer</target></trans-unit>
+      <trans-unit id="new" xml:space="preserve" approved="yes">
+        <source>New</source>
+      <target state="translated">Nouveau</target></trans-unit>
+      <trans-unit id="next" xml:space="preserve" approved="yes">
+        <source>Next</source>
+      <target state="translated">Suivant</target></trans-unit>
+      <trans-unit id="no" xml:space="preserve" approved="yes">
+        <source>No</source>
+      <target state="translated">Non</target></trans-unit>
+      <trans-unit id="ok" xml:space="preserve" approved="yes">
+        <source>OK</source>
+      <target state="translated">Ok</target></trans-unit>
+      <trans-unit id="open" xml:space="preserve" approved="yes">
+        <source>Open</source>
+      <target state="translated">Ouvrir</target></trans-unit>
+      <trans-unit id="page" xml:space="preserve" approved="yes">
+        <source>Page</source>
+      <target state="translated">Page</target></trans-unit>
+      <trans-unit id="pages" xml:space="preserve" approved="yes">
+        <source>Pages</source>
+      <target state="translated">Pages</target></trans-unit>
+      <trans-unit id="previous" xml:space="preserve" approved="yes">
+        <source>Previous</source>
+      <target state="translated">Précédent</target></trans-unit>
+      <trans-unit id="print" xml:space="preserve" approved="yes">
+        <source>Print</source>
+      <target state="translated">Imprimer</target></trans-unit>
+      <trans-unit id="reload" xml:space="preserve" approved="yes">
+        <source>Reload</source>
+      <target state="translated">Rafraîchir</target></trans-unit>
+      <trans-unit id="right" xml:space="preserve" approved="yes">
+        <source>Right</source>
+      <target state="translated">Droite</target></trans-unit>
+      <trans-unit id="save" xml:space="preserve" approved="yes">
+        <source>Save</source>
+      <target state="translated">Enregistrer</target></trans-unit>
+      <trans-unit id="saveAndClose" xml:space="preserve" approved="yes">
+        <source>Save and close</source>
+      <target state="translated">Enregistrer et fermer</target></trans-unit>
+      <trans-unit id="saveAndCloseDoc" xml:space="preserve" approved="yes">
+        <source>Save and close document</source>
+      <target state="translated">Enregistrer et fermer le document</target></trans-unit>
+      <trans-unit id="saveAndCreateNewDoc" xml:space="preserve" approved="yes">
+        <source>Save and create new document</source>
+      <target state="translated">Enregistrer et créer un nouveau document</target></trans-unit>
+      <trans-unit id="saveAndViewPage" xml:space="preserve" approved="yes">
+        <source>Save and view page</source>
+      <target state="translated">Enregistrer et voir la page</target></trans-unit>
+      <trans-unit id="search" xml:space="preserve" approved="yes">
+        <source>Search</source>
+      <target state="translated">Chercher</target></trans-unit>
+      <trans-unit id="send" xml:space="preserve" approved="yes">
+        <source>Send</source>
+      <target state="translated">Envoyer</target></trans-unit>
+      <trans-unit id="start" xml:space="preserve" approved="yes">
+        <source>Start</source>
+      <target state="translated">Lancement</target></trans-unit>
+      <trans-unit id="stop" xml:space="preserve" approved="yes">
+        <source>Stop</source>
+      <target state="translated">Arrêt</target></trans-unit>
+      <trans-unit id="submit" xml:space="preserve" approved="yes">
+        <source>Submit</source>
+      <target state="translated">Valider</target></trans-unit>
+      <trans-unit id="to" xml:space="preserve" approved="yes">
+        <source>To</source>
+      <target state="translated">A</target></trans-unit>
+      <trans-unit id="tsRef" xml:space="preserve" approved="yes">
+        <source>TSref reference</source>
+      <target state="translated">Référence TSref</target></trans-unit>
+      <trans-unit id="up" xml:space="preserve" approved="yes">
+        <source>Up</source>
+      <target state="translated">Haut</target></trans-unit>
+      <trans-unit id="upload" xml:space="preserve" approved="yes">
+        <source>Upload</source>
+      <target state="translated">Envoyer</target></trans-unit>
+      <trans-unit id="user" xml:space="preserve" approved="yes">
+        <source>User</source>
+      <target state="translated">Utilisateur</target></trans-unit>
+      <trans-unit id="users" xml:space="preserve" approved="yes">
+        <source>Users</source>
+      <target state="translated">Utilisateurs</target></trans-unit>
+      <trans-unit id="view" xml:space="preserve" approved="yes">
+        <source>View</source>
+      <target state="translated">Voir</target><note>Voir ou Vue ?</note></trans-unit>
+      <trans-unit id="yes" xml:space="preserve" approved="yes">
+        <source>Yes</source>
+      <target state="translated">Oui</target></trans-unit>
+    </body>
+  </file>
+</xliff>

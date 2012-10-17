@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff version="1.0">
+  <file source-language="en" datatype="plaintext" original="messages" date="2011-10-17T20:22:35Z" product-name="rtehtmlarea" target-language="fr">
+    <header/>
+    <body>
+      <trans-unit id="Indent-Tooltip" xml:space="preserve" approved="yes">
+        <source>Increase indent</source>
+      <target state="translated">Augmenter le retrait</target></trans-unit>
+      <trans-unit id="Indent-helpText" xml:space="preserve" approved="yes">
+        <source>Increases text indentation</source>
+      <target state="translated">Augmenter l'identation du texte</target></trans-unit>
+      <trans-unit id="Outdent-Tooltip" xml:space="preserve" approved="yes">
+        <source>Reduce indent</source>
+      <target state="translated">Réduire le retrait</target></trans-unit>
+      <trans-unit id="Outdent-helpText" xml:space="preserve" approved="yes">
+        <source>Reduces text indentation</source>
+      <target state="translated">Réduire l'identation du texte</target></trans-unit>
+      <trans-unit id="Blockquote-Tooltip" xml:space="preserve" approved="yes">
+        <source>Large quotation</source>
+      <target state="translated">Bloc de citation</target></trans-unit>
+      <trans-unit id="Blockquote-helpText" xml:space="preserve" approved="yes">
+        <source>Makes a large quotation block</source>
+      <target state="translated">Créer un large bloque de cote</target></trans-unit>
+      <trans-unit id="FormatBlock-Tooltip" xml:space="preserve" approved="yes">
+        <source>Type of block</source>
+      <target state="translated">Type de bloc</target></trans-unit>
+      <trans-unit id="InsertParagraphBefore-Tooltip" xml:space="preserve" approved="yes">
+        <source>Insert a paragraph before the current block</source>
+      <target state="translated">Insérer un paragraphe avant le bloc courant</target></trans-unit>
+      <trans-unit id="InsertParagraphBefore-contextMenuTitle" xml:space="preserve" approved="yes">
+        <source>Insert paragraph before</source>
+      <target state="translated">Insérer un paragraphe avant</target></trans-unit>
+      <trans-unit id="InsertParagraphBefore-helpText" xml:space="preserve" approved="yes">
+        <source>Inserts a paragraph before the current block</source>
+      <target state="translated">Insérer un paragraphe avant le bloque en cours</target></trans-unit>
+      <trans-unit id="InsertParagraphAfter-Tooltip" xml:space="preserve" approved="yes">
+        <source>Insert a paragraph after the current block</source>
+      <target state="translated">Insérer un paragraphe après le bloc courant</target></trans-unit>
+      <trans-unit id="InsertParagraphAfter-contextMenuTitle" xml:space="preserve" approved="yes">
+        <source>Insert paragraph after</source>
+      <target state="translated">Insérer un paragraphe après</target></trans-unit>
+      <trans-unit id="InsertParagraphAfter-helpText" xml:space="preserve" approved="yes">
+        <source>Inserts a paragraph after the current block</source>
+      <target state="translated">Insérer un paragraphe avant le bloque courant</target></trans-unit>
+      <trans-unit id="JustifyLeft-Tooltip" xml:space="preserve" approved="yes">
+        <source>Justify left</source>
+      <target state="translated">Justifié à gauche</target></trans-unit>
+      <trans-unit id="JustifyLeft-helpText" xml:space="preserve" approved="yes">
+        <source>Aligns the text to the left</source>
+      <target state="translated">Aligner le texte à gauche</target></trans-unit>
+      <trans-unit id="JustifyCenter-Tooltip" xml:space="preserve" approved="yes">
+        <source>Center</source>
+      <target state="translated">Centré</target></trans-unit>
+      <trans-unit id="JustifyCenter-helpText" xml:space="preserve" approved="yes">
+        <source>Centers the text</source>
+      <target state="translated">Centrer le texte</target></trans-unit>
+      <trans-unit id="JustifyRight-Tooltip" xml:space="preserve" approved="yes">
+        <source>Justify right</source>
+      <target state="translated">Justifié à droite</target></trans-unit>
+      <trans-unit id="JustifyRight-helpText" xml:space="preserve" approved="yes">
+        <source>Aligns the text to the right</source>
+      <target state="translated">Aligner le texte sur la droite</target></trans-unit>
+      <trans-unit id="JustifyFull-Tooltip" xml:space="preserve" approved="yes">
+        <source>Justify left and right</source>
+      <target state="translated">Justifié à gauche et à droite</target></trans-unit>
+      <trans-unit id="JustifyFull-helpText" xml:space="preserve" approved="yes">
+        <source>Aligns the text both to the left and the right</source>
+      <target state="translated">Aligner le texte à la fois à gauche et à droite.</target></trans-unit>
+      <trans-unit id="Left-Tooltip" xml:space="preserve" approved="yes">
+        <source>Left</source>
+      <target state="translated">Gauche</target></trans-unit>
+      <trans-unit id="InsertOrderedList-Tooltip" xml:space="preserve" approved="yes">
+        <source>Ordered List</source>
+      <target state="translated">Liste ordonnée</target></trans-unit>
+      <trans-unit id="InsertOrderedList-helpText" xml:space="preserve" approved="yes">
+        <source>Makes an ordered list from the curent selection</source>
+      <target state="translated">Faire une liste ordonnée avec la sélection en cours</target></trans-unit>
+      <trans-unit id="InsertUnorderedList-Tooltip" xml:space="preserve" approved="yes">
+        <source>Bulleted List</source>
+      <target state="translated">Liste à puces</target></trans-unit>
+      <trans-unit id="InsertUnorderedList-helpText" xml:space="preserve" approved="yes">
+        <source>Makes an bulleted list from the curent selection</source>
+      <target state="translated">Faire une liste à puce avec la sélection en cours</target></trans-unit>
+      <trans-unit id="InsertHorizontalRule-Tooltip" xml:space="preserve" approved="yes">
+        <source>Horizontal Rule</source>
+      <target state="translated">Barre horizontale</target></trans-unit>
+      <trans-unit id="InsertHorizontalRule-helpText" xml:space="preserve" approved="yes">
+        <source>Inserts an horizontal rule</source>
+      <target state="translated">Insérer une règle horizontale</target></trans-unit>
+      <trans-unit id="No block" xml:space="preserve" approved="yes">
+        <source>No block format</source>
+      <target state="translated">Aucun format de bloc</target></trans-unit>
+      <trans-unit id="Remove block" xml:space="preserve" approved="yes">
+        <source>Remove block format</source>
+      <target state="translated">Supprimer le format du bloc</target></trans-unit>
+      <trans-unit id="Technische Universitat Ilmenau" xml:space="preserve" approved="yes">
+        <source>Technische Universität Ilmenau</source>
+      <target state="translated">Technische Universität Ilmenau</target></trans-unit>
+    </body>
+  </file>
+</xliff>

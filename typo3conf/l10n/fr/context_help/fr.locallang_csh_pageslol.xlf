@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff version="1.0">
+  <file source-language="en" datatype="plaintext" original="messages" date="2011-10-17T20:22:32Z" product-name="context_help" target-language="fr">
+    <header/>
+    <body>
+      <trans-unit id=".description" xml:space="preserve" approved="yes">
+        <source>Represents an alternative language for the page.</source>
+      <target state="translated">Représente une langue alternative pour la page.</target></trans-unit>
+      <trans-unit id=".details" xml:space="preserve">
+        <source>These records contains fields very similar to the Page records, exactly those fields which should be translated to another language in case you want a localized version of the page.
+Create only ONE Alternative Page Language record of a specific language in each page. Having more than one record will leave it uncertain which of them is used when the page is displayed.
+
+Before you can create Alternative Page Language records you should create a 'master' language to be available in the root of the website ("Website Language")
+The TypoScript template must be configured to allow other languages as well.
+
+Technically when an alternative language is being viewed, the content of the Alternative Page Language record is simply overlaid on the actual page records thus substituting the content of the fields in the default language.</source>
+      </trans-unit>
+      <trans-unit id="_.seeAlso" xml:space="preserve" approved="yes">
+        <source>sys_language,
+_MOD_web_layout:language_list</source>
+      <target state="translated">sys_language,
+_MOD_web_layout:language_list</target></trans-unit>
+      <trans-unit id="hidden.description" xml:space="preserve">
+        <source>Use this to temporarily disable the alternative language overlay for this page.</source>
+      </trans-unit>
+      <trans-unit id="hidden.details" xml:space="preserve">
+        <source>Setting this option is practical in the phase of adding the extra language. When it is set, the alternative content will not be displayed unless you - as an logged in backend user - enableds the Admin Panel&gt;Preview&gt;Show hidden records option.</source>
+      </trans-unit>
+      <trans-unit id="_hidden.seeAlso" xml:space="preserve" approved="yes">
+        <source>pages_language_overlay:starttime,
+pages_language_overlay:endtime</source>
+        <target state="translated">pages_language_overlay:starttime,
+pages_language_overlay:endtime</target><note from="developer">This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+      <note>This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note></trans-unit>
+      <trans-unit id="starttime.description" xml:space="preserve">
+        <source>The 'Start' time determines the date from which the alternative language will be available online.</source>
+      </trans-unit>
+      <trans-unit id="_starttime.seeAlso" xml:space="preserve" approved="yes">
+        <source>pages_language_overlay:endtime,
+pages_language_overlay:hidden,
+pages:starttime</source>
+        <target state="translated">pages_language_overlay:endtime,
+pages_language_overlay:hidden,
+pages:starttime</target><note from="developer">This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+      <note>This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note></trans-unit>
+      <trans-unit id="endtime.description" xml:space="preserve">
+        <source>The 'End' time determines the date from which the alternative language will be available online.</source>
+      </trans-unit>
+      <trans-unit id="_endtime.seeAlso" xml:space="preserve" approved="yes">
+        <source>pages_language_overlay:starttime,
+pages_language_overlay:hidden,
+pages:endtime</source>
+        <target state="translated">pages_language_overlay:starttime,
+pages_language_overlay:hidden,
+pages:endtime</target><note from="developer">This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+      <note>This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note></trans-unit>
+      <trans-unit id="title.description" xml:space="preserve" approved="yes">
+        <source>Enter the title of the alternative language.</source>
+      <target state="translated">Saisissez le titre de la langue alternative.</target></trans-unit>
+      <trans-unit id="_title.seeAlso" xml:space="preserve" approved="yes">
+        <source>pages:title</source>
+        <target state="translated">pages:title</target><note from="developer">This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+      <note>This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note></trans-unit>
+      <trans-unit id="subtitle.description" xml:space="preserve" approved="yes">
+        <source>Enter the subtitle of the alternative language.</source>
+      <target state="translated">Saisissez le sous-titre de la langue alternative.</target></trans-unit>
+      <trans-unit id="_subtitle.seeAlso" xml:space="preserve" approved="yes">
+        <source>pages:subtitle</source>
+        <target state="translated">pages:subtitle</target><note from="developer">This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+      <note>This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note></trans-unit>
+      <trans-unit id="keywords.description" xml:space="preserve" approved="yes">
+        <source>Enter the keywords of the alternative language.</source>
+      <target state="translated">Ajoutez les mots-clés de la langue alternative.</target></trans-unit>
+      <trans-unit id="_keywords.seeAlso" xml:space="preserve" approved="yes">
+        <source>pages:keywords</source>
+        <target state="translated">pages:keywords</target><note from="developer">This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+      <note>This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note></trans-unit>
+      <trans-unit id="description.description" xml:space="preserve" approved="yes">
+        <source>Enter the description of the alternative language.</source>
+      <target state="translated">Entrez la description de la langue alternative.</target></trans-unit>
+      <trans-unit id="_description.seeAlso" xml:space="preserve" approved="yes">
+        <source>pages:description</source>
+        <target state="translated">pages:description</target><note from="developer">This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+      <note>This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note></trans-unit>
+      <trans-unit id="abstract.description" xml:space="preserve" approved="yes">
+        <source>Enter the abstract of the alternative language.</source>
+      <target state="translated">Saisissez un résumé de la langue alternative.</target></trans-unit>
+      <trans-unit id="_abstract.seeAlso" xml:space="preserve" approved="yes">
+        <source>pages:abstract</source>
+        <target state="translated">pages:abstract</target><note from="developer">This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+      <note>This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note></trans-unit>
+      <trans-unit id="author.description" xml:space="preserve" approved="yes">
+        <source>Enter the author of the alternative language.</source>
+      <target state="translated">Saisissez l'auteur de la langue alternative.</target></trans-unit>
+      <trans-unit id="_author.seeAlso" xml:space="preserve" approved="yes">
+        <source>pages:author</source>
+        <target state="translated">pages:author</target><note from="developer">This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+      <note>This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note></trans-unit>
+      <trans-unit id="author_email.description" xml:space="preserve" approved="yes">
+        <source>Enter the author email address of the alternative language.</source>
+      <target state="translated">Saisissez l'adresse e-mail de l'auteur de la langue alternative.</target></trans-unit>
+      <trans-unit id="_author_email.seeAlso" xml:space="preserve" approved="yes">
+        <source>pages:author_email</source>
+        <target state="translated">pages:author_email</target><note from="developer">This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+      <note>This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note></trans-unit>
+      <trans-unit id="media.description" xml:space="preserve" approved="no">
+        <source>Enter the media files of the alternative language.</source>
+      <target state="needs-translation">Saisissez le titre de la langue alternative.</target><note>84%</note></trans-unit>
+      <trans-unit id="_media.seeAlso" xml:space="preserve" approved="yes">
+        <source>pages:media</source>
+        <target state="translated">pages:media</target><note from="developer">This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note>
+      <note>This string contains an internal text, which must not be changed. Just copy the original text into the translation field. For more information have a look at the Tutorial.</note></trans-unit>
+      <trans-unit id="sys_language_uid.description" xml:space="preserve" approved="yes">
+        <source>Select the Alternative Language represented by this record.</source>
+      <target state="translated">Sélectionnez la langue alternative pour cet enregistrement.</target></trans-unit>
+      <trans-unit id="_sys_language_uid.seeAlso" xml:space="preserve" approved="yes">
+        <source>sys_language,
+sys_language:title</source>
+      <target state="translated">sys_language,
+sys_language:title</target></trans-unit>
+      <trans-unit id="nav_title.description" xml:space="preserve" approved="yes">
+        <source>Enter optional navigation title of the alternative language.</source>
+      <target state="translated">Entrez un titre de navigation optionel pour la langue alternative.</target></trans-unit>
+    </body>
+  </file>
+</xliff>

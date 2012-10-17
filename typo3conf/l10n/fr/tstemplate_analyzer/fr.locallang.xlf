@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff version="1.0">
+  <file source-language="en" datatype="plaintext" original="messages" date="2011-10-17T20:22:37Z" product-name="tstemplate_analyzer" target-language="fr">
+    <header/>
+    <body>
+      <trans-unit id="currentTemplate" xml:space="preserve" approved="yes">
+        <source>Current template</source>
+      <target state="translated">Gabarit courant :</target></trans-unit>
+      <trans-unit id="title" xml:space="preserve" approved="yes">
+        <source>Title</source>
+      <target state="translated">Titre</target></trans-unit>
+      <trans-unit id="rootlevel" xml:space="preserve" approved="yes">
+        <source>Rootlevel</source>
+      <target state="translated">Niveau racine</target></trans-unit>
+      <trans-unit id="clearSetup" xml:space="preserve" approved="yes">
+        <source>Clear Setup</source>
+      <target state="translated">Effacer le Setup</target><note>Setup n'est pas traduit car il fait partie du jargon de TYPO3.</note></trans-unit>
+      <trans-unit id="clearConstants" xml:space="preserve" approved="yes">
+        <source>Clear Constants</source>
+      <target state="translated">Effacer les constantes</target></trans-unit>
+      <trans-unit id="pid" xml:space="preserve" approved="yes">
+        <source>PID</source>
+      <target state="translated">PID</target></trans-unit>
+      <trans-unit id="rootline" xml:space="preserve" approved="yes">
+        <source>Rootline</source>
+      <target state="translated">Fil d'ariane</target></trans-unit>
+      <trans-unit id="nextLevel" xml:space="preserve" approved="yes">
+        <source>Next Level</source>
+      <target state="translated">Niveau suivant</target></trans-unit>
+      <trans-unit id="templateHierarchy" xml:space="preserve" approved="yes">
+        <source>Template hierarchy</source>
+      <target state="translated">Hiérarchie de gabarits :</target></trans-unit>
+      <trans-unit id="displayOptions" xml:space="preserve" approved="yes">
+        <source>Display Options</source>
+      <target state="translated">Options d'affichage</target></trans-unit>
+      <trans-unit id="lineNumbers" xml:space="preserve" approved="yes">
+        <source>Line numbers</source>
+      <target state="translated">Numéros de lignes</target></trans-unit>
+      <trans-unit id="syntaxHighlight" xml:space="preserve" approved="yes">
+        <source>Syntax highlight</source>
+      <target state="translated">Surligner la syntaxe</target></trans-unit>
+      <trans-unit id="comments" xml:space="preserve" approved="yes">
+        <source>Comments</source>
+      <target state="translated">Commentaires</target></trans-unit>
+      <trans-unit id="cropLines" xml:space="preserve" approved="yes">
+        <source>Crop lines</source>
+      <target state="translated">Couper les lignes</target></trans-unit>
+      <trans-unit id="blockMode" xml:space="preserve" approved="yes">
+        <source>Block mode</source>
+      <target state="translated">Mode bloc</target></trans-unit>
+      <trans-unit id="constants" xml:space="preserve" approved="yes">
+        <source>Constants</source>
+      <target state="translated">Constantes :</target></trans-unit>
+      <trans-unit id="setup" xml:space="preserve" approved="yes">
+        <source>Setup</source>
+      <target state="translated">Setup :</target><note>Non traduit car Setup fait partie du jargon de TYPO3.</note></trans-unit>
+      <trans-unit id="viewCompleteTS" xml:space="preserve" approved="yes">
+        <source>View the complete TS Listing</source>
+      <target state="translated">Voir le listing TS complet</target></trans-unit>
+      <trans-unit id="completeTS" xml:space="preserve" approved="yes">
+        <source>Complete TS</source>
+      <target state="translated">TS complet :</target></trans-unit>
+    </body>
+  </file>
+</xliff>

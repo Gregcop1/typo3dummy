@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+      <label index="editConstants">Editer les constantes pour le gabarit:</label>
+      <label index="category">Catégorie:</label>
+      <label index="noConstants">Pas de constante disponible</label>
+      <label index="noConstantsDescription">Il n'y a pas de constante éditable disponible pour l'éditeur de constantes.</label>
+    </languageKey>
+  </data>
+</T3locallangExt>
