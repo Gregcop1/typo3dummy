@@ -1,6 +1,1 @@
-fileadmin/_temp_/
-fileadmin/user_upload/
-typo3temp/
-uploads/
-
-!.gitkeep
+typo3conf/ext/skin/
