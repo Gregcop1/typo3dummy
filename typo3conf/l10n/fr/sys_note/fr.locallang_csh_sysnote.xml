@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+      <label index=".description">Pense-bête interne attaché à une page.</label>
+      <label index=".details">Ceci permet d'attacher simplement des notes d'informations à une page, relatif au backend. Utilisez-le comme pense-bête, instructions, etc.</label>
+      <label index="_.seeAlso">pages</label>
+      <label index="category.description">Sélectionnez une catégorie qui décrit le caractère de la note.</label>
+      <label index="subject.description">Entrez un titre pour la note.</label>
+      <label index="message.description">C'est la note à proprement parler.</label>
+      <label index="author.description">Entrez votre nom:</label>
+      <label index="email.description">Entrez votre adresse email.</label>
+      <label index="personal.description">Cochez cette case si vous ne souhaitez pas que les autres utilisateurs voient cette note.</label>
+    </languageKey>
+  </data>
+</T3locallangExt>

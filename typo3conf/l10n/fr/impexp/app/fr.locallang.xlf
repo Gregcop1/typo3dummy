@@ -1,0 +1,425 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff version="1.0">
+  <file source-language="en" datatype="plaintext" original="messages" date="2011-10-17T20:22:33Z" product-name="impexp" target-language="fr">
+    <header/>
+    <body>
+      <trans-unit id="import" xml:space="preserve" approved="yes">
+        <source>Import from .t3d</source>
+      <target state="translated">Importer depuis un .t3d</target></trans-unit>
+      <trans-unit id="export" xml:space="preserve" approved="yes">
+        <source>Export to .t3d</source>
+      <target state="translated">Exporter vers un .t3d</target></trans-unit>
+      <trans-unit id="title" xml:space="preserve" approved="yes">
+        <source>Import / Export</source>
+      <target state="translated">Importer / Exporter</target></trans-unit>
+      <trans-unit id="moduleFunction.tx_impexp_modfunc1" xml:space="preserve" approved="yes">
+        <source>Export Presets</source>
+      <target state="translated">Exports préparamétrés</target></trans-unit>
+      <trans-unit id="tableselec_configuration" xml:space="preserve" approved="yes">
+        <source>Configuration</source>
+      <target state="translated">Configuration</target></trans-unit>
+      <trans-unit id="exportdata_savedFile" xml:space="preserve" approved="yes">
+        <source>SAVED FILE</source>
+      <target state="translated">FICHIER SAUVEGARDÉ</target></trans-unit>
+      <trans-unit id="exportdata_savedInSBytes" xml:space="preserve" approved="yes">
+        <source>Saved in "%s", bytes %s</source>
+      <target state="translated">Sauvegardé dans %s, %s bytes</target></trans-unit>
+      <trans-unit id="exportdata_problemsSavingFile" xml:space="preserve" approved="yes">
+        <source>Problems saving file</source>
+      <target state="translated">Problème pendant la sauvegarde du fichier</target></trans-unit>
+      <trans-unit id="exportdata_badPathS" xml:space="preserve" approved="yes">
+        <source>Bad path: "%s"</source>
+      <target state="translated">Mauvais chemin: "%s"</target></trans-unit>
+      <trans-unit id="exportdata_filePreset" xml:space="preserve" approved="yes">
+        <source>File &amp; Preset</source>
+      <target state="translated">Fichier et paramétrage</target></trans-unit>
+      <trans-unit id="exportdata_advancedOptions" xml:space="preserve" approved="yes">
+        <source>Advanced Options</source>
+      <target state="translated">Options avancées</target></trans-unit>
+      <trans-unit id="exportdata_messages" xml:space="preserve" approved="yes">
+        <source>Messages</source>
+      <target state="translated">Messages</target></trans-unit>
+      <trans-unit id="execlistqu_structureToBeExported" xml:space="preserve" approved="yes">
+        <source>Structure to be exported:</source>
+      <target state="translated">Structure à exporter:</target></trans-unit>
+      <trans-unit id="execlistqu_maxNumberLimit" xml:space="preserve" approved="yes">
+        <source>Max number limit!</source>
+      <target state="translated">Quantité maximum limitée !</target></trans-unit>
+      <trans-unit id="makeconfig_anSqlQueryReturned" xml:space="preserve" approved="yes">
+        <source>An SQL query returned exactly the amount of records specified by the limit value (%s) - that could indicate an incomplete selection of records! Make sure this is on purpose.</source>
+      <target state="translated">Le nombre d'enregistrements retourné par la requête SQL correspond exactement à la limite spécifiée par la valeur %s - cela peut vouloir dire que la sélection est incomplète! Vérifiez que cela est souhaité.</target></trans-unit>
+      <trans-unit id="makeconfig_exportPagetreeConfiguration" xml:space="preserve" approved="yes">
+        <source>Export pagetree configuration:</source>
+      <target state="translated">Exporter la configuration de l'arborescence:</target></trans-unit>
+      <trans-unit id="makeconfig_pageId" xml:space="preserve" approved="yes">
+        <source>Page ID:</source>
+      <target state="translated">ID de page:</target></trans-unit>
+      <trans-unit id="makeconfig_tree" xml:space="preserve" approved="yes">
+        <source>Tree:</source>
+      <target state="translated">Arborescence</target></trans-unit>
+      <trans-unit id="makeconfig_noTreeExportedOnly" xml:space="preserve" approved="yes">
+        <source>No tree exported - only tables on the page.</source>
+      <target state="translated">Aucune arborescence exportée - la page ne contient que des tables.</target></trans-unit>
+      <trans-unit id="makeconfig_tablesOnThisPage" xml:space="preserve" approved="yes">
+        <source>Tables on this page</source>
+      <target state="translated">La page contient des tables</target></trans-unit>
+      <trans-unit id="makeconfig_expandedTree" xml:space="preserve" approved="yes">
+        <source>Expanded tree</source>
+      <target state="translated">Arborescence déployée</target></trans-unit>
+      <trans-unit id="makeconfig_onlyThisPage" xml:space="preserve" approved="yes">
+        <source>Only this page</source>
+      <target state="translated">Seulement cette page</target></trans-unit>
+      <trans-unit id="makeconfig_1Level" xml:space="preserve" approved="yes">
+        <source>1 level</source>
+      <target state="translated">1 niveau</target></trans-unit>
+      <trans-unit id="makeconfig_2Levels" xml:space="preserve" approved="yes">
+        <source>2 levels</source>
+      <target state="translated">2 niveaux</target></trans-unit>
+      <trans-unit id="makeconfig_3Levels" xml:space="preserve" approved="yes">
+        <source>3 levels</source>
+      <target state="translated">3 niveaux</target></trans-unit>
+      <trans-unit id="makeconfig_4Levels" xml:space="preserve" approved="yes">
+        <source>4 levels</source>
+      <target state="translated">4 niveaux</target></trans-unit>
+      <trans-unit id="makeconfig_infinite" xml:space="preserve" approved="yes">
+        <source>Infinite</source>
+      <target state="translated">Infini</target></trans-unit>
+      <trans-unit id="makeconfig_levels" xml:space="preserve" approved="yes">
+        <source>Levels:</source>
+      <target state="translated">Niveaux:</target></trans-unit>
+      <trans-unit id="makeconfig_includeTables" xml:space="preserve" approved="yes">
+        <source>Include tables:</source>
+      <target state="translated">Tables inclues:</target></trans-unit>
+      <trans-unit id="makeconfig_maxNumberOfRecords" xml:space="preserve" approved="yes">
+        <source>Max number of records:</source>
+      <target state="translated">Nombre maximum d'enregistrements</target></trans-unit>
+      <trans-unit id="makeconfig_exportSingleRecord" xml:space="preserve" approved="yes">
+        <source>Export single record:</source>
+      <target state="translated">Exporter seulement l'enregistrement:</target></trans-unit>
+      <trans-unit id="makeconfig_record" xml:space="preserve" approved="yes">
+        <source>Record:</source>
+      <target state="translated">Enregistrement:</target></trans-unit>
+      <trans-unit id="makeconfig_exportTablesFromPages" xml:space="preserve" approved="yes">
+        <source>Export tables from pages:</source>
+      <target state="translated">Exporter les tables des pages:</target></trans-unit>
+      <trans-unit id="makeconfig_tablePids" xml:space="preserve" approved="yes">
+        <source>Table/Pids:</source>
+      <target state="translated">Table/Pids:</target></trans-unit>
+      <trans-unit id="makeconfig_relationsAndExclusions" xml:space="preserve" approved="yes">
+        <source>Relations and Exclusions:</source>
+      <target state="translated">Relations et exclusions:</target></trans-unit>
+      <trans-unit id="makeconfig_includeRelationsToTables" xml:space="preserve" approved="yes">
+        <source>Include relations to tables:</source>
+      <target state="translated">Inclure les relations aux tables:</target></trans-unit>
+      <trans-unit id="makeconfig_useStaticRelationsFor" xml:space="preserve" approved="yes">
+        <source>Use static relations for tables:</source>
+      <target state="translated">Utiliser les relations statiques pour les tables:</target></trans-unit>
+      <trans-unit id="makeconfig_showStaticRelations" xml:space="preserve" approved="yes">
+        <source>Show static relations:</source>
+      <target state="translated">Montrer les relations statiques:</target></trans-unit>
+      <trans-unit id="makeconfig_excludeElements" xml:space="preserve" approved="yes">
+        <source>Exclude elements:</source>
+      <target state="translated">Exclure les éléments:</target></trans-unit>
+      <trans-unit id="makeconfig_clearAllExclusions" xml:space="preserve" approved="yes">
+        <source>Clear all exclusions:</source>
+      <target state="translated">Annuler toutes les exclusions:</target></trans-unit>
+      <trans-unit id="makeconfig_noExcludedElementsYet" xml:space="preserve" approved="yes">
+        <source>No excluded elements yet. Exclude by setting checkboxes below in the element display.</source>
+      <target state="translated">Aucun éléments n'a encore été exclu. Exclure en cochant les cases à cocher ci-dessous dans l'affichage de l'élément.</target></trans-unit>
+      <trans-unit id="makeadvanc_update" xml:space="preserve" approved="yes">
+        <source>Update</source>
+      <target state="translated">Mettre à jour</target></trans-unit>
+      <trans-unit id="makeadvanc_softReferences" xml:space="preserve" approved="yes">
+        <source>Soft References:</source>
+      <target state="translated">Références:</target></trans-unit>
+      <trans-unit id="makeadvanc_excludeHtmlCssFile" xml:space="preserve" approved="yes">
+        <source>Exclude HTML/CSS file resources:</source>
+      <target state="translated">Exclure les ressources HTML/CSS:</target></trans-unit>
+      <trans-unit id="makeadvanc_extensionDependencies" xml:space="preserve" approved="yes">
+        <source>Extension dependencies:</source>
+      <target state="translated">Dépendances aux extensions:</target></trans-unit>
+      <trans-unit id="makeadvanc_selectExtensionsThatThe" xml:space="preserve" approved="yes">
+        <source>Select extensions that the exported content depends on:</source>
+      <target state="translated">Sélectionner les extensions dont dépend le contenu exporté:</target></trans-unit>
+      <trans-unit id="makesavefo_update" xml:space="preserve" approved="yes">
+        <source>Update</source>
+      <target state="translated">Mettre à jour</target></trans-unit>
+      <trans-unit id="makesavefo_presets" xml:space="preserve" approved="yes">
+        <source>Presets:</source>
+      <target state="translated">Pré-paramétrages:</target></trans-unit>
+      <trans-unit id="makesavefo_selectPreset" xml:space="preserve" approved="yes">
+        <source>Select preset:</source>
+      <target state="translated">Sélectionner un pré-paramétrage:</target></trans-unit>
+      <trans-unit id="makesavefo_load" xml:space="preserve" approved="yes">
+        <source>Load</source>
+      <target state="translated">Charger</target></trans-unit>
+      <trans-unit id="makesavefo_save" xml:space="preserve" approved="yes">
+        <source>Save</source>
+      <target state="translated">Sauvegarder</target></trans-unit>
+      <trans-unit id="makesavefo_areYouSure" xml:space="preserve" approved="yes">
+        <source>Are you sure?</source>
+      <target state="translated">Etes-vous sûr ?</target></trans-unit>
+      <trans-unit id="makesavefo_delete" xml:space="preserve" approved="yes">
+        <source>Delete</source>
+      <target state="translated">Supprimer</target></trans-unit>
+      <trans-unit id="makesavefo_merge" xml:space="preserve" approved="yes">
+        <source>Merge</source>
+      <target state="translated">Fusionner</target></trans-unit>
+      <trans-unit id="makesavefo_titleOfNewPreset" xml:space="preserve" approved="yes">
+        <source>Title of new preset:</source>
+      <target state="translated">Titre du nouveau pré-paramétrage:</target></trans-unit>
+      <trans-unit id="makesavefo_public" xml:space="preserve" approved="yes">
+        <source>Public:</source>
+      <target state="translated">Publique:</target></trans-unit>
+      <trans-unit id="makesavefo_outputOptions" xml:space="preserve" approved="yes">
+        <source>Output options:</source>
+      <target state="translated">Options d'affichage:</target></trans-unit>
+      <trans-unit id="makesavefo_metaData" xml:space="preserve" approved="yes">
+        <source>Meta data:</source>
+      <target state="translated">Données Meta:</target></trans-unit>
+      <trans-unit id="makesavefo_title" xml:space="preserve" approved="yes">
+        <source>Title:</source>
+      <target state="translated">Titre:</target></trans-unit>
+      <trans-unit id="makesavefo_description" xml:space="preserve" approved="yes">
+        <source>Description:</source>
+      <target state="translated">Description:</target></trans-unit>
+      <trans-unit id="makesavefo_notes" xml:space="preserve" approved="yes">
+        <source>Notes:</source>
+      <target state="translated">Commentaires:</target></trans-unit>
+      <trans-unit id="makesavefo_thumbnail" xml:space="preserve" approved="yes">
+        <source>Thumbnail:</source>
+      <target state="translated">Miniature:</target></trans-unit>
+      <trans-unit id="makesavefo_uploadThumbnail" xml:space="preserve" approved="yes">
+        <source>Upload thumbnail:</source>
+      <target state="translated">Télécharger la miniature:</target></trans-unit>
+      <trans-unit id="makesavefo_t3dFileCompressed" xml:space="preserve" approved="yes">
+        <source>T3D file / compressed</source>
+      <target state="translated">fichier T3D / compressé</target></trans-unit>
+      <trans-unit id="makesavefo_t3dFile" xml:space="preserve" approved="yes">
+        <source>T3D file</source>
+      <target state="translated">fichier T3D</target></trans-unit>
+      <trans-unit id="makesavefo_xml" xml:space="preserve" approved="yes">
+        <source>XML</source>
+      <target state="translated">XML</target></trans-unit>
+      <trans-unit id="makesavefo_fileFormat" xml:space="preserve" approved="yes">
+        <source>File format:</source>
+      <target state="translated">Format de fichier:</target></trans-unit>
+      <trans-unit id="makesavefo_maxSizeOfFiles" xml:space="preserve" approved="yes">
+        <source>Max size of files to include (kb):</source>
+      <target state="translated">Taille maximum des fichiers à inclure (kb):</target></trans-unit>
+      <trans-unit id="makesavefo_filenameSavedInS" xml:space="preserve" approved="yes">
+        <source>Filename (saved in "%s"):</source>
+      <target state="translated">Nom du fichier (enregistré dans "%s"):</target></trans-unit>
+      <trans-unit id="makesavefo_downloadExport" xml:space="preserve" approved="yes">
+        <source>Download export</source>
+      <target state="translated">Télécharger l'export</target></trans-unit>
+      <trans-unit id="importdata_saveToFilename" xml:space="preserve" approved="yes">
+        <source>Save to filename</source>
+      <target state="translated">Sauvegarder sous</target></trans-unit>
+      <trans-unit id="importdata_selectFileToImport" xml:space="preserve" approved="yes">
+        <source>Select file to import:</source>
+      <target state="translated">Sélectionner le fichier à importer:</target></trans-unit>
+      <trans-unit id="importdata_file" xml:space="preserve" approved="yes">
+        <source>File:</source>
+      <target state="translated">Fichier:</target></trans-unit>
+      <trans-unit id="importdata_fromPathS" xml:space="preserve" approved="yes">
+        <source>(From path: %s)</source>
+      <target state="translated">(chemin : %s)</target></trans-unit>
+      <trans-unit id="importdata_noteNoDecompressorAvailable" xml:space="preserve" approved="yes">
+        <source>NOTE: No decompressor available for compressed files!</source>
+      <target state="translated">NOTE : aucun décompresseur disponible pour les fichiers compressés!</target></trans-unit>
+      <trans-unit id="importdata_importOptions" xml:space="preserve" approved="yes">
+        <source>Import Options:</source>
+      <target state="translated">Options d'import:</target></trans-unit>
+      <trans-unit id="importdata_update" xml:space="preserve" approved="yes">
+        <source>Update:</source>
+      <target state="translated">Mettre à jour:</target></trans-unit>
+      <trans-unit id="importdata_updateRecords" xml:space="preserve" approved="yes">
+        <source>Update records</source>
+      <target state="translated">Mettre à jour les enregistrements</target></trans-unit>
+      <trans-unit id="importdata_thisOptionRequiresThat" xml:space="preserve" approved="yes">
+        <source>This option requires that the structure you import already exists on this server and only needs to be updated with new content!</source>
+      <target state="translated">Cette option implique que la structure que vous importez existe déjà sur le serveur et qu'elle n'a besoin que d'être mise à jour avec le nouveau contenu!</target></trans-unit>
+      <trans-unit id="importdata_ignorePidDifferencesGlobally" xml:space="preserve" approved="yes">
+        <source>Ignore PID differences globally</source>
+      <target state="translated">Ignorer Les différences de PID globalement</target></trans-unit>
+      <trans-unit id="importdata_ifYouSetThis" xml:space="preserve" approved="yes">
+        <source>If you set this option, the position of updated elements will not be updated to match the structure of the input file.</source>
+      <target state="translated">Si vous sélectionnez cette option, les éléments mis à jour ne verront pas (afin de correspondre au fichier d'import) leur position modifiée</target></trans-unit>
+      <trans-unit id="importdata_force_all_UIDS" xml:space="preserve" approved="yes">
+        <source>Force ALL UIDs values</source>
+      <target state="translated">Forcer tous les UIDs</target></trans-unit>
+      <trans-unit id="importdata_force_all_UIDS_descr" xml:space="preserve" approved="yes">
+        <source>With this option the original UID value of all imported records are forced to be the same. BE VERY CAREFUL WITH THIS! (Admin Only).</source>
+      <target state="translated">Avec cette option les UIDs originaux de tous les enregistrements importés sont conservés. SOYEZ TRES PRUDENTS AVEC CETTE OPTION! (réservé aux Admins).</target></trans-unit>
+      <trans-unit id="importdata_options" xml:space="preserve" approved="yes">
+        <source>Options:</source>
+      <target state="translated">Options:</target></trans-unit>
+      <trans-unit id="importdata_doNotShowDifferences" xml:space="preserve" approved="yes">
+        <source>Do not show differences in records</source>
+      <target state="translated">Ne pas montrer les différences dans les enregistrements</target></trans-unit>
+      <trans-unit id="importdata_greenValuesAreFrom" xml:space="preserve" approved="yes">
+        <source>Green values are from the import file, red values from the current database record and black values are similar in both versions.</source>
+      <target state="translated">En vert : les valeurs du fichier d'import. En rouge : les valeurs de la base de données courante. En noir : les valeurs communes.</target></trans-unit>
+      <trans-unit id="importdata_allowToWriteBanned" xml:space="preserve" approved="yes">
+        <source>Allow to write banned file extensions (eg. PHP scripts), if any</source>
+      <target state="translated">Autoriser l'écriture de fichiers dont les extensions sont interdites (ex: scripts PHP) si il y en a</target></trans-unit>
+      <trans-unit id="importdata_action" xml:space="preserve" approved="yes">
+        <source>Action:</source>
+      <target state="translated">Action:</target></trans-unit>
+      <trans-unit id="importdata_preview" xml:space="preserve" approved="yes">
+        <source>Preview</source>
+      <target state="translated">Prévisualiser</target></trans-unit>
+      <trans-unit id="importdata_update_299e" xml:space="preserve" approved="yes">
+        <source>Update</source>
+      <target state="translated">Mettre à jour</target></trans-unit>
+      <trans-unit id="importdata_import" xml:space="preserve" approved="yes">
+        <source>Import</source>
+      <target state="translated">Importer</target></trans-unit>
+      <trans-unit id="importdata_areYouSure" xml:space="preserve" approved="yes">
+        <source>Are you sure?</source>
+      <target state="translated">Etes-vous sûr?</target></trans-unit>
+      <trans-unit id="importdata_newImport" xml:space="preserve" approved="yes">
+        <source>New import</source>
+      <target state="translated">Nouvel import</target></trans-unit>
+      <trans-unit id="importdata_enableLogging" xml:space="preserve" approved="yes">
+        <source>Enable logging:</source>
+      <target state="translated">Activer le journal:</target></trans-unit>
+      <trans-unit id="importdata_writeIndividualDbActions" xml:space="preserve" approved="yes">
+        <source>Write individual DB actions during import to the log</source>
+      <target state="translated">Ecrire les actions individuelles en BDD durant l'import dans le journal de log</target></trans-unit>
+      <trans-unit id="importdata_thisIsDisabledBy" xml:space="preserve" approved="yes">
+        <source>This is disabled by default since there may be hundred of entries generated.</source>
+      <target state="translated">Cette option est désactivée par défaut étant donné qu'il peut y avoir des centaines d'entrées générées.</target></trans-unit>
+      <trans-unit id="importdata_uploadFileFromLocal" xml:space="preserve" approved="yes">
+        <source>Upload file from local computer:</source>
+      <target state="translated">Télécharger le fichier du poste local:</target></trans-unit>
+      <trans-unit id="importdata_browse" xml:space="preserve" approved="yes">
+        <source>Browse:</source>
+      <target state="translated">Parcourir:</target></trans-unit>
+      <trans-unit id="importdata_uploadStatus" xml:space="preserve" approved="yes">
+        <source>Upload status:</source>
+      <target state="translated">Etat du téléchargement:</target></trans-unit>
+      <trans-unit id="importdata_success" xml:space="preserve" approved="yes">
+        <source>Success:</source>
+      <target state="translated">Succès:</target></trans-unit>
+      <trans-unit id="importdata_failureNoFileUploaded" xml:space="preserve" approved="yes">
+        <source>Failure: No file uploaded - was it too big? Check system log.</source>
+      <target state="translated">Echec: aucun fichier téléchargé - était-il trop lourd? vérifiez le journal du système.</target></trans-unit>
+      <trans-unit id="importdata_upload" xml:space="preserve" approved="yes">
+        <source>Upload</source>
+      <target state="translated">Envoyer</target></trans-unit>
+      <trans-unit id="importdata_metaData" xml:space="preserve" approved="yes">
+        <source>Meta data:</source>
+      <target state="translated">Données Meta:</target></trans-unit>
+      <trans-unit id="importdata_title" xml:space="preserve" approved="yes">
+        <source>Title:</source>
+      <target state="translated">Titre:</target></trans-unit>
+      <trans-unit id="importdata_description" xml:space="preserve" approved="yes">
+        <source>Description:</source>
+      <target state="translated">Description</target></trans-unit>
+      <trans-unit id="importdata_notes" xml:space="preserve" approved="yes">
+        <source>Notes:</source>
+      <target state="translated">Commentaires:</target></trans-unit>
+      <trans-unit id="importdata_packager" xml:space="preserve" approved="yes">
+        <source>Packager:</source>
+      <target state="translated">Packageur:</target></trans-unit>
+      <trans-unit id="importdata_email" xml:space="preserve" approved="yes">
+        <source>Email:</source>
+      <target state="translated">Email:</target></trans-unit>
+      <trans-unit id="importdata_icon" xml:space="preserve" approved="yes">
+        <source>Icon:</source>
+      <target state="translated">Icône:</target></trans-unit>
+      <trans-unit id="importdata_metaData_1387" xml:space="preserve" approved="yes">
+        <source>Meta data</source>
+      <target state="translated">Données Meta:</target></trans-unit>
+      <trans-unit id="importdata_messages" xml:space="preserve" approved="yes">
+        <source>Messages</source>
+      <target state="translated">Messages</target></trans-unit>
+      <trans-unit id="importdata_structureHasBeenImported" xml:space="preserve" approved="yes">
+        <source>Structure has been imported, here is the result:</source>
+      <target state="translated">La structure a été importée, voici le résultat:</target></trans-unit>
+      <trans-unit id="filterpage_structureToBeImported" xml:space="preserve" approved="yes">
+        <source>Structure to be imported:</source>
+      <target state="translated">Structure à importer:</target></trans-unit>
+      <trans-unit id="ALL_tables" xml:space="preserve" approved="yes">
+        <source>ALL tables</source>
+      <target state="translated">TOUTES les tables</target></trans-unit>
+      <trans-unit id="impexpcore_displaycon_controls" xml:space="preserve" approved="yes">
+        <source>Controls:</source>
+      <target state="translated">Contrôles:</target></trans-unit>
+      <trans-unit id="impexpcore_displaycon_title" xml:space="preserve" approved="yes">
+        <source>Title:</source>
+      <target state="translated">Titre:</target></trans-unit>
+      <trans-unit id="impexpcore_displaycon_size" xml:space="preserve" approved="yes">
+        <source>Size:</source>
+      <target state="translated">Taille:</target></trans-unit>
+      <trans-unit id="impexpcore_displaycon_message" xml:space="preserve" approved="yes">
+        <source>Message:</source>
+      <target state="translated">Message:</target></trans-unit>
+      <trans-unit id="impexpcore_displaycon_updateMode" xml:space="preserve" approved="yes">
+        <source>Update Mode:</source>
+      <target state="translated">Mode de mise à jour:</target></trans-unit>
+      <trans-unit id="impexpcore_displaycon_currentPath" xml:space="preserve" approved="yes">
+        <source>Current Path:</source>
+      <target state="translated">Chemin actuel:</target></trans-unit>
+      <trans-unit id="impexpcore_displaycon_result" xml:space="preserve" approved="yes">
+        <source>Result:</source>
+      <target state="translated">Résultat:</target></trans-unit>
+      <trans-unit id="impexpcore_displaycon_insidePagetree" xml:space="preserve" approved="yes">
+        <source>Inside pagetree:</source>
+      <target state="translated">Dans l'arborescence:</target></trans-unit>
+      <trans-unit id="impexpcore_singlereco_outsidePagetree" xml:space="preserve" approved="yes">
+        <source>Outside pagetree:</source>
+      <target state="translated">En dehors de l'arborescence:</target></trans-unit>
+      <trans-unit id="impexpcore_singlereco_softReferencesFiles" xml:space="preserve" approved="yes">
+        <source>Soft References Files:</source>
+      <target state="translated">Fichier des références:</target></trans-unit>
+      <trans-unit id="impexpcore_singlereco_update" xml:space="preserve" approved="yes">
+        <source>Update</source>
+      <target state="translated">Mettre à jour</target></trans-unit>
+      <trans-unit id="impexpcore_singlereco_insert" xml:space="preserve" approved="yes">
+        <source>Insert</source>
+      <target state="translated">Insérer</target></trans-unit>
+      <trans-unit id="impexpcore_singlereco_importAsNew" xml:space="preserve" approved="yes">
+        <source>Import as new</source>
+      <target state="translated">Importer en tant que nouvel élément</target></trans-unit>
+      <trans-unit id="impexpcore_singlereco_ignorePid" xml:space="preserve" approved="yes">
+        <source>Ignore PID</source>
+      <target state="translated">Ignorer les PID</target></trans-unit>
+      <trans-unit id="impexpcore_singlereco_respectPid" xml:space="preserve" approved="yes">
+        <source>Respect PID</source>
+      <target state="translated">Respecter les PID</target></trans-unit>
+      <trans-unit id="impexpcore_singlereco_forceUidSAdmin" xml:space="preserve" approved="yes">
+        <source>Force UID [%s] (Admin)</source>
+      <target state="translated">Forcer les UID [%s] (Admin)</target></trans-unit>
+      <trans-unit id="impexpcore_singlereco_exclude" xml:space="preserve" approved="yes">
+        <source>Exclude</source>
+      <target state="translated">Exclure</target></trans-unit>
+      <trans-unit id="impexpcore_singlereco_title" xml:space="preserve" approved="yes">
+        <source>Title:</source>
+      <target state="translated">Titre:</target></trans-unit>
+      <trans-unit id="impexpcore_singlereco_descr" xml:space="preserve" approved="yes">
+        <source>Descr:</source>
+      <target state="translated">Description:</target></trans-unit>
+      <trans-unit id="impexpcore_singlereco_filename" xml:space="preserve" approved="yes">
+        <source>Filename:</source>
+      <target state="translated">Nom du fichier:</target></trans-unit>
+      <trans-unit id="impexpcore_singlereco_value" xml:space="preserve" approved="yes">
+        <source>Value:</source>
+      <target state="translated">Valeur:</target></trans-unit>
+      <trans-unit id="impexpcore_softrefsel_record" xml:space="preserve" approved="yes">
+        <source>Record:</source>
+      <target state="translated">Enregistrement:</target></trans-unit>
+      <trans-unit id="impexpcore_softrefsel_editable" xml:space="preserve" approved="yes">
+        <source>Editable</source>
+      <target state="translated">Modifiable</target></trans-unit>
+      <trans-unit id="impexpcore_softrefsel_exclude" xml:space="preserve" approved="yes">
+        <source>Exclude</source>
+      <target state="translated">Exclure</target></trans-unit>
+      <trans-unit id="impexpcore_printerror_description" xml:space="preserve" approved="yes">
+        <source>Description:</source>
+      <target state="translated">Description:</target></trans-unit>
+    </body>
+  </file>
+</xliff>

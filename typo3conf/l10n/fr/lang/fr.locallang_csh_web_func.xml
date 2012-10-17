@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+      <label index=".alttitle">Web &gt; module Fonctions</label>
+      <label index=".description">L'idée du module Web&gt;Fonctions est d'être un module hôte pour les applications back-end pour optimiser le traitement des pages ou branches dans l'arborescence.</label>
+      <label index=".details"/>
+      <label index="_.seeAlso"/>
+      <label index="_.image"/>
+      <label index=".image_descr"/>
+    </languageKey>
+  </data>
+</T3locallangExt>

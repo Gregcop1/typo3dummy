@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff version="1.0">
+  <file source-language="en" datatype="plaintext" original="messages" date="2011-10-17T20:22:37Z" product-name="tsconfig_help" target-language="fr">
+    <header/>
+    <body>
+      <trans-unit id="title" xml:space="preserve" approved="yes">
+        <source>TypoScript Help</source>
+      <target state="translated">Aide TypoScprit</target></trans-unit>
+      <trans-unit id="display" xml:space="preserve" approved="yes">
+        <source>Display TypoScript Help</source>
+      <target state="translated">Afficher l'aide TypoScript</target></trans-unit>
+      <trans-unit id="rebuild" xml:space="preserve" approved="yes">
+        <source>Rebuild TypoScript Help</source>
+      <target state="translated">Reconstruire l'aide TypoScript</target></trans-unit>
+      <trans-unit id="referenceExplanation" xml:space="preserve" approved="yes">
+        <source>Choose from the following reference data</source>
+      <target state="translated">Choisissez à partir des données de référence suivantes</target></trans-unit>
+      <trans-unit id="referenceExplanationDetailed" xml:space="preserve" approved="yes">
+        <source>In order to view the different TypoScript help popup windows, select from the following reference icons. This online help is built automatically from the manuals available in the installed extensions on your TYPO3 server. To rebuild the help files when you add or remove an extension, you will need to select the "Rebuild TypoScript Help" function of this module.</source>
+      <target state="translated">Afin de disposer des différentes fenêtres d'aide de TypoScript, choisissez parmi les icônes suivantes. Cette aide en ligne est construite automatiquement à partir des manuels disponibles dans les extensions installées sur votre serveur TYPO3. Pour reconstruire les fichiers d'aide lorsque vous ajoutez ou supprimez une extension, vous devrez sélectionner la fonction de reconstruction de l'aide TypoScript proposée par ce module.</target></trans-unit>
+      <trans-unit id="displayReferences" xml:space="preserve" approved="yes">
+        <source>Display TypoScript Online Help</source>
+      <target state="translated">Afficher l'aide TypoScript en ligne</target></trans-unit>
+      <trans-unit id="loadedTSfrom" xml:space="preserve" approved="yes">
+        <source>Loaded TypoScript from:</source>
+      <target state="translated">TypoScript chargé à partir de:</target></trans-unit>
+      <trans-unit id="sections" xml:space="preserve" approved="yes">
+        <source>sections</source>
+      <target state="translated">sections</target></trans-unit>
+      <trans-unit id="rebuildTS" xml:space="preserve" approved="yes">
+        <source>Rebuild TypoScript online help</source>
+      <target state="translated">Reconstruire l'aide TypoScript en ligne</target></trans-unit>
+      <trans-unit id="warning_manualsWithoutMarkers" xml:space="preserve" approved="yes">
+        <source>The following manuals contain one or more tables without markers: </source>
+      <target state="translated">Les manuels suivants contiennent un ou plusieurs tableaux sans marqueurs:</target></trans-unit>
+      <trans-unit id="warning_duplicateMarkers" xml:space="preserve" approved="yes">
+        <source>The following markers appear in several manuals or several times in the same manual:</source>
+      <target state="translated">Les marqueurs suivants apparaissent dans plusieurs manuels ou plusieurs fois dans le même manuel:</target></trans-unit>
+      <trans-unit id="updateWarnings" xml:space="preserve" approved="yes">
+        <source>Update warnings</source>
+      <target state="translated">Mise en garde suite à la mise à jour</target></trans-unit>
+      <trans-unit id="rebuildExplanation" xml:space="preserve" approved="yes">
+        <source>Rebuilding the online help will totally wipe the online help database before parsing the TypoScript help for loaded extensions. We suggest you to have doc_core_tsref and doc_core_tsconfig installed to have them parsed as well.</source>
+      <target state="translated">La reconstruction de l'aide en ligne provoquera l'effacement des données avant analyse de l'aide TypoScript à partir des extensions chargées. Nous vous suggérons l'installation de doc_core_tsref et doc_core_tsconfig pour qu'ils soient pris en compte également.</target></trans-unit>
+      <trans-unit id="adminAccessOnly" xml:space="preserve" approved="yes">
+        <source>Access to this function of the module is restricted to admins.</source>
+      <target state="translated">L'accès à cette fonction du module est réservé aux administrateurs.</target></trans-unit>
+      <trans-unit id="noRebuildOnWindows" xml:space="preserve" approved="yes">
+        <source>The Rebuild function does not run on Windows systems. Sorry!</source>
+      <target state="translated">La fonction de reconstruction ne fonctionne pas sur les systèmes Windows. Désolé!</target></trans-unit>
+    </body>
+  </file>
+</xliff>

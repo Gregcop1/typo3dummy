@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff version="1.0">
+  <file source-language="en" datatype="plaintext" original="messages" date="2011-10-17T20:22:37Z" product-name="tstemplate_objbrowser" target-language="fr">
+    <header/>
+    <body>
+      <trans-unit id="constants" xml:space="preserve" approved="yes">
+        <source>Constants</source>
+      <target state="translated">Constantes</target></trans-unit>
+      <trans-unit id="setup" xml:space="preserve" approved="yes">
+        <source>Setup</source>
+      <target state="translated">Setup</target><note>Non traduit car il fait partie du jargon de TYPO3.</note></trans-unit>
+      <trans-unit id="all" xml:space="preserve" approved="yes">
+        <source>All</source>
+      <target state="translated">Tous</target></trans-unit>
+      <trans-unit id="plainSubstitution" xml:space="preserve" approved="yes">
+        <source>Plain substitution (default)</source>
+      <target state="translated">Substitution simple (défaut)</target></trans-unit>
+      <trans-unit id="substitutedGreen" xml:space="preserve" approved="yes">
+        <source>Substituted constants in green</source>
+      <target state="translated">Constantes substituées en vert</target></trans-unit>
+      <trans-unit id="unsubstitutedGreen" xml:space="preserve" approved="yes">
+        <source>UN-substituted constants in green</source>
+      <target state="translated">Constantes NON substituées en vert</target></trans-unit>
+      <trans-unit id="currentTemplate" xml:space="preserve" approved="yes">
+        <source>Current template</source>
+      <target state="translated">Gabarit courant :</target></trans-unit>
+      <trans-unit id="badProperty" xml:space="preserve" approved="yes">
+        <source>Bad property!</source>
+      <target state="translated">Mauvaise propriété !</target></trans-unit>
+      <trans-unit id="noSpaces" xml:space="preserve" approved="yes">
+        <source>You must enter a property with characters a-z, A-Z and 0-9, no spaces!</source>
+      <target state="translated">Vous devez entrer une propriété avec les caractères a-z, A-Z et 0-9, sans espace !</target></trans-unit>
+      <trans-unit id="nothingUpdated" xml:space="preserve" approved="yes">
+        <source>Nothing was updated!</source>
+      <target state="translated">Rien n'a été mis à jour !</target></trans-unit>
+      <trans-unit id="propertyAdded" xml:space="preserve" approved="yes">
+        <source>Property added</source>
+      <target state="translated">Propriété ajoutée</target></trans-unit>
+      <trans-unit id="valueUpdated" xml:space="preserve" approved="yes">
+        <source>Value updated</source>
+      <target state="translated">Valeur mise à jour</target></trans-unit>
+      <trans-unit id="objectCleared" xml:space="preserve" approved="yes">
+        <source>Object cleared</source>
+      <target state="translated">Objet effacé</target></trans-unit>
+      <trans-unit id="updateButton" xml:space="preserve" approved="yes">
+        <source>Update</source>
+      <target state="translated">Mise à jour</target></trans-unit>
+      <trans-unit id="editProperty" xml:space="preserve" approved="yes">
+        <source>Edit object/property value:</source>
+      <target state="translated">Édite la valeur de l'objet/la propriété</target></trans-unit>
+      <trans-unit id="addButton" xml:space="preserve" approved="yes">
+        <source>Add</source>
+      <target state="translated">Ajoute</target></trans-unit>
+      <trans-unit id="addProperty" xml:space="preserve" approved="yes">
+        <source>Add object property:</source>
+      <target state="translated">Ajoute la propriété d'objet :</target></trans-unit>
+      <trans-unit id="clear" xml:space="preserve" approved="yes">
+        <source>Clear?</source>
+      <target state="translated">Efface ?</target></trans-unit>
+      <trans-unit id="clearButton" xml:space="preserve" approved="yes">
+        <source>Clear</source>
+      <target state="translated">Efface</target></trans-unit>
+      <trans-unit id="clearObject" xml:space="preserve" approved="yes">
+        <source>Clear object:</source>
+      <target state="translated">Efface l'objet :</target></trans-unit>
+      <trans-unit id="edit" xml:space="preserve" approved="yes">
+        <source>Edit:</source>
+      <target state="translated">Édite :</target></trans-unit>
+      <trans-unit id="noCurrentTemplate" xml:space="preserve" approved="yes">
+        <source>You cannot edit properties and values, if there's no current template.</source>
+      <target state="translated">Vous ne pouvez éditer les propriétés et valeurs, s'il n'y a pas de gabarit courant.</target></trans-unit>
+      <trans-unit id="addKey" xml:space="preserve" approved="yes">
+        <source>&lt;b&gt;Add key&lt;/b&gt;&lt;/a&gt; "%s" to Object List</source>
+      <target state="translated">&lt;b&gt;Ajoute une clé&lt;/b&gt;&lt;/a&gt; "%s" à la liste d'objet</target></trans-unit>
+      <trans-unit id="removeKey" xml:space="preserve" approved="yes">
+        <source>&lt;b&gt;Remove key&lt;/b&gt;&lt;/a&gt; "%s" from Object List</source>
+      <target state="translated">Enlève la clé de la liste d'objet</target></trans-unit>
+      <trans-unit id="back" xml:space="preserve" approved="yes">
+        <source>&lt; Back</source>
+      <target state="translated">&lt; Retour</target></trans-unit>
+      <trans-unit id="browse" xml:space="preserve" approved="yes">
+        <source>Browse:</source>
+      <target state="translated">Parcourir :</target></trans-unit>
+      <trans-unit id="objectList" xml:space="preserve" approved="yes">
+        <source>Object List:</source>
+      <target state="translated">Liste des objets :</target></trans-unit>
+      <trans-unit id="search" xml:space="preserve" approved="yes">
+        <source>Search:</source>
+      <target state="translated">Recherche :</target></trans-unit>
+      <trans-unit id="regExp" xml:space="preserve" approved="yes">
+        <source>Regular expressions</source>
+      <target state="translated">Expressions régulières</target></trans-unit>
+      <trans-unit id="errorsWarnings" xml:space="preserve" approved="yes">
+        <source>Errors and warnings</source>
+      <target state="translated">Erreurs et avertissements</target></trans-unit>
+      <trans-unit id="errorShowDetails" xml:space="preserve" approved="yes">
+        <source>Show details</source>
+      <target state="translated">Afficher les détails</target></trans-unit>
+      <trans-unit id="removeKey" xml:space="preserve" approved="yes">
+        <source>Remove key from OL</source>
+      <target state="translated">Enlève la clé de la liste d'objet</target></trans-unit>
+      <trans-unit id="setupRoot" xml:space="preserve" approved="yes">
+        <source>setup root</source>
+      <target state="translated">racine du Setup</target></trans-unit>
+      <trans-unit id="constantRoot" xml:space="preserve" approved="yes">
+        <source>constants root</source>
+      <target state="translated">racine des constantes</target></trans-unit>
+      <trans-unit id="displayComments" xml:space="preserve" approved="yes">
+        <source>Display comments</source>
+      <target state="translated">Afficher les commentaires</target></trans-unit>
+      <trans-unit id="sortAlphabetically" xml:space="preserve" approved="yes">
+        <source>Sort alphabetically</source>
+      <target state="translated">Tri alphabétique</target></trans-unit>
+      <trans-unit id="cropLines" xml:space="preserve" approved="yes">
+        <source>Crop lines</source>
+      <target state="translated">Tronquer les lignes</target></trans-unit>
+      <trans-unit id="displayConstants" xml:space="preserve" approved="yes">
+        <source>Display constants:</source>
+      <target state="translated">Affiche les constantes :</target></trans-unit>
+      <trans-unit id="displayOptions" xml:space="preserve" approved="yes">
+        <source>Display options</source>
+      <target state="translated">Affiche les options :</target></trans-unit>
+      <trans-unit id="conditions" xml:space="preserve" approved="yes">
+        <source>Conditions</source>
+      <target state="translated">Conditions :</target></trans-unit>
+      <trans-unit id="setConditions" xml:space="preserve" approved="yes">
+        <source>Set conditions</source>
+      <target state="translated">Activer les conditions</target></trans-unit>
+    </body>
+  </file>
+</xliff>

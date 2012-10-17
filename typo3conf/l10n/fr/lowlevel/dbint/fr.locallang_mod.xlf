@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff version="1.0">
+  <file source-language="en" datatype="plaintext" original="messages" date="2011-10-17T20:22:34Z" product-name="lowlevel" target-language="fr">
+    <header/>
+    <body>
+      <trans-unit id="mlang_labels_tablabel" xml:space="preserve" approved="yes">
+        <source>Database integrity check</source>
+      <target state="translated">Vérification de l'intégrité de la base de données</target></trans-unit>
+      <trans-unit id="mlang_labels_tabdescr" xml:space="preserve" approved="yes">
+        <source>Here you can check the integrity of the database tables configured by the $TCA. For instance all records must belong to a page record. In addition the existence of uploaded files attached to records (normally residing in uploads/* folders) are verified as well. You can also get a view of the total pagetree including deleted pages. Finally you've got access to a global database search facility.&lt;br /&gt;&lt;em&gt;Access for 'admin' users only!&lt;/em&gt;</source>
+      <target state="translated">Ici, vous pouvez contrôler l'intégrité de la base de données, selon le $TCA. Pour l'instant, tous les enregistrements doivent correspondre à une page. Les fichiers Uploder orphelins sont eux aussi contrôlé.</target></trans-unit>
+      <trans-unit id="mlang_tabs_tab" xml:space="preserve" approved="yes">
+        <source>DB check</source>
+      <target state="translated">Vérification BD</target></trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+      <label index="delete">Effacé :</label>
+      <label index="toTop">En haut :</label>
+      <label index="fileChanged">Fichier modifié :</label>
+      <label index="resourceUpdated">La ressource '%s' a été mise à jour.</label>
+      <label index="templateInformation">Information de gabarit :</label>
+      <label index="title">Titre :</label>
+      <label index="sitetitle">Titre du site :</label>
+      <label index="description">Description :</label>
+      <label index="allowedExtensions">Extensions autorisées :</label>
+      <label index="maxFilesize">Taille de fichier maximum :</label>
+      <label index="uploadResource">Envoyer la ressource :</label>
+      <label index="newTextResource">Nouvelle ressource texte (entrer le nom) :</label>
+      <label index="copyResource">Créer une copie de la ressource :</label>
+      <label index="updateResourceList">Met à jour la liste des ressources :</label>
+      <label index="constants">Constantes :</label>
+      <label index="file">Fichier :</label>
+      <label index="editResource">Édite la ressource :</label>
+      <label index="filesizeExceeded">Taille du fichier excède %s ko</label>
+      <label index="notAllowed">Les fichiers supérieurs à %s ko ne peuvent être édités.</label>
+      <label index="setup">Setup :</label>
+      <label index="resources">Ressources :</label>
+      <label index="editToView">(éditer pour voir, %s lignes)</label>
+      <label index="editTemplateRecord">Éditer tout le gabarit</label>
+      <label index="includeTypoScriptFileContent">Inclu le contenu du fichier TypoScript</label>
+    </languageKey>
+  </data>
+</T3locallangExt>

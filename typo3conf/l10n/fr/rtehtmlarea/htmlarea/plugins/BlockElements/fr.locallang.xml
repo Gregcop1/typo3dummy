@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+      <label index="Indent-Tooltip">Augmenter le retrait</label>
+      <label index="Indent-helpText">Augmenter l'identation du texte</label>
+      <label index="Outdent-Tooltip">Réduire le retrait</label>
+      <label index="Outdent-helpText">Réduire l'identation du texte</label>
+      <label index="Blockquote-Tooltip">Bloc de citation</label>
+      <label index="Blockquote-helpText">Créer un large bloque de cote</label>
+      <label index="FormatBlock-Tooltip">Type de bloc</label>
+      <label index="InsertParagraphBefore-Tooltip">Insérer un paragraphe avant le bloc courant</label>
+      <label index="InsertParagraphBefore-contextMenuTitle">Insérer un paragraphe avant</label>
+      <label index="InsertParagraphBefore-helpText">Insérer un paragraphe avant le bloque en cours</label>
+      <label index="InsertParagraphAfter-Tooltip">Insérer un paragraphe après le bloc courant</label>
+      <label index="InsertParagraphAfter-contextMenuTitle">Insérer un paragraphe après</label>
+      <label index="InsertParagraphAfter-helpText">Insérer un paragraphe avant le bloque courant</label>
+      <label index="JustifyLeft-Tooltip">Justifié à gauche</label>
+      <label index="JustifyLeft-helpText">Aligner le texte à gauche</label>
+      <label index="JustifyCenter-Tooltip">Centré</label>
+      <label index="JustifyCenter-helpText">Centrer le texte</label>
+      <label index="JustifyRight-Tooltip">Justifié à droite</label>
+      <label index="JustifyRight-helpText">Aligner le texte sur la droite</label>
+      <label index="JustifyFull-Tooltip">Justifié à gauche et à droite</label>
+      <label index="JustifyFull-helpText">Aligner le texte à la fois à gauche et à droite.</label>
+      <label index="Left-Tooltip">Gauche</label>
+      <label index="InsertOrderedList-Tooltip">Liste ordonnée</label>
+      <label index="InsertOrderedList-helpText">Faire une liste ordonnée avec la sélection en cours</label>
+      <label index="InsertUnorderedList-Tooltip">Liste à puces</label>
+      <label index="InsertUnorderedList-helpText">Faire une liste à puce avec la sélection en cours</label>
+      <label index="InsertHorizontalRule-Tooltip">Barre horizontale</label>
+      <label index="InsertHorizontalRule-helpText">Insérer une règle horizontale</label>
+      <label index="No block">Aucun format de bloc</label>
+      <label index="Remove block">Supprimer le format du bloc</label>
+      <label index="Technische Universitat Ilmenau">Technische Universität Ilmenau</label>
+    </languageKey>
+  </data>
+</T3locallangExt>

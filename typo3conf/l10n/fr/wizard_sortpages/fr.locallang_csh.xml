@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+      <label index="tx_wizardsortpages.alttitle">Assistant de Tri de Pages</label>
+      <label index="tx_wizardsortpages.description">Permet le tri alphabétique des pages, par titre, sous-titre ou par date de création etc. Vous pouvez aussi inverser l'ordre des pages dans l'arborescence.</label>
+      <label index="tx_wizardsortpages.details">Les pages de l'arborescence sont toujours triées manuellement. Il est possible de déplacer les pages vers le haut ou vers le bas etc., ce comportement ne peut pas vraiment être changé au niveau du système. Mais cet assistant permet de modifier rapidement l'ordre des sous-pages. Cliquez simplement sur l'un des liens en bas de l'écran de l'assistant: &lt;b&gt;Titre de Page&lt;/b&gt; Triera les pages suivant leur titre. &lt;b&gt;Sous-titre de Page&lt;/b&gt; Triera les pages suivant leur sous-titre. &lt;b&gt;Date de modification&lt;/b&gt; Triera les pages suivant leur date de dernière modification. &lt;b&gt;Date de création&lt;/b&gt; Triera les pages suivant leur date de création. &lt;b&gt;Inverser l'ordre actuel&lt;/b&gt; Cliquez ici pour inverser l'ordre actuel. Par exemple, si vous voulez trier les pages alphabetiquement mais dans l'ordre inverse vous triez simplement par titre puis inversez l'ordre en cliquant ici.</label>
+      <label index="_tx_wizardsortpages.image">EXT:wizard_sortpages/cshimages/wizards_1.png</label>
+    </languageKey>
+  </data>
+</T3locallangExt>

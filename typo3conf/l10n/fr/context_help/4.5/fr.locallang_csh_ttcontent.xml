@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+      <label index=".description">Tout contenu visible sur des pages web est typiquement construit à partir d'archives de contenus de page, auxquelles on se réfère souvent comme élément de contenu. Les éléments de contenu sont gérés par le module Page qui organise les éléments de contenu en multiples colonnes et langages.</label>
+      <label index=".details"/>
+      <label index="_.seeAlso">Principes de contenus de page | http://typo3.org/documentation/document-library/doc_tut_quickstart/Page_content/,
+_MOD_web_layout</label>
+      <label index="_.image">EXT:context_help/cshimages/ttcontent_1.png,
+EXT:context_help/cshimages/ttcontent_2.png,
+EXT:context_help/cshimages/ttcontent_3.png</label>
+      <label index=".image_descr"/>
+      <label index="CType.description">Sélectionnez le type de contenu de page que cet élément représente. De nouvelles options vont apparaitre quand vous sauvegardez l'archive.</label>
+      <label index="CType.details"/>
+      <label index="_CType.seeAlso">tt_content:colPos,
+tt_content:sys_language_uid,
+About Content Elements | http://typo3.org/documentation/document-library/doc_tut_quickstart/Content_element_type/</label>
+      <label index="_CType.image">EXT:context_help/cshimages/ttcontent_4.png</label>
+      <label index="hidden.description">Vérifiez cette boite si vous désirez désactiver l'élément de contenu et l'empêcher d'être affiché sur le site.</label>
+      <label index="_hidden.seeAlso">tt_content:starttime,
+tt_content:endtime,
+tt_content:fe_group,
+tt_content:colPos,
+tt_content:sys_language_uid</label>
+      <label index="starttime.description">Entrez la date à laquelle l'élément de contenu devrait être publié et affiché sur le site.</label>
+      <label index="_starttime.seeAlso">pages:starttime,
+tt_content:endtime,
+tt_content:hidden,
+tt_content:fe_group</label>
+      <label index="endtime.description">Entrez la date à laquelle l'élément de contenu devra expirer et disparaitre du site.</label>
+      <label index="_endtime.seeAlso">pages:endtime,
+tt_content:starttime,
+tt_content:hidden,
+tt_content:fe_group</label>
+      <label index="fe_group.description"/>
+      <label index="fe_group.details">Le "Cacher lors de la connexion" est utile si vous voulez présenter des informations comme "Comment se connecter" qui deviennent non pertinent quand un utilisateur du site est connecté.</label>
+      <label index="_fe_group.seeAlso">tt_content:hidden,
+tt_content:starttime,
+tt_content:endtime,
+pages:fe_group,
+fe_users,
+fe_groups</label>
+      <label index="sys_language_uid.description"/>
+      <label index="sys_language_uid.details"/>
+      <label index="_sys_language_uid.seeAlso">tt_content:colPos,
+sys_language,
+Localization concepts [Technical] | http://typo3.org/documentation/tips-tricks/multi-language-sites-in-typo3/,
+_MOD_web_layout:language_list</label>
+      <label index="layout.description">Sélectionnez une disposition.</label>
+      <label index="layout.details"/>
+      <label index="colPos.description"/>
+      <label index="colPos.details"/>
+      <label index="_colPos.seeAlso">tt_content:sys_language_uid,
+_MOD_web_layout:columns_multi,
+_MOD_web_layout:columns_single</label>
+      <label index="date.description">Entrez une date à afficher au-dessus du header.</label>
+      <label index="header.description">Entrez le texte de l'en-tête pour l'élément de contenu.</label>
+      <label index="header.details"/>
+      <label index="_header.seeAlso">tt_content:header_position,
+tt_content:header_link,
+tt_content:header_layout,
+tt_content:date,</label>
+      <label index="_header.image">EXT:context_help/cshimages/ttcontent_6.png</label>
+      <label index="header_position.description">Aligne les headers sur la gauche, au centre, ou à droite.</label>
+      <label index="_header_position.seeAlso">tt_content:header</label>
+      <label index="header_link.description">Créé un lien entre le header et l'ID d'une page, une adresse mail, ou une URL.</label>
+      <label index="header_link.syntax"/>
+      <label index="_header_link.seeAlso">tt_content:header</label>
+      <label index="header_layout.description"/>
+      <label index="header_layout.details"/>
+      <label index="_header_layout.seeAlso">tt_content:header</label>
+      <label index="subheader.description"/>
+      <label index="subheader.details"/>
+      <label index="_subheader.seeAlso"/>
+      <label index="bodytext.description"/>
+      <label index="bodytext.details"/>
+      <label index="_bodytext.seeAlso"/>
+      <label index="text_align.description">Aligne les headers sur la gauche, au centre, ou à droite.</label>
+      <label index="text_align.details"/>
+      <label index="_text_align.seeAlso"/>
+      <label index="text_face.description"/>
+      <label index="text_face.details"/>
+      <label index="_text_face.seeAlso"/>
+      <label index="text_size.description"/>
+      <label index="text_size.details"/>
+      <label index="_text_size.seeAlso"/>
+      <label index="text_color.description"/>
+      <label index="text_color.details"/>
+      <label index="_text_color.seeAlso"/>
+      <label index="text_properties.description"/>
+      <label index="text_properties.details"/>
+      <label index="_text_properties.seeAlso"/>
+      <label index="image.description"/>
+      <label index="image.details"/>
+      <label index="_image.seeAlso"/>
+      <label index="_image.image">EXT:context_help/cshimages/ttcontent_4.png</label>
+      <label index="image.image_descr"/>
+      <label index="imagewidth.description"/>
+      <label index="imagewidth.details"/>
+      <label index="_imagewidth.seeAlso"/>
+      <label index="imageheight.description"/>
+      <label index="_imageheight.seeAlso"/>
+      <label index="imageorient.description"/>
+      <label index="imageorient.details"/>
+      <label index="imageborder.description"/>
+      <label index="_imageborder.seeAlso"/>
+      <label index="image_noRows.description"/>
+      <label index="image_noRows.details"/>
+      <label index="_image_noRows.seeAlso"/>
+      <label index="image_link.description"/>
+      <label index="image_link.details"/>
+      <label index="_image_link.seeAlso"/>
+      <label index="image_zoom.description"/>
+      <label index="image_zoom.details"/>
+      <label index="_image_zoom.seeAlso"/>
+      <label index="image_effects.description"/>
+      <label index="_image_effects.seeAlso"/>
+      <label index="image_frames.description"/>
+      <label index="_image_frames.seeAlso"/>
+      <label index="image_compression.description"/>
+      <label index="_image_compression.seeAlso"/>
+      <label index="imagecols.description"/>
+      <label index="_imagecols.seeAlso"/>
+      <label index="imagecaption.description"/>
+      <label index="imagecaption.details"/>
+      <label index="_imagecaption.seeAlso"/>
+      <label index="imagecaption_position.description">Aligne les headers sur la gauche, au centre, ou à droite.</label>
+      <label index="_imagecaption_position.seeAlso"/>
+      <label index="cols.description"/>
+      <label index="pages.description"/>
+      <label index="pages.details"/>
+      <label index="_pages.seeAlso"/>
+      <label index="recursive.description"/>
+      <label index="recursive.details"/>
+      <label index="_recursive.seeAlso">tt_content:header</label>
+      <label index="menu_type.description"/>
+      <label index="menu_type.details"/>
+      <label index="_menu_type.seeAlso"/>
+      <label index="list_type.description"/>
+      <label index="list_type.details"/>
+      <label index="_list_type.seeAlso"/>
+      <label index="_list_type.image">EXT:context_help/cshimages/ttcontent_4.png</label>
+      <label index="select_key.description"/>
+      <label index="select_key.details"/>
+      <label index="_select_key.seeAlso"/>
+      <label index="table_bgColor.description"/>
+      <label index="table_border.description"/>
+      <label index="table_cellspacing.description"/>
+      <label index="table_cellspacing.details"/>
+      <label index="table_cellpadding.description"/>
+      <label index="table_cellpadding.details"/>
+      <label index="media.description"/>
+      <label index="multimedia.description"/>
+      <label index="filelink_size.description"/>
+      <label index="records.description"/>
+      <label index="spaceBefore.description"/>
+      <label index="_spaceBefore.seeAlso"/>
+      <label index="spaceAfter.description"/>
+      <label index="_spaceAfter.seeAlso"/>
+      <label index="section_frame.description"/>
+      <label index="_section_frame.seeAlso"/>
+      <label index="sectionIndex.description"/>
+      <label index="sectionIndex.details"/>
+      <label index="_sectionIndex.seeAlso"/>
+      <label index="linkToTop.description"/>
+      <label index="rte_enabled.description"/>
+      <label index="_rte_enabled.seeAlso"/>
+      <label index="pi_flexform.description"/>
+      <label index="pi_flexform.details"/>
+      <label index="_pi_flexform.seeAlso"/>
+    </languageKey>
+  </data>
+</T3locallangExt>

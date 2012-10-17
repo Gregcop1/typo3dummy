@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+      <label index="currentTemplate">Gabarit courant :</label>
+      <label index="title">Titre</label>
+      <label index="rootlevel">Niveau racine</label>
+      <label index="clearSetup">Effacer le Setup</label>
+      <label index="clearConstants">Effacer les constantes</label>
+      <label index="pid">PID</label>
+      <label index="rootline">Fil d'ariane</label>
+      <label index="nextLevel">Niveau suivant</label>
+      <label index="templateHierarchy">Hiérarchie de gabarits :</label>
+      <label index="displayOptions">Options d'affichage</label>
+      <label index="lineNumbers">Numéros de lignes</label>
+      <label index="syntaxHighlight">Surligner la syntaxe</label>
+      <label index="comments">Commentaires</label>
+      <label index="cropLines">Couper les lignes</label>
+      <label index="blockMode">Mode bloc</label>
+      <label index="constants">Constantes :</label>
+      <label index="setup">Setup :</label>
+      <label index="viewCompleteTS">Voir le listing TS complet</label>
+      <label index="completeTS">TS complet :</label>
+    </languageKey>
+  </data>
+</T3locallangExt>
