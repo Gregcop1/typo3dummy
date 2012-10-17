@@ -199,6 +199,7 @@ require_once(PATH_tslib.'class.tslib_pibase.php');
 				    $setup .= '### Include du dossier '.$folder.$eol;
 				    while (false !== ($entry = readdir($handle))) {
 				        if($entry!='.' && $entry!='..' && $extension = strrchr($entry,'.') && (strrchr($entry,'.') == '.ts' ) || strrchr($entry,'.') == '.txt' ) {
+
 				        	$setup .= '<INCLUDE_TYPOSCRIPT: source="FILE:EXT:'.$key.'/'.$folder.$entry.'">'.$eol;
 				        }
 				    }
