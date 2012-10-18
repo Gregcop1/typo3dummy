@@ -1,0 +1,12 @@
+body { font-size: 1em; color: #000000; }
+
+h1, h2, h3, h4, h5, h6,
+p,
+ul, li { margin: 0; padding: 0; }
+
+a { outline: none; }
+a img { border: 0; }
+
+img { max-width: 100%; }
+
+input:focus { outline: none; -moz-box-shadow: 0 0 5px #666; -webkit-box-shadow: 0 0 5px #666; box-shadow: 0 0 5px #666; }

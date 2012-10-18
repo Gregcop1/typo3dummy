@@ -1,0 +1,1 @@
+lib.centerColumn < lib.defaultColumn

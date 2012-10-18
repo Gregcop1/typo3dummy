@@ -197,10 +197,16 @@ require_once(PATH_tslib.'class.tslib_pibase.php');
   			foreach ($folders as $folder) {
   				if (is_dir($ext_path.$folder) && $handle = opendir($ext_path.$folder)) {
 				    $setup .= '### Include du dossier '.$folder.$eol;
-				    while (false !== ($entry = readdir($handle))) {
-				        if($entry!='.' && $entry!='..' && $extension = strrchr($entry,'.') && (strrchr($entry,'.') == '.ts' ) || strrchr($entry,'.') == '.txt' ) {
+				    $files = array();
 
-				        	$setup .= '<INCLUDE_TYPOSCRIPT: source="FILE:EXT:'.$key.'/'.$folder.$entry.'">'.$eol;
+					while ($files[] = readdir($handle));
+					sort($files);
+					closedir($handle);
+
+				    foreach ($files as $file) {
+				        if($file!='.' && $file!='..' && $extension = strrchr($file,'.') && (strrchr($file,'.') == '.ts' ) || strrchr($file,'.') == '.txt' ) {
+
+				        	$setup .= '<INCLUDE_TYPOSCRIPT: source="FILE:EXT:'.$key.'/'.$folder.$file.'">'.$eol;
 				        }
 				    }
 

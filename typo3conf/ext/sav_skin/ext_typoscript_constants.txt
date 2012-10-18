@@ -1,0 +1,134 @@
+config {
+  adminPanel = 0
+  debug = 0
+  noCache = 1
+  cachePeriod = 604800
+  sendCacheHeaders = 0
+  cacheClearAtMidnight = 1
+  realURL = 1
+  homeID = 1
+  domain = typo3lab.greg.fr
+  siteName = Lab
+  images.maxW = 650
+}
+
+styles.content.imgtext.maxW = 650
+styles.content.imgtext.maxWInText = 650
+
+filepaths {
+  templates = EXT:skin/template/
+  css = {$filepaths.templates}style/
+  images = {$filepaths.templates}img/
+  js = {$filepaths.templates}js/
+  swf = {$filepaths.templates}swf/
+  extensions = {$filepaths.templates}extensions/
+}
+
+menu{
+  topID = 4
+  bottomID = 5
+
+  accesKey{
+    home = 1
+    accessibility = 1
+    siteMap = 1
+    contact = 1
+  }
+}
+
+link{
+  allNews = 13
+  allAdherent = 41
+  allProgramme = 43
+  allPortrait = 53
+  allTemoignage = 39
+  nousRejoindre = 57
+  connexion = 75
+}
+
+tt_news{
+  pid_list = 48
+  pid_listHomeSlideshow = 49
+  pid_listProgramme = 50
+  pid_listBreve = 51
+
+  programmeList = 45
+  breveList = 91
+
+  singlePid = 47
+  singlePidProgramme = 54
+}
+
+tt_address{
+  pid_list = 52
+}
+
+indexed_search{
+  rootPidList = 1
+  targetPid = 21
+}
+
+sitemap{
+  pid_list = 1
+  recursive = 5
+}
+
+scriptmerger{
+  css{
+    enable = 1
+  }
+  javascript{
+    enable = 1
+  }
+}
+
+plugin.powermail {
+  template.formWrap = {$filepaths.extensions}powermail/form_wrap.html
+  template.fieldWrap = {$filepaths.extensions}powermail/field_wrap.html
+  template.mandatory = {$filepaths.extensions}powermail/mandatory.html
+}
+
+plugin.tx_scriptmerger {
+  css {
+    enable = {$scriptmerger.css.enable}
+    addContentInDocument = 0
+    # minification
+    minify {
+      enable = 1
+      ignore = \.min\.
+    }
+    # gzip compression
+    compress {
+      enable = 0
+      ignore = \.gz\.
+    }
+    # merging
+    merge {
+      enable = 1
+      ignore =
+    }
+  }
+  javascript {
+    enable = {$scriptmerger.javascript.enable}
+    parseBody = 0
+    addBeforeBody = 0
+    doNotRemoveInDocInBody = 1
+    addContentInDocument = 0
+    # minification
+    minify {
+        enable = 1
+        useJSMinPlus = 1
+        ignore = \?,\.min\.,\google\
+    }
+    # gzip compression
+    compress {
+        enable = 0
+        ignore = \?,\.gz\.,\google\
+    }
+    # merging
+    merge {
+        enable = 1
+        ignore = \?,\google\
+    }
+  }
+}
