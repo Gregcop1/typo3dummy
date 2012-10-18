@@ -1,0 +1,74 @@
+@import 'functions.less';
+@import 'bootstrap.css';
+
+
+/*********************************
+*********** Set Margin ***********
+*********************************/
+h1{ .margin(2,0,1,0); }
+h2{ .margin(3,0,1,0); }
+h3{ .margin(2,0,0,0); }
+h3{ .margin(2,0,0,0); }
+p,p.bodytext{ .margin(1,0,1,0); }
+td p, td p.bodytext{ .margin; }
+ul{
+  .margin; .padding(.5,1,.5,2);
+  li{ .margin(.5,0,.5,0); }
+}
+
+/*********************************
+************ General *************
+*********************************/
+.flex5050{
+    .column { .inline-block; margin: 0 2% 0 0; width: 48.5%; }
+    .col5050-2 { .inline-block; .margin; }
+}
+
+.flex7030{
+    .column { .inline-block; margin: 0 2% 0 0; width: 69%; }
+    .col7030-2 { .inline-block; .margin; width: 29%; }
+}
+
+.flex3070{
+    .column { .inline-block; width: 30.6122449%; margin: 0 2% 0 0; }
+    .col3070-2 { .inline-block; width: 66.3877551%; }
+}
+
+.flex333333{
+    .column { .inline-block; margin: 0 2% 0 0; width: 32%; }
+    .col333333-3 { .inline-block; .margin; }
+}
+
+.flex6040{
+    .column { .inline-block; margin: 0 2% 0 0; width: 59%; }
+    .col6040-2 { .inline-block; .margin; width: 39%; }
+}
+
+.flex4060{
+    .column { .inline-block; margin: 0 2% 0 0; width: 39%; }
+    .col4060-2{.inline-block; .margin; width: 59%; }
+}
+
+.page { margin: 0 auto; width: @maxWidth; }
+
+/*********************************
+************* Header *************
+*********************************/
+#header{
+}
+
+
+#topNav{
+}
+
+#mainNav {
+}
+
+#content {
+}
+
+
+/*********************************
+************* Footer *************
+*********************************/
+#footer {  }

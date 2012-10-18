@@ -1,0 +1,5 @@
+### Include du dossier typoscript/page/
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:skin/typoscript/page/headerData.ts">
+### Include du dossier typoscript/templates/
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:skin/typoscript/templates/home.ts">
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:skin/typoscript/templates/interne1C.ts">

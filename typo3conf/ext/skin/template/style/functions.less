@@ -1,0 +1,72 @@
+@import 'config.less';
+
+/*********************************
+************ Functions ***********
+*********************************/
+.max-width (@maxWidth : @maxWidth) {
+    max-width : @maxWidth;
+}
+
+.inline-block () {
+    display:inline-block;
+    vertical-align:top;
+    margin:0;
+    padding:0;
+}
+
+.margin ( @topNumber: 0, @rightNumber: 0, @bottomNumber: 0, @leftNumber: 0 ) {
+    margin-top:  @marginSize * @topNumber * 1px;
+    margin-right:  @marginSize * @rightNumber * 1px;
+    margin-bottom:  @marginSize * @bottomNumber * 1px;
+    margin-left:  @marginSize * @leftNumber * 1px;
+}
+
+.padding ( @topNumber: 0, @rightNumber: 0, @bottomNumber: 0, @leftNumber: 0 ) {
+    padding-top:  @marginSize * @topNumber * 1px;
+    padding-right:  @marginSize * @rightNumber * 1px;
+    padding-bottom:  @marginSize * @bottomNumber * 1px;
+    padding-left:  @marginSize * @leftNumber * 1px;
+}
+
+.column-margin ( @topNumber: 0, @rightNumber: 0, @bottomNumber: 0, @leftNumber: 0 ) {
+    margin-top:  @defaultColumnMargin * @topNumber * 1px;
+    margin-right:  @defaultColumnMargin * @rightNumber * 1px;
+    margin-bottom:  @defaultColumnMargin * @bottomNumber * 1px;
+    margin-left:  @defaultColumnMargin * @leftNumber * 1px;
+}
+
+.column-width ( @columnNumber: 1, @marginNumber: 0 ) {
+    width: (( @columnNumber * @columnWidth ) + ( @marginNumber * @marginSize )) * 1px
+}
+
+.percent-width ( @width, @parentWidth ) {
+    width: @width / @parentWidth * 100%;
+}
+
+.border-radius (@rad : @radius) {
+    border-radius         : @rad;
+    -webkit-border-radius : @rad;
+    -moz-border-radius    : @rad;
+}
+
+.box-shadow (@x: 0, @y: 0, @blur: 1px, @color: #000) {
+    box-shadow         : @arguments;
+    -moz-box-shadow    : @arguments;
+    -webkit-box-shadow : @arguments;
+}
+
+.gradient (@start: @white, @stop: @dark) {
+    background-image: linear-gradient(top, @start 0, @stop 100%);
+    background-image: -o-linear-gradient(top, @start 0, @stop 100%);
+    background-image: -moz-linear-gradient(top, @start 0, @stop 100%);
+    background-image: -webkit-linear-gradient(top, @start 0, @stop 100%);
+    background-image: -ms-linear-gradient(top, @start 0, @stop 100%);
+
+    background-image: -webkit-gradient(
+        linear,
+        left top,
+        left bottom,
+        color-stop(0, @start),
+        color-stop(1, @stop)
+    );
+}
