@@ -1,20 +1,3 @@
-config {
-  adminPanel = 0
-  debug = 0
-  noCache = 1
-  cachePeriod = 604800
-  sendCacheHeaders = 0
-  cacheClearAtMidnight = 1
-  realURL = 1
-  homeID = 1
-  domain = typo3dummy.greg.fr
-  siteName = Typo3 Dummy
-  images.maxW = 990
-}
-
-styles.content.imgtext.maxW = 990
-styles.content.imgtext.maxWInText = 990
-
 filepaths {
   templates = EXT:skin/template/
   css = {$filepaths.templates}style/
@@ -22,38 +5,6 @@ filepaths {
   js = {$filepaths.templates}js/
   swf = {$filepaths.templates}swf/
   extensions = {$filepaths.templates}extensions/
-}
-
-menu{
-  topID = 4
-  bottomID = 5
-
-  accesKey{
-    home = 1
-    accessibility = 1
-    siteMap = 1
-    contact = 1
-  }
-}
-
-sitemap{
-  pid_list = 1
-  recursive = 10
-}
-
-scriptmerger{
-  css{
-    enable = 1
-  }
-  javascript{
-    enable = 1
-  }
-}
-
-plugin.powermail {
-  template.formWrap = {$filepaths.extensions}powermail/form_wrap.html
-  template.fieldWrap = {$filepaths.extensions}powermail/field_wrap.html
-  template.mandatory = {$filepaths.extensions}powermail/mandatory.html
 }
 
 plugin.tx_scriptmerger {

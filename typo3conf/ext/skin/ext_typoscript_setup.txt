@@ -1,3 +1,15 @@
+### Include du dossier typoscript/extensions/
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:skin/typoscript/extensions/tt_news.ts">
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:skin/typoscript/extensions/tx_inaddthis_pi1.ts">
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:skin/typoscript/extensions/tx_indexedsearch.ts">
+### Include du dossier typoscript/blocs/
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:skin/typoscript/blocs/logo.ts">
+### Include du dossier typoscript/menus/
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:skin/typoscript/menus/bottom.ts">
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:skin/typoscript/menus/breadCrumb.ts">
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:skin/typoscript/menus/left.ts">
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:skin/typoscript/menus/main.ts">
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:skin/typoscript/menus/top.ts">
 ### Include du dossier typoscript/page/
 <INCLUDE_TYPOSCRIPT: source="FILE:EXT:skin/typoscript/page/headerData.ts">
 ### Include du dossier typoscript/templates/

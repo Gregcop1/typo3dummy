@@ -14,7 +14,7 @@ $typo_db_extTableDef_script = 'extTables.php';
 
 ## INSTALL SCRIPT EDIT POINT TOKEN - all lines after this points may be changed by the install script!
 
-$TYPO3_CONF_VARS['EXT']['extList'] = 'css_styled_content,info,perm,func,filelist,about,version,tsconfig_help,context_help,extra_page_cm_options,impexp,sys_note,tstemplate,tstemplate_ceditor,tstemplate_info,tstemplate_objbrowser,tstemplate_analyzer,func_wizards,wizard_crpages,wizard_sortpages,lowlevel,install,belog,beuser,aboutmodules,setup,taskcenter,info_pagetsconfig,viewpage,rtehtmlarea,t3skin,t3editor,reports,felogin,gc_lib,skin_dummy,skin,automaketemplate';	// Modified or inserted by TYPO3 Extension Manager. Modified or inserted by TYPO3 Core Update Manager. 
+$TYPO3_CONF_VARS['EXT']['extList'] = 'css_styled_content,info,perm,func,filelist,about,version,tsconfig_help,context_help,extra_page_cm_options,impexp,sys_note,tstemplate,tstemplate_ceditor,tstemplate_info,tstemplate_objbrowser,tstemplate_analyzer,func_wizards,wizard_crpages,wizard_sortpages,lowlevel,install,belog,beuser,aboutmodules,setup,taskcenter,info_pagetsconfig,viewpage,rtehtmlarea,t3skin,t3editor,reports,felogin,gc_lib,skin_dummy,skin,automaketemplate,kb_nescefe';	// Modified or inserted by TYPO3 Extension Manager. Modified or inserted by TYPO3 Core Update Manager. 
 // Updated by TYPO3 Core Update Manager 17-10-12 22:38:59
 $TYPO3_CONF_VARS['SYS']['encryptionKey'] = '4559a63a457268c2b17e52be08753a4b3d6d26d6457dba847a4936fc0202bf7565124b2c705adc192c286b4f1450024b';	//  Modified or inserted by TYPO3 Install Tool.
 $TYPO3_CONF_VARS['SYS']['compat_version'] = '4.5';	//  Modified or inserted by TYPO3 Install Tool.
@@ -29,6 +29,6 @@ $TYPO3_CONF_VARS['SYS']['sitename'] = 'Dummy Site';	//  Modified or inserted by 
 $TYPO3_CONF_VARS['BE']['versionNumberInFilename'] = '0';	//  Modified or inserted by TYPO3 Install Tool.
 // Updated by TYPO3 Install Tool 17-10-12 22:42:04
 $TYPO3_CONF_VARS['EXT']['extConf']['em'] = 'a:1:{s:17:"selectedLanguages";s:2:"fr";}';	//  Modified or inserted by TYPO3 Extension Manager.
-$TYPO3_CONF_VARS['EXT']['extList_FE'] = 'css_styled_content,version,install,rtehtmlarea,t3skin,felogin,gc_lib,skin_dummy,skin,automaketemplate';	// Modified or inserted by TYPO3 Extension Manager. 
-// Updated by TYPO3 Extension Manager 18-10-12 22:49:11
+$TYPO3_CONF_VARS['EXT']['extList_FE'] = 'css_styled_content,version,install,rtehtmlarea,t3skin,felogin,gc_lib,skin_dummy,skin,automaketemplate,kb_nescefe';	// Modified or inserted by TYPO3 Extension Manager. 
+// Updated by TYPO3 Extension Manager 19-10-12 16:39:07
 ?>

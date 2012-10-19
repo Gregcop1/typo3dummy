@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2011-10-17T21:55:35Z" product-name="kb_nescefe" target-language="fr">
+		<header/>
+		<body>
+			<trans-unit id="no_template_file">
+				<source>No template file found</source>
+			</trans-unit>
+			<trans-unit id="no_container">
+				<source>No container set or available</source>
+			</trans-unit>
+			<trans-unit id="no_renderObj">
+				<source>No renderObj defined</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
