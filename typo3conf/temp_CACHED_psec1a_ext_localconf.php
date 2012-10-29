@@ -1,7 +1,7 @@
 <?php
 
 
-$TYPO3_LOADED_EXT = unserialize(stripslashes('a:45:{s:3:\"cms\";a:6:{s:4:\"type\";s:1:\"S\";s:11:\"siteRelPath\";s:17:\"typo3/sysext/cms/\";s:12:\"typo3RelPath\";s:11:\"sysext/cms/\";s:17:\"ext_localconf.php\";s:63:\"/home/gregory/www/typo3dummy/typo3/sysext/cms/ext_localconf.php\";s:14:\"ext_tables.php\";s:60:\"/home/gregory/www/typo3dummy/typo3/sysext/cms/ext_tables.php\";s:14:\"ext_tables.sql\";s:60:\"/home/gregory/www/typo3dummy/typo3/sysext/cms/ext_tables.sql\";}s:4:\"lang\";a:3:{s:4:\"type\";s:1:\"S\";s:11:\"siteRelPath\";s:18:\"typo3/sysext/lang/\";s:12:\"typo3RelPath\";s:12:\"sysext/lang/\";}s:2:\"sv\";a:5:{s:4:\"type\";s:1:\"S\";s:11:\"siteRelPath\";s:16:\"typo3/sysext/sv/\";s:12:\"typo3RelPath\";s:10:\"sysext/sv/\";s:17:\"ext_localconf.php\";s:62:\"/home/gregory/www/typo3dummy/typo3/sysext/sv/ext_localconf.php\";s:14:\"ext_tables.php\";s:59:\"/home/gregory/www/typo3dummy/typo3/sysext/sv/ext_tables.php\";}s:2:\"em\";a:7:{s:4:\"type\";s:1:\"S\";s:11:\"siteRelPath\";s:16:\"typo3/sysext/em/\";s:12:\"typo3RelPath\";s:10:\"sysext/em/\";s:17:\"ext_localconf.php\";s:62:\"/home/gregory/www/typo3dummy/typo3/sysext/em/ext_localconf.php\";s:14:\"ext_tables.php\";s:59:\"/home/gregory/www/typo3dummy/typo3/sysext/em/ext_tables.php\";s:14:\"ext_tables.sql\";s:59:\"/home/gregory/www/typo3dummy/typo3/sysext/em/ext_tables.sql\";s:25:\"ext_tables_static+adt.sql\";s:70:\"/home/gregory/www/typo3dummy/typo3/sysext/em/ext_tables_static+adt.sql\";}s:10:\"recordlist\";a:4:{s:4:\"type\";s:1:\"S\";s:11:\"siteRelPath\";s:24:\"typo3/sysext/recordlist/\";s:12:\"typo3RelPath\";s:18:\"sysext/recordlist/\";s:14:\"ext_tables.php\";s:67:\"/home/gregory/www/typo3dummy/typo3/sysext/recordlist/ext_tables.php\";}s:18:\"css_styled_content\";a:5:{s:4:\"type\";s:1:\"S\";s:11:\"siteRelPath\";s:32:\"typo3/sysext/css_styled_content/\";s:12:\"typo3RelPath\";s:26:\"sysext/css_styled_content/\";s:17:\"ext_localconf.php\";s:78:\"/home/gregory/www/typo3dummy/typo3/sysext/css_styled_content/ext_localconf.php\";s:14:\"ext_tables.php\";s:75:\"/home/gregory/www/typo3dummy/typo3/sysext/css_styled_content/ext_tables.php\";}s:4:\"info\";a:4:{s:4:\"type\";s:1:\"S\";s:11:\"siteRelPath\";s:18:\"typo3/sysext/info/\";s:12:\"typo3RelPath\";s:12:\"sysext/info/\";s:14:\"ext_tables.php\";s:61:\"/home/gregory/www/typo3dummy/typo3/sysext/info/ext_tables.php\";}s:4:\"perm\";a:4:{s:4:\"type\";s:1:\"S\";s:11:\"siteRelPath\";s:18:\"typo3/sysext/perm/\";s:12:\"typo3RelPath\";s:12:\"sysext/perm/\";s:14:\"ext_tables.php\";s:61:\"/home/gregory/www/typo3dummy/typo3/sysext/perm/ext_tables.php\";}s:4:\"func\";a:4:{s:4:\"type\";s:1:\"S\";s:11:\"siteRelPath\";s:18:\"typo3/sysext/func/\";s:12:\"typo3RelPath\";s:12:\"sysext/func/\";s:14:\"ext_tables.php\";s:61:\"/home/gregory/www/typo3dummy/typo3/sysext/func/ext_tables.php\";}s:8:\"filelist\";a:4:{s:4:\"type\";s:1:\"S\";s:11:\"siteRelPath\";s:22:\"typo3/sysext/filelist/\";s:12:\"typo3RelPath\";s:16:\"sysext/filelist/\";s:14:\"ext_tables.php\";s:65:\"/home/gregory/www/typo3dummy/typo3/sysext/filelist/ext_tables.php\";}s:5:\"about\";a:4:{s:4:\"type\";s:1:\"S\";s:11:\"siteRelPath\";s:19:\"typo3/sysext/about/\";s:12:\"typo3RelPath\";s:13:\"sysext/about/\";s:14:\"ext_tables.php\";s:62:\"/home/gregory/www/typo3dummy/typo3/sysext/about/ext_tables.php\";}s:7:\"version\";a:5:{s:4:\"type\";s:1:\"S\";s:11:\"siteRelPath\";s:21:\"typo3/sysext/version/\";s:12:\"typo3RelPath\";s:15:\"sysext/version/\";s:17:\"ext_localconf.php\";s:67:\"/home/gregory/www/typo3dummy/typo3/sysext/version/ext_localconf.php\";s:14:\"ext_tables.php\";s:64:\"/home/gregory/www/typo3dummy/typo3/sysext/version/ext_tables.php\";}s:13:\"tsconfig_help\";a:6:{s:4:\"type\";s:1:\"S\";s:11:\"siteRelPath\";s:27:\"typo3/sysext/tsconfig_help/\";s:12:\"typo3RelPath\";s:21:\"sysext/tsconfig_help/\";s:14:\"ext_tables.php\";s:70:\"/home/gregory/www/typo3dummy/typo3/sysext/tsconfig_help/ext_tables.php\";s:14:\"ext_tables.sql\";s:70:\"/home/gregory/www/typo3dummy/typo3/sysext/tsconfig_help/ext_tables.sql\";s:25:\"ext_tables_static+adt.sql\";s:81:\"/home/gregory/www/typo3dummy/typo3/sysext/tsconfig_help/ext_tables_static+adt.sql\";}s:12:\"context_help\";a:4:{s:4:\"type\";s:1:\"S\";s:11:\"siteRelPath\";s:26:\"typo3/sysext/context_help/\";s:12:\"typo3RelPath\";s:20:\"sysext/context_help/\";s:14:\"ext_tables.php\";s:69:\"/home/gregory/www/typo3dummy/typo3/sysext/context_help/ext_tables.php\";}s:21:\"extra_page_cm_options\";a:4:{s:4:\"type\";s:1:\"S\";s:11:\"siteRelPath\";s:35:\"typo3/sysext/extra_page_cm_options/\";s:12:\"typo3RelPath\";s:29:\"sysext/extra_page_cm_options/\";s:14:\"ext_tables.php\";s:78:\"/home/gregory/www/typo3dummy/typo3/sysext/extra_page_cm_options/ext_tables.php\";}s:6:\"impexp\";a:5:{s:4:\"type\";s:1:\"S\";s:11:\"siteRelPath\";s:20:\"typo3/sysext/impexp/\";s:12:\"typo3RelPath\";s:14:\"sysext/impexp/\";s:14:\"ext_tables.php\";s:63:\"/home/gregory/www/typo3dummy/typo3/sysext/impexp/ext_tables.php\";s:14:\"ext_tables.sql\";s:63:\"/home/gregory/www/typo3dummy/typo3/sysext/impexp/ext_tables.sql\";}s:8:\"sys_note\";a:5:{s:4:\"type\";s:1:\"S\";s:11:\"siteRelPath\";s:22:\"typo3/sysext/sys_note/\";s:12:\"typo3RelPath\";s:16:\"sysext/sys_note/\";s:14:\"ext_tables.php\";s:65:\"/home/gregory/www/typo3dummy/typo3/sysext/sys_note/ext_tables.php\";s:14:\"ext_tables.sql\";s:65:\"/home/gregory/www/typo3dummy/typo3/sysext/sys_note/ext_tables.sql\";}s:10:\"tstemplate\";a:4:{s:4:\"type\";s:1:\"S\";s:11:\"siteRelPath\";s:24:\"typo3/sysext/tstemplate/\";s:12:\"typo3RelPath\";s:18:\"sysext/tstemplate/\";s:14:\"ext_tables.php\";s:67:\"/home/gregory/www/typo3dummy/typo3/sysext/tstemplate/ext_tables.php\";}s:18:\"tstemplate_ceditor\";a:4:{s:4:\"type\";s:1:\"S\";s:11:\"siteRelPath\";s:32:\"typo3/sysext/tstemplate_ceditor/\";s:12:\"typo3RelPath\";s:26:\"sysext/tstemplate_ceditor/\";s:14:\"ext_tables.php\";s:75:\"/home/gregory/www/typo3dummy/typo3/sysext/tstemplate_ceditor/ext_tables.php\";}s:15:\"tstemplate_info\";a:4:{s:4:\"type\";s:1:\"S\";s:11:\"siteRelPath\";s:29:\"typo3/sysext/tstemplate_info/\";s:12:\"typo3RelPath\";s:23:\"sysext/tstemplate_info/\";s:14:\"ext_tables.php\";s:72:\"/home/gregory/www/typo3dummy/typo3/sysext/tstemplate_info/ext_tables.php\";}s:21:\"tstemplate_objbrowser\";a:4:{s:4:\"type\";s:1:\"S\";s:11:\"siteRelPath\";s:35:\"typo3/sysext/tstemplate_objbrowser/\";s:12:\"typo3RelPath\";s:29:\"sysext/tstemplate_objbrowser/\";s:14:\"ext_tables.php\";s:78:\"/home/gregory/www/typo3dummy/typo3/sysext/tstemplate_objbrowser/ext_tables.php\";}s:19:\"tstemplate_analyzer\";a:4:{s:4:\"type\";s:1:\"S\";s:11:\"siteRelPath\";s:33:\"typo3/sysext/tstemplate_analyzer/\";s:12:\"typo3RelPath\";s:27:\"sysext/tstemplate_analyzer/\";s:14:\"ext_tables.php\";s:76:\"/home/gregory/www/typo3dummy/typo3/sysext/tstemplate_analyzer/ext_tables.php\";}s:12:\"func_wizards\";a:4:{s:4:\"type\";s:1:\"S\";s:11:\"siteRelPath\";s:26:\"typo3/sysext/func_wizards/\";s:12:\"typo3RelPath\";s:20:\"sysext/func_wizards/\";s:14:\"ext_tables.php\";s:69:\"/home/gregory/www/typo3dummy/typo3/sysext/func_wizards/ext_tables.php\";}s:14:\"wizard_crpages\";a:4:{s:4:\"type\";s:1:\"S\";s:11:\"siteRelPath\";s:28:\"typo3/sysext/wizard_crpages/\";s:12:\"typo3RelPath\";s:22:\"sysext/wizard_crpages/\";s:14:\"ext_tables.php\";s:71:\"/home/gregory/www/typo3dummy/typo3/sysext/wizard_crpages/ext_tables.php\";}s:16:\"wizard_sortpages\";a:4:{s:4:\"type\";s:1:\"S\";s:11:\"siteRelPath\";s:30:\"typo3/sysext/wizard_sortpages/\";s:12:\"typo3RelPath\";s:24:\"sysext/wizard_sortpages/\";s:14:\"ext_tables.php\";s:73:\"/home/gregory/www/typo3dummy/typo3/sysext/wizard_sortpages/ext_tables.php\";}s:8:\"lowlevel\";a:5:{s:4:\"type\";s:1:\"S\";s:11:\"siteRelPath\";s:22:\"typo3/sysext/lowlevel/\";s:12:\"typo3RelPath\";s:16:\"sysext/lowlevel/\";s:17:\"ext_localconf.php\";s:68:\"/home/gregory/www/typo3dummy/typo3/sysext/lowlevel/ext_localconf.php\";s:14:\"ext_tables.php\";s:65:\"/home/gregory/www/typo3dummy/typo3/sysext/lowlevel/ext_tables.php\";}s:7:\"install\";a:5:{s:4:\"type\";s:1:\"S\";s:11:\"siteRelPath\";s:21:\"typo3/sysext/install/\";s:12:\"typo3RelPath\";s:15:\"sysext/install/\";s:17:\"ext_localconf.php\";s:67:\"/home/gregory/www/typo3dummy/typo3/sysext/install/ext_localconf.php\";s:14:\"ext_tables.php\";s:64:\"/home/gregory/www/typo3dummy/typo3/sysext/install/ext_tables.php\";}s:5:\"belog\";a:4:{s:4:\"type\";s:1:\"S\";s:11:\"siteRelPath\";s:19:\"typo3/sysext/belog/\";s:12:\"typo3RelPath\";s:13:\"sysext/belog/\";s:14:\"ext_tables.php\";s:62:\"/home/gregory/www/typo3dummy/typo3/sysext/belog/ext_tables.php\";}s:6:\"beuser\";a:5:{s:4:\"type\";s:1:\"S\";s:11:\"siteRelPath\";s:20:\"typo3/sysext/beuser/\";s:12:\"typo3RelPath\";s:14:\"sysext/beuser/\";s:17:\"ext_localconf.php\";s:66:\"/home/gregory/www/typo3dummy/typo3/sysext/beuser/ext_localconf.php\";s:14:\"ext_tables.php\";s:63:\"/home/gregory/www/typo3dummy/typo3/sysext/beuser/ext_tables.php\";}s:12:\"aboutmodules\";a:4:{s:4:\"type\";s:1:\"S\";s:11:\"siteRelPath\";s:26:\"typo3/sysext/aboutmodules/\";s:12:\"typo3RelPath\";s:20:\"sysext/aboutmodules/\";s:14:\"ext_tables.php\";s:69:\"/home/gregory/www/typo3dummy/typo3/sysext/aboutmodules/ext_tables.php\";}s:5:\"setup\";a:4:{s:4:\"type\";s:1:\"S\";s:11:\"siteRelPath\";s:19:\"typo3/sysext/setup/\";s:12:\"typo3RelPath\";s:13:\"sysext/setup/\";s:14:\"ext_tables.php\";s:62:\"/home/gregory/www/typo3dummy/typo3/sysext/setup/ext_tables.php\";}s:10:\"taskcenter\";a:4:{s:4:\"type\";s:1:\"S\";s:11:\"siteRelPath\";s:24:\"typo3/sysext/taskcenter/\";s:12:\"typo3RelPath\";s:18:\"sysext/taskcenter/\";s:14:\"ext_tables.php\";s:67:\"/home/gregory/www/typo3dummy/typo3/sysext/taskcenter/ext_tables.php\";}s:17:\"info_pagetsconfig\";a:4:{s:4:\"type\";s:1:\"S\";s:11:\"siteRelPath\";s:31:\"typo3/sysext/info_pagetsconfig/\";s:12:\"typo3RelPath\";s:25:\"sysext/info_pagetsconfig/\";s:14:\"ext_tables.php\";s:74:\"/home/gregory/www/typo3dummy/typo3/sysext/info_pagetsconfig/ext_tables.php\";}s:8:\"viewpage\";a:4:{s:4:\"type\";s:1:\"S\";s:11:\"siteRelPath\";s:22:\"typo3/sysext/viewpage/\";s:12:\"typo3RelPath\";s:16:\"sysext/viewpage/\";s:14:\"ext_tables.php\";s:65:\"/home/gregory/www/typo3dummy/typo3/sysext/viewpage/ext_tables.php\";}s:11:\"rtehtmlarea\";a:6:{s:4:\"type\";s:1:\"S\";s:11:\"siteRelPath\";s:25:\"typo3/sysext/rtehtmlarea/\";s:12:\"typo3RelPath\";s:19:\"sysext/rtehtmlarea/\";s:17:\"ext_localconf.php\";s:71:\"/home/gregory/www/typo3dummy/typo3/sysext/rtehtmlarea/ext_localconf.php\";s:14:\"ext_tables.php\";s:68:\"/home/gregory/www/typo3dummy/typo3/sysext/rtehtmlarea/ext_tables.php\";s:14:\"ext_tables.sql\";s:68:\"/home/gregory/www/typo3dummy/typo3/sysext/rtehtmlarea/ext_tables.sql\";}s:6:\"t3skin\";a:5:{s:4:\"type\";s:1:\"S\";s:11:\"siteRelPath\";s:20:\"typo3/sysext/t3skin/\";s:12:\"typo3RelPath\";s:14:\"sysext/t3skin/\";s:17:\"ext_localconf.php\";s:66:\"/home/gregory/www/typo3dummy/typo3/sysext/t3skin/ext_localconf.php\";s:14:\"ext_tables.php\";s:63:\"/home/gregory/www/typo3dummy/typo3/sysext/t3skin/ext_tables.php\";}s:8:\"t3editor\";a:5:{s:4:\"type\";s:1:\"S\";s:11:\"siteRelPath\";s:22:\"typo3/sysext/t3editor/\";s:12:\"typo3RelPath\";s:16:\"sysext/t3editor/\";s:17:\"ext_localconf.php\";s:68:\"/home/gregory/www/typo3dummy/typo3/sysext/t3editor/ext_localconf.php\";s:14:\"ext_tables.php\";s:65:\"/home/gregory/www/typo3dummy/typo3/sysext/t3editor/ext_tables.php\";}s:7:\"reports\";a:5:{s:4:\"type\";s:1:\"S\";s:11:\"siteRelPath\";s:21:\"typo3/sysext/reports/\";s:12:\"typo3RelPath\";s:15:\"sysext/reports/\";s:17:\"ext_localconf.php\";s:67:\"/home/gregory/www/typo3dummy/typo3/sysext/reports/ext_localconf.php\";s:14:\"ext_tables.php\";s:64:\"/home/gregory/www/typo3dummy/typo3/sysext/reports/ext_tables.php\";}s:7:\"felogin\";a:7:{s:4:\"type\";s:1:\"S\";s:11:\"siteRelPath\";s:21:\"typo3/sysext/felogin/\";s:12:\"typo3RelPath\";s:15:\"sysext/felogin/\";s:17:\"ext_localconf.php\";s:67:\"/home/gregory/www/typo3dummy/typo3/sysext/felogin/ext_localconf.php\";s:14:\"ext_tables.php\";s:64:\"/home/gregory/www/typo3dummy/typo3/sysext/felogin/ext_tables.php\";s:14:\"ext_tables.sql\";s:64:\"/home/gregory/www/typo3dummy/typo3/sysext/felogin/ext_tables.sql\";s:24:\"ext_typoscript_setup.txt\";s:74:\"/home/gregory/www/typo3dummy/typo3/sysext/felogin/ext_typoscript_setup.txt\";}s:6:\"gc_lib\";a:4:{s:4:\"type\";s:1:\"L\";s:11:\"siteRelPath\";s:21:\"typo3conf/ext/gc_lib/\";s:12:\"typo3RelPath\";s:24:\"../typo3conf/ext/gc_lib/\";s:17:\"ext_localconf.php\";s:67:\"/home/gregory/www/typo3dummy/typo3conf/ext/gc_lib/ext_localconf.php\";}s:10:\"skin_dummy\";a:6:{s:4:\"type\";s:1:\"L\";s:11:\"siteRelPath\";s:25:\"typo3conf/ext/skin_dummy/\";s:12:\"typo3RelPath\";s:28:\"../typo3conf/ext/skin_dummy/\";s:17:\"ext_localconf.php\";s:71:\"/home/gregory/www/typo3dummy/typo3conf/ext/skin_dummy/ext_localconf.php\";s:28:\"ext_typoscript_constants.txt\";s:82:\"/home/gregory/www/typo3dummy/typo3conf/ext/skin_dummy/ext_typoscript_constants.txt\";s:24:\"ext_typoscript_setup.txt\";s:78:\"/home/gregory/www/typo3dummy/typo3conf/ext/skin_dummy/ext_typoscript_setup.txt\";}s:4:\"skin\";a:6:{s:4:\"type\";s:1:\"L\";s:11:\"siteRelPath\";s:19:\"typo3conf/ext/skin/\";s:12:\"typo3RelPath\";s:22:\"../typo3conf/ext/skin/\";s:17:\"ext_localconf.php\";s:65:\"/home/gregory/www/typo3dummy/typo3conf/ext/skin/ext_localconf.php\";s:28:\"ext_typoscript_constants.txt\";s:76:\"/home/gregory/www/typo3dummy/typo3conf/ext/skin/ext_typoscript_constants.txt\";s:24:\"ext_typoscript_setup.txt\";s:72:\"/home/gregory/www/typo3dummy/typo3conf/ext/skin/ext_typoscript_setup.txt\";}s:16:\"automaketemplate\";a:4:{s:4:\"type\";s:1:\"L\";s:11:\"siteRelPath\";s:31:\"typo3conf/ext/automaketemplate/\";s:12:\"typo3RelPath\";s:34:\"../typo3conf/ext/automaketemplate/\";s:17:\"ext_localconf.php\";s:77:\"/home/gregory/www/typo3dummy/typo3conf/ext/automaketemplate/ext_localconf.php\";}s:10:\"kb_nescefe\";a:6:{s:4:\"type\";s:1:\"L\";s:11:\"siteRelPath\";s:25:\"typo3conf/ext/kb_nescefe/\";s:12:\"typo3RelPath\";s:28:\"../typo3conf/ext/kb_nescefe/\";s:17:\"ext_localconf.php\";s:71:\"/home/gregory/www/typo3dummy/typo3conf/ext/kb_nescefe/ext_localconf.php\";s:14:\"ext_tables.php\";s:68:\"/home/gregory/www/typo3dummy/typo3conf/ext/kb_nescefe/ext_tables.php\";s:14:\"ext_tables.sql\";s:68:\"/home/gregory/www/typo3dummy/typo3conf/ext/kb_nescefe/ext_tables.sql\";}s:10:\"_CACHEFILE\";s:18:\"temp_CACHED_psec1a\";}'));
+$TYPO3_LOADED_EXT = unserialize(stripslashes('a:63:{s:3:\"cms\";a:6:{s:4:\"type\";s:1:\"S\";s:11:\"siteRelPath\";s:17:\"typo3/sysext/cms/\";s:12:\"typo3RelPath\";s:11:\"sysext/cms/\";s:17:\"ext_localconf.php\";s:63:\"/home/gregory/www/typo3dummy/typo3/sysext/cms/ext_localconf.php\";s:14:\"ext_tables.php\";s:60:\"/home/gregory/www/typo3dummy/typo3/sysext/cms/ext_tables.php\";s:14:\"ext_tables.sql\";s:60:\"/home/gregory/www/typo3dummy/typo3/sysext/cms/ext_tables.sql\";}s:4:\"lang\";a:3:{s:4:\"type\";s:1:\"S\";s:11:\"siteRelPath\";s:18:\"typo3/sysext/lang/\";s:12:\"typo3RelPath\";s:12:\"sysext/lang/\";}s:2:\"sv\";a:5:{s:4:\"type\";s:1:\"S\";s:11:\"siteRelPath\";s:16:\"typo3/sysext/sv/\";s:12:\"typo3RelPath\";s:10:\"sysext/sv/\";s:17:\"ext_localconf.php\";s:62:\"/home/gregory/www/typo3dummy/typo3/sysext/sv/ext_localconf.php\";s:14:\"ext_tables.php\";s:59:\"/home/gregory/www/typo3dummy/typo3/sysext/sv/ext_tables.php\";}s:2:\"em\";a:7:{s:4:\"type\";s:1:\"S\";s:11:\"siteRelPath\";s:16:\"typo3/sysext/em/\";s:12:\"typo3RelPath\";s:10:\"sysext/em/\";s:17:\"ext_localconf.php\";s:62:\"/home/gregory/www/typo3dummy/typo3/sysext/em/ext_localconf.php\";s:14:\"ext_tables.php\";s:59:\"/home/gregory/www/typo3dummy/typo3/sysext/em/ext_tables.php\";s:14:\"ext_tables.sql\";s:59:\"/home/gregory/www/typo3dummy/typo3/sysext/em/ext_tables.sql\";s:25:\"ext_tables_static+adt.sql\";s:70:\"/home/gregory/www/typo3dummy/typo3/sysext/em/ext_tables_static+adt.sql\";}s:10:\"recordlist\";a:4:{s:4:\"type\";s:1:\"S\";s:11:\"siteRelPath\";s:24:\"typo3/sysext/recordlist/\";s:12:\"typo3RelPath\";s:18:\"sysext/recordlist/\";s:14:\"ext_tables.php\";s:67:\"/home/gregory/www/typo3dummy/typo3/sysext/recordlist/ext_tables.php\";}s:18:\"css_styled_content\";a:5:{s:4:\"type\";s:1:\"S\";s:11:\"siteRelPath\";s:32:\"typo3/sysext/css_styled_content/\";s:12:\"typo3RelPath\";s:26:\"sysext/css_styled_content/\";s:17:\"ext_localconf.php\";s:78:\"/home/gregory/www/typo3dummy/typo3/sysext/css_styled_content/ext_localconf.php\";s:14:\"ext_tables.php\";s:75:\"/home/gregory/www/typo3dummy/typo3/sysext/css_styled_content/ext_tables.php\";}s:4:\"info\";a:4:{s:4:\"type\";s:1:\"S\";s:11:\"siteRelPath\";s:18:\"typo3/sysext/info/\";s:12:\"typo3RelPath\";s:12:\"sysext/info/\";s:14:\"ext_tables.php\";s:61:\"/home/gregory/www/typo3dummy/typo3/sysext/info/ext_tables.php\";}s:4:\"perm\";a:4:{s:4:\"type\";s:1:\"S\";s:11:\"siteRelPath\";s:18:\"typo3/sysext/perm/\";s:12:\"typo3RelPath\";s:12:\"sysext/perm/\";s:14:\"ext_tables.php\";s:61:\"/home/gregory/www/typo3dummy/typo3/sysext/perm/ext_tables.php\";}s:4:\"func\";a:4:{s:4:\"type\";s:1:\"S\";s:11:\"siteRelPath\";s:18:\"typo3/sysext/func/\";s:12:\"typo3RelPath\";s:12:\"sysext/func/\";s:14:\"ext_tables.php\";s:61:\"/home/gregory/www/typo3dummy/typo3/sysext/func/ext_tables.php\";}s:8:\"filelist\";a:4:{s:4:\"type\";s:1:\"S\";s:11:\"siteRelPath\";s:22:\"typo3/sysext/filelist/\";s:12:\"typo3RelPath\";s:16:\"sysext/filelist/\";s:14:\"ext_tables.php\";s:65:\"/home/gregory/www/typo3dummy/typo3/sysext/filelist/ext_tables.php\";}s:5:\"about\";a:4:{s:4:\"type\";s:1:\"S\";s:11:\"siteRelPath\";s:19:\"typo3/sysext/about/\";s:12:\"typo3RelPath\";s:13:\"sysext/about/\";s:14:\"ext_tables.php\";s:62:\"/home/gregory/www/typo3dummy/typo3/sysext/about/ext_tables.php\";}s:7:\"version\";a:5:{s:4:\"type\";s:1:\"S\";s:11:\"siteRelPath\";s:21:\"typo3/sysext/version/\";s:12:\"typo3RelPath\";s:15:\"sysext/version/\";s:17:\"ext_localconf.php\";s:67:\"/home/gregory/www/typo3dummy/typo3/sysext/version/ext_localconf.php\";s:14:\"ext_tables.php\";s:64:\"/home/gregory/www/typo3dummy/typo3/sysext/version/ext_tables.php\";}s:13:\"tsconfig_help\";a:6:{s:4:\"type\";s:1:\"S\";s:11:\"siteRelPath\";s:27:\"typo3/sysext/tsconfig_help/\";s:12:\"typo3RelPath\";s:21:\"sysext/tsconfig_help/\";s:14:\"ext_tables.php\";s:70:\"/home/gregory/www/typo3dummy/typo3/sysext/tsconfig_help/ext_tables.php\";s:14:\"ext_tables.sql\";s:70:\"/home/gregory/www/typo3dummy/typo3/sysext/tsconfig_help/ext_tables.sql\";s:25:\"ext_tables_static+adt.sql\";s:81:\"/home/gregory/www/typo3dummy/typo3/sysext/tsconfig_help/ext_tables_static+adt.sql\";}s:12:\"context_help\";a:4:{s:4:\"type\";s:1:\"S\";s:11:\"siteRelPath\";s:26:\"typo3/sysext/context_help/\";s:12:\"typo3RelPath\";s:20:\"sysext/context_help/\";s:14:\"ext_tables.php\";s:69:\"/home/gregory/www/typo3dummy/typo3/sysext/context_help/ext_tables.php\";}s:21:\"extra_page_cm_options\";a:4:{s:4:\"type\";s:1:\"S\";s:11:\"siteRelPath\";s:35:\"typo3/sysext/extra_page_cm_options/\";s:12:\"typo3RelPath\";s:29:\"sysext/extra_page_cm_options/\";s:14:\"ext_tables.php\";s:78:\"/home/gregory/www/typo3dummy/typo3/sysext/extra_page_cm_options/ext_tables.php\";}s:6:\"impexp\";a:5:{s:4:\"type\";s:1:\"S\";s:11:\"siteRelPath\";s:20:\"typo3/sysext/impexp/\";s:12:\"typo3RelPath\";s:14:\"sysext/impexp/\";s:14:\"ext_tables.php\";s:63:\"/home/gregory/www/typo3dummy/typo3/sysext/impexp/ext_tables.php\";s:14:\"ext_tables.sql\";s:63:\"/home/gregory/www/typo3dummy/typo3/sysext/impexp/ext_tables.sql\";}s:8:\"sys_note\";a:5:{s:4:\"type\";s:1:\"S\";s:11:\"siteRelPath\";s:22:\"typo3/sysext/sys_note/\";s:12:\"typo3RelPath\";s:16:\"sysext/sys_note/\";s:14:\"ext_tables.php\";s:65:\"/home/gregory/www/typo3dummy/typo3/sysext/sys_note/ext_tables.php\";s:14:\"ext_tables.sql\";s:65:\"/home/gregory/www/typo3dummy/typo3/sysext/sys_note/ext_tables.sql\";}s:10:\"tstemplate\";a:4:{s:4:\"type\";s:1:\"S\";s:11:\"siteRelPath\";s:24:\"typo3/sysext/tstemplate/\";s:12:\"typo3RelPath\";s:18:\"sysext/tstemplate/\";s:14:\"ext_tables.php\";s:67:\"/home/gregory/www/typo3dummy/typo3/sysext/tstemplate/ext_tables.php\";}s:18:\"tstemplate_ceditor\";a:4:{s:4:\"type\";s:1:\"S\";s:11:\"siteRelPath\";s:32:\"typo3/sysext/tstemplate_ceditor/\";s:12:\"typo3RelPath\";s:26:\"sysext/tstemplate_ceditor/\";s:14:\"ext_tables.php\";s:75:\"/home/gregory/www/typo3dummy/typo3/sysext/tstemplate_ceditor/ext_tables.php\";}s:15:\"tstemplate_info\";a:4:{s:4:\"type\";s:1:\"S\";s:11:\"siteRelPath\";s:29:\"typo3/sysext/tstemplate_info/\";s:12:\"typo3RelPath\";s:23:\"sysext/tstemplate_info/\";s:14:\"ext_tables.php\";s:72:\"/home/gregory/www/typo3dummy/typo3/sysext/tstemplate_info/ext_tables.php\";}s:21:\"tstemplate_objbrowser\";a:4:{s:4:\"type\";s:1:\"S\";s:11:\"siteRelPath\";s:35:\"typo3/sysext/tstemplate_objbrowser/\";s:12:\"typo3RelPath\";s:29:\"sysext/tstemplate_objbrowser/\";s:14:\"ext_tables.php\";s:78:\"/home/gregory/www/typo3dummy/typo3/sysext/tstemplate_objbrowser/ext_tables.php\";}s:19:\"tstemplate_analyzer\";a:4:{s:4:\"type\";s:1:\"S\";s:11:\"siteRelPath\";s:33:\"typo3/sysext/tstemplate_analyzer/\";s:12:\"typo3RelPath\";s:27:\"sysext/tstemplate_analyzer/\";s:14:\"ext_tables.php\";s:76:\"/home/gregory/www/typo3dummy/typo3/sysext/tstemplate_analyzer/ext_tables.php\";}s:12:\"func_wizards\";a:4:{s:4:\"type\";s:1:\"S\";s:11:\"siteRelPath\";s:26:\"typo3/sysext/func_wizards/\";s:12:\"typo3RelPath\";s:20:\"sysext/func_wizards/\";s:14:\"ext_tables.php\";s:69:\"/home/gregory/www/typo3dummy/typo3/sysext/func_wizards/ext_tables.php\";}s:14:\"wizard_crpages\";a:4:{s:4:\"type\";s:1:\"S\";s:11:\"siteRelPath\";s:28:\"typo3/sysext/wizard_crpages/\";s:12:\"typo3RelPath\";s:22:\"sysext/wizard_crpages/\";s:14:\"ext_tables.php\";s:71:\"/home/gregory/www/typo3dummy/typo3/sysext/wizard_crpages/ext_tables.php\";}s:16:\"wizard_sortpages\";a:4:{s:4:\"type\";s:1:\"S\";s:11:\"siteRelPath\";s:30:\"typo3/sysext/wizard_sortpages/\";s:12:\"typo3RelPath\";s:24:\"sysext/wizard_sortpages/\";s:14:\"ext_tables.php\";s:73:\"/home/gregory/www/typo3dummy/typo3/sysext/wizard_sortpages/ext_tables.php\";}s:8:\"lowlevel\";a:5:{s:4:\"type\";s:1:\"S\";s:11:\"siteRelPath\";s:22:\"typo3/sysext/lowlevel/\";s:12:\"typo3RelPath\";s:16:\"sysext/lowlevel/\";s:17:\"ext_localconf.php\";s:68:\"/home/gregory/www/typo3dummy/typo3/sysext/lowlevel/ext_localconf.php\";s:14:\"ext_tables.php\";s:65:\"/home/gregory/www/typo3dummy/typo3/sysext/lowlevel/ext_tables.php\";}s:7:\"install\";a:5:{s:4:\"type\";s:1:\"S\";s:11:\"siteRelPath\";s:21:\"typo3/sysext/install/\";s:12:\"typo3RelPath\";s:15:\"sysext/install/\";s:17:\"ext_localconf.php\";s:67:\"/home/gregory/www/typo3dummy/typo3/sysext/install/ext_localconf.php\";s:14:\"ext_tables.php\";s:64:\"/home/gregory/www/typo3dummy/typo3/sysext/install/ext_tables.php\";}s:5:\"belog\";a:4:{s:4:\"type\";s:1:\"S\";s:11:\"siteRelPath\";s:19:\"typo3/sysext/belog/\";s:12:\"typo3RelPath\";s:13:\"sysext/belog/\";s:14:\"ext_tables.php\";s:62:\"/home/gregory/www/typo3dummy/typo3/sysext/belog/ext_tables.php\";}s:6:\"beuser\";a:5:{s:4:\"type\";s:1:\"S\";s:11:\"siteRelPath\";s:20:\"typo3/sysext/beuser/\";s:12:\"typo3RelPath\";s:14:\"sysext/beuser/\";s:17:\"ext_localconf.php\";s:66:\"/home/gregory/www/typo3dummy/typo3/sysext/beuser/ext_localconf.php\";s:14:\"ext_tables.php\";s:63:\"/home/gregory/www/typo3dummy/typo3/sysext/beuser/ext_tables.php\";}s:12:\"aboutmodules\";a:4:{s:4:\"type\";s:1:\"S\";s:11:\"siteRelPath\";s:26:\"typo3/sysext/aboutmodules/\";s:12:\"typo3RelPath\";s:20:\"sysext/aboutmodules/\";s:14:\"ext_tables.php\";s:69:\"/home/gregory/www/typo3dummy/typo3/sysext/aboutmodules/ext_tables.php\";}s:5:\"setup\";a:4:{s:4:\"type\";s:1:\"S\";s:11:\"siteRelPath\";s:19:\"typo3/sysext/setup/\";s:12:\"typo3RelPath\";s:13:\"sysext/setup/\";s:14:\"ext_tables.php\";s:62:\"/home/gregory/www/typo3dummy/typo3/sysext/setup/ext_tables.php\";}s:10:\"taskcenter\";a:4:{s:4:\"type\";s:1:\"S\";s:11:\"siteRelPath\";s:24:\"typo3/sysext/taskcenter/\";s:12:\"typo3RelPath\";s:18:\"sysext/taskcenter/\";s:14:\"ext_tables.php\";s:67:\"/home/gregory/www/typo3dummy/typo3/sysext/taskcenter/ext_tables.php\";}s:17:\"info_pagetsconfig\";a:4:{s:4:\"type\";s:1:\"S\";s:11:\"siteRelPath\";s:31:\"typo3/sysext/info_pagetsconfig/\";s:12:\"typo3RelPath\";s:25:\"sysext/info_pagetsconfig/\";s:14:\"ext_tables.php\";s:74:\"/home/gregory/www/typo3dummy/typo3/sysext/info_pagetsconfig/ext_tables.php\";}s:8:\"viewpage\";a:4:{s:4:\"type\";s:1:\"S\";s:11:\"siteRelPath\";s:22:\"typo3/sysext/viewpage/\";s:12:\"typo3RelPath\";s:16:\"sysext/viewpage/\";s:14:\"ext_tables.php\";s:65:\"/home/gregory/www/typo3dummy/typo3/sysext/viewpage/ext_tables.php\";}s:11:\"rtehtmlarea\";a:6:{s:4:\"type\";s:1:\"S\";s:11:\"siteRelPath\";s:25:\"typo3/sysext/rtehtmlarea/\";s:12:\"typo3RelPath\";s:19:\"sysext/rtehtmlarea/\";s:17:\"ext_localconf.php\";s:71:\"/home/gregory/www/typo3dummy/typo3/sysext/rtehtmlarea/ext_localconf.php\";s:14:\"ext_tables.php\";s:68:\"/home/gregory/www/typo3dummy/typo3/sysext/rtehtmlarea/ext_tables.php\";s:14:\"ext_tables.sql\";s:68:\"/home/gregory/www/typo3dummy/typo3/sysext/rtehtmlarea/ext_tables.sql\";}s:6:\"t3skin\";a:5:{s:4:\"type\";s:1:\"S\";s:11:\"siteRelPath\";s:20:\"typo3/sysext/t3skin/\";s:12:\"typo3RelPath\";s:14:\"sysext/t3skin/\";s:17:\"ext_localconf.php\";s:66:\"/home/gregory/www/typo3dummy/typo3/sysext/t3skin/ext_localconf.php\";s:14:\"ext_tables.php\";s:63:\"/home/gregory/www/typo3dummy/typo3/sysext/t3skin/ext_tables.php\";}s:8:\"t3editor\";a:5:{s:4:\"type\";s:1:\"S\";s:11:\"siteRelPath\";s:22:\"typo3/sysext/t3editor/\";s:12:\"typo3RelPath\";s:16:\"sysext/t3editor/\";s:17:\"ext_localconf.php\";s:68:\"/home/gregory/www/typo3dummy/typo3/sysext/t3editor/ext_localconf.php\";s:14:\"ext_tables.php\";s:65:\"/home/gregory/www/typo3dummy/typo3/sysext/t3editor/ext_tables.php\";}s:7:\"reports\";a:5:{s:4:\"type\";s:1:\"S\";s:11:\"siteRelPath\";s:21:\"typo3/sysext/reports/\";s:12:\"typo3RelPath\";s:15:\"sysext/reports/\";s:17:\"ext_localconf.php\";s:67:\"/home/gregory/www/typo3dummy/typo3/sysext/reports/ext_localconf.php\";s:14:\"ext_tables.php\";s:64:\"/home/gregory/www/typo3dummy/typo3/sysext/reports/ext_tables.php\";}s:7:\"felogin\";a:7:{s:4:\"type\";s:1:\"S\";s:11:\"siteRelPath\";s:21:\"typo3/sysext/felogin/\";s:12:\"typo3RelPath\";s:15:\"sysext/felogin/\";s:17:\"ext_localconf.php\";s:67:\"/home/gregory/www/typo3dummy/typo3/sysext/felogin/ext_localconf.php\";s:14:\"ext_tables.php\";s:64:\"/home/gregory/www/typo3dummy/typo3/sysext/felogin/ext_tables.php\";s:14:\"ext_tables.sql\";s:64:\"/home/gregory/www/typo3dummy/typo3/sysext/felogin/ext_tables.sql\";s:24:\"ext_typoscript_setup.txt\";s:74:\"/home/gregory/www/typo3dummy/typo3/sysext/felogin/ext_typoscript_setup.txt\";}s:6:\"gc_lib\";a:4:{s:4:\"type\";s:1:\"L\";s:11:\"siteRelPath\";s:21:\"typo3conf/ext/gc_lib/\";s:12:\"typo3RelPath\";s:24:\"../typo3conf/ext/gc_lib/\";s:17:\"ext_localconf.php\";s:67:\"/home/gregory/www/typo3dummy/typo3conf/ext/gc_lib/ext_localconf.php\";}s:10:\"skin_dummy\";a:6:{s:4:\"type\";s:1:\"L\";s:11:\"siteRelPath\";s:25:\"typo3conf/ext/skin_dummy/\";s:12:\"typo3RelPath\";s:28:\"../typo3conf/ext/skin_dummy/\";s:17:\"ext_localconf.php\";s:71:\"/home/gregory/www/typo3dummy/typo3conf/ext/skin_dummy/ext_localconf.php\";s:28:\"ext_typoscript_constants.txt\";s:82:\"/home/gregory/www/typo3dummy/typo3conf/ext/skin_dummy/ext_typoscript_constants.txt\";s:24:\"ext_typoscript_setup.txt\";s:78:\"/home/gregory/www/typo3dummy/typo3conf/ext/skin_dummy/ext_typoscript_setup.txt\";}s:4:\"skin\";a:6:{s:4:\"type\";s:1:\"L\";s:11:\"siteRelPath\";s:19:\"typo3conf/ext/skin/\";s:12:\"typo3RelPath\";s:22:\"../typo3conf/ext/skin/\";s:17:\"ext_localconf.php\";s:65:\"/home/gregory/www/typo3dummy/typo3conf/ext/skin/ext_localconf.php\";s:28:\"ext_typoscript_constants.txt\";s:76:\"/home/gregory/www/typo3dummy/typo3conf/ext/skin/ext_typoscript_constants.txt\";s:24:\"ext_typoscript_setup.txt\";s:72:\"/home/gregory/www/typo3dummy/typo3conf/ext/skin/ext_typoscript_setup.txt\";}s:16:\"automaketemplate\";a:4:{s:4:\"type\";s:1:\"L\";s:11:\"siteRelPath\";s:31:\"typo3conf/ext/automaketemplate/\";s:12:\"typo3RelPath\";s:34:\"../typo3conf/ext/automaketemplate/\";s:17:\"ext_localconf.php\";s:77:\"/home/gregory/www/typo3dummy/typo3conf/ext/automaketemplate/ext_localconf.php\";}s:10:\"kb_nescefe\";a:6:{s:4:\"type\";s:1:\"L\";s:11:\"siteRelPath\";s:25:\"typo3conf/ext/kb_nescefe/\";s:12:\"typo3RelPath\";s:28:\"../typo3conf/ext/kb_nescefe/\";s:17:\"ext_localconf.php\";s:71:\"/home/gregory/www/typo3dummy/typo3conf/ext/kb_nescefe/ext_localconf.php\";s:14:\"ext_tables.php\";s:68:\"/home/gregory/www/typo3dummy/typo3conf/ext/kb_nescefe/ext_tables.php\";s:14:\"ext_tables.sql\";s:68:\"/home/gregory/www/typo3dummy/typo3conf/ext/kb_nescefe/ext_tables.sql\";}s:10:\"p2_realurl\";a:4:{s:4:\"type\";s:1:\"L\";s:11:\"siteRelPath\";s:25:\"typo3conf/ext/p2_realurl/\";s:12:\"typo3RelPath\";s:28:\"../typo3conf/ext/p2_realurl/\";s:17:\"ext_localconf.php\";s:71:\"/home/gregory/www/typo3dummy/typo3conf/ext/p2_realurl/ext_localconf.php\";}s:18:\"static_info_tables\";a:7:{s:4:\"type\";s:1:\"L\";s:11:\"siteRelPath\";s:33:\"typo3conf/ext/static_info_tables/\";s:12:\"typo3RelPath\";s:36:\"../typo3conf/ext/static_info_tables/\";s:17:\"ext_localconf.php\";s:79:\"/home/gregory/www/typo3dummy/typo3conf/ext/static_info_tables/ext_localconf.php\";s:14:\"ext_tables.php\";s:76:\"/home/gregory/www/typo3dummy/typo3conf/ext/static_info_tables/ext_tables.php\";s:14:\"ext_tables.sql\";s:76:\"/home/gregory/www/typo3dummy/typo3conf/ext/static_info_tables/ext_tables.sql\";s:25:\"ext_tables_static+adt.sql\";s:87:\"/home/gregory/www/typo3dummy/typo3conf/ext/static_info_tables/ext_tables_static+adt.sql\";}s:7:\"captcha\";a:4:{s:4:\"type\";s:1:\"L\";s:11:\"siteRelPath\";s:22:\"typo3conf/ext/captcha/\";s:12:\"typo3RelPath\";s:25:\"../typo3conf/ext/captcha/\";s:17:\"ext_localconf.php\";s:68:\"/home/gregory/www/typo3dummy/typo3conf/ext/captcha/ext_localconf.php\";}s:12:\"jb_gd_resize\";a:4:{s:4:\"type\";s:1:\"L\";s:11:\"siteRelPath\";s:27:\"typo3conf/ext/jb_gd_resize/\";s:12:\"typo3RelPath\";s:30:\"../typo3conf/ext/jb_gd_resize/\";s:17:\"ext_localconf.php\";s:73:\"/home/gregory/www/typo3dummy/typo3conf/ext/jb_gd_resize/ext_localconf.php\";}s:18:\"bvd_set_page_title\";a:4:{s:4:\"type\";s:1:\"L\";s:11:\"siteRelPath\";s:33:\"typo3conf/ext/bvd_set_page_title/\";s:12:\"typo3RelPath\";s:36:\"../typo3conf/ext/bvd_set_page_title/\";s:17:\"ext_localconf.php\";s:79:\"/home/gregory/www/typo3dummy/typo3conf/ext/bvd_set_page_title/ext_localconf.php\";}s:19:\"wec_contentelements\";a:5:{s:4:\"type\";s:1:\"L\";s:11:\"siteRelPath\";s:34:\"typo3conf/ext/wec_contentelements/\";s:12:\"typo3RelPath\";s:37:\"../typo3conf/ext/wec_contentelements/\";s:17:\"ext_localconf.php\";s:80:\"/home/gregory/www/typo3dummy/typo3conf/ext/wec_contentelements/ext_localconf.php\";s:14:\"ext_tables.php\";s:77:\"/home/gregory/www/typo3dummy/typo3conf/ext/wec_contentelements/ext_tables.php\";}s:7:\"realurl\";a:6:{s:4:\"type\";s:1:\"L\";s:11:\"siteRelPath\";s:22:\"typo3conf/ext/realurl/\";s:12:\"typo3RelPath\";s:25:\"../typo3conf/ext/realurl/\";s:17:\"ext_localconf.php\";s:68:\"/home/gregory/www/typo3dummy/typo3conf/ext/realurl/ext_localconf.php\";s:14:\"ext_tables.php\";s:65:\"/home/gregory/www/typo3dummy/typo3conf/ext/realurl/ext_tables.php\";s:14:\"ext_tables.sql\";s:65:\"/home/gregory/www/typo3dummy/typo3conf/ext/realurl/ext_tables.sql\";}s:17:\"realurlmanagement\";a:5:{s:4:\"type\";s:1:\"L\";s:11:\"siteRelPath\";s:32:\"typo3conf/ext/realurlmanagement/\";s:12:\"typo3RelPath\";s:35:\"../typo3conf/ext/realurlmanagement/\";s:17:\"ext_localconf.php\";s:78:\"/home/gregory/www/typo3dummy/typo3conf/ext/realurlmanagement/ext_localconf.php\";s:14:\"ext_tables.php\";s:75:\"/home/gregory/www/typo3dummy/typo3conf/ext/realurlmanagement/ext_tables.php\";}s:6:\"tscobj\";a:5:{s:4:\"type\";s:1:\"L\";s:11:\"siteRelPath\";s:21:\"typo3conf/ext/tscobj/\";s:12:\"typo3RelPath\";s:24:\"../typo3conf/ext/tscobj/\";s:17:\"ext_localconf.php\";s:67:\"/home/gregory/www/typo3dummy/typo3conf/ext/tscobj/ext_localconf.php\";s:14:\"ext_tables.php\";s:64:\"/home/gregory/www/typo3dummy/typo3conf/ext/tscobj/ext_tables.php\";}s:20:\"weeaar_googlesitemap\";a:6:{s:4:\"type\";s:1:\"L\";s:11:\"siteRelPath\";s:35:\"typo3conf/ext/weeaar_googlesitemap/\";s:12:\"typo3RelPath\";s:38:\"../typo3conf/ext/weeaar_googlesitemap/\";s:17:\"ext_localconf.php\";s:81:\"/home/gregory/www/typo3dummy/typo3conf/ext/weeaar_googlesitemap/ext_localconf.php\";s:14:\"ext_tables.php\";s:78:\"/home/gregory/www/typo3dummy/typo3conf/ext/weeaar_googlesitemap/ext_tables.php\";s:14:\"ext_tables.sql\";s:78:\"/home/gregory/www/typo3dummy/typo3conf/ext/weeaar_googlesitemap/ext_tables.sql\";}s:14:\"indexed_search\";a:8:{s:4:\"type\";s:1:\"S\";s:11:\"siteRelPath\";s:28:\"typo3/sysext/indexed_search/\";s:12:\"typo3RelPath\";s:22:\"sysext/indexed_search/\";s:17:\"ext_localconf.php\";s:74:\"/home/gregory/www/typo3dummy/typo3/sysext/indexed_search/ext_localconf.php\";s:14:\"ext_tables.php\";s:71:\"/home/gregory/www/typo3dummy/typo3/sysext/indexed_search/ext_tables.php\";s:14:\"ext_tables.sql\";s:71:\"/home/gregory/www/typo3dummy/typo3/sysext/indexed_search/ext_tables.sql\";s:28:\"ext_typoscript_editorcfg.txt\";s:85:\"/home/gregory/www/typo3dummy/typo3/sysext/indexed_search/ext_typoscript_editorcfg.txt\";s:24:\"ext_typoscript_setup.txt\";s:81:\"/home/gregory/www/typo3dummy/typo3/sysext/indexed_search/ext_typoscript_setup.txt\";}s:5:\"irfaq\";a:6:{s:4:\"type\";s:1:\"L\";s:11:\"siteRelPath\";s:20:\"typo3conf/ext/irfaq/\";s:12:\"typo3RelPath\";s:23:\"../typo3conf/ext/irfaq/\";s:17:\"ext_localconf.php\";s:66:\"/home/gregory/www/typo3dummy/typo3conf/ext/irfaq/ext_localconf.php\";s:14:\"ext_tables.php\";s:63:\"/home/gregory/www/typo3dummy/typo3conf/ext/irfaq/ext_tables.php\";s:14:\"ext_tables.sql\";s:63:\"/home/gregory/www/typo3dummy/typo3conf/ext/irfaq/ext_tables.sql\";}s:7:\"tt_news\";a:6:{s:4:\"type\";s:1:\"L\";s:11:\"siteRelPath\";s:22:\"typo3conf/ext/tt_news/\";s:12:\"typo3RelPath\";s:25:\"../typo3conf/ext/tt_news/\";s:17:\"ext_localconf.php\";s:68:\"/home/gregory/www/typo3dummy/typo3conf/ext/tt_news/ext_localconf.php\";s:14:\"ext_tables.php\";s:65:\"/home/gregory/www/typo3dummy/typo3conf/ext/tt_news/ext_tables.php\";s:14:\"ext_tables.sql\";s:65:\"/home/gregory/www/typo3dummy/typo3conf/ext/tt_news/ext_tables.sql\";}s:13:\"mbl_newsevent\";a:6:{s:4:\"type\";s:1:\"L\";s:11:\"siteRelPath\";s:28:\"typo3conf/ext/mbl_newsevent/\";s:12:\"typo3RelPath\";s:31:\"../typo3conf/ext/mbl_newsevent/\";s:17:\"ext_localconf.php\";s:74:\"/home/gregory/www/typo3dummy/typo3conf/ext/mbl_newsevent/ext_localconf.php\";s:14:\"ext_tables.php\";s:71:\"/home/gregory/www/typo3dummy/typo3conf/ext/mbl_newsevent/ext_tables.php\";s:14:\"ext_tables.sql\";s:71:\"/home/gregory/www/typo3dummy/typo3conf/ext/mbl_newsevent/ext_tables.sql\";}s:9:\"powermail\";a:6:{s:4:\"type\";s:1:\"L\";s:11:\"siteRelPath\";s:24:\"typo3conf/ext/powermail/\";s:12:\"typo3RelPath\";s:27:\"../typo3conf/ext/powermail/\";s:17:\"ext_localconf.php\";s:70:\"/home/gregory/www/typo3dummy/typo3conf/ext/powermail/ext_localconf.php\";s:14:\"ext_tables.php\";s:67:\"/home/gregory/www/typo3dummy/typo3conf/ext/powermail/ext_tables.php\";s:14:\"ext_tables.sql\";s:67:\"/home/gregory/www/typo3dummy/typo3conf/ext/powermail/ext_tables.sql\";}s:21:\"ameos_dragndropupload\";a:5:{s:4:\"type\";s:1:\"L\";s:11:\"siteRelPath\";s:36:\"typo3conf/ext/ameos_dragndropupload/\";s:12:\"typo3RelPath\";s:39:\"../typo3conf/ext/ameos_dragndropupload/\";s:17:\"ext_localconf.php\";s:82:\"/home/gregory/www/typo3dummy/typo3conf/ext/ameos_dragndropupload/ext_localconf.php\";s:14:\"ext_tables.php\";s:79:\"/home/gregory/www/typo3dummy/typo3conf/ext/ameos_dragndropupload/ext_tables.php\";}s:8:\"skinFlex\";a:5:{s:4:\"type\";s:1:\"L\";s:11:\"siteRelPath\";s:23:\"typo3conf/ext/skinFlex/\";s:12:\"typo3RelPath\";s:26:\"../typo3conf/ext/skinFlex/\";s:17:\"ext_localconf.php\";s:69:\"/home/gregory/www/typo3dummy/typo3conf/ext/skinFlex/ext_localconf.php\";s:14:\"ext_tables.php\";s:66:\"/home/gregory/www/typo3dummy/typo3conf/ext/skinFlex/ext_tables.php\";}s:12:\"scriptmerger\";a:5:{s:4:\"type\";s:1:\"L\";s:11:\"siteRelPath\";s:27:\"typo3conf/ext/scriptmerger/\";s:12:\"typo3RelPath\";s:30:\"../typo3conf/ext/scriptmerger/\";s:17:\"ext_localconf.php\";s:73:\"/home/gregory/www/typo3dummy/typo3conf/ext/scriptmerger/ext_localconf.php\";s:14:\"ext_tables.php\";s:70:\"/home/gregory/www/typo3dummy/typo3conf/ext/scriptmerger/ext_tables.php\";}s:10:\"_CACHEFILE\";s:18:\"temp_CACHED_psec1a\";}'));
 
 
 ###########################
@@ -910,8 +910,12 @@ $_EXTKEY = 'skin_dummy';
 $_EXTCONF = $GLOBALS['TYPO3_CONF_VARS']['EXT']['extConf'][$_EXTKEY];
 
 
+	$_EXTCONF = unserialize($_EXTCONF);
+	t3lib_extMgm::addPageTSConfig('<INCLUDE_TYPOSCRIPT: source="FILE:EXT:skin_dummy/pageTSconfig.txt">');
 
     tx_gclib::autoGenerateSetup($_EXTKEY, array('typoscript/extensions/', 'typoscript/blocs/', 'typoscript/menus/', 'typoscript/page/'));
+
+	require_once(t3lib_extMgm::extPath('skin_dummy').'class.ux_tx_weccontentelements_lib.php');
 
 ###########################
 ## EXTENSION: skin
@@ -922,6 +926,8 @@ $_EXTKEY = 'skin';
 $_EXTCONF = $GLOBALS['TYPO3_CONF_VARS']['EXT']['extConf'][$_EXTKEY];
 
 
+	$_EXTCONF = unserialize($_EXTCONF);
+	t3lib_extMgm::addPageTSConfig('<INCLUDE_TYPOSCRIPT: source="FILE:EXT:skin/pageTSconfig.txt">');
 
     tx_gclib::autoGenerateSetup($_EXTKEY, array('typoscript/extensions/', 'typoscript/blocs/', 'typoscript/menus/', 'typoscript/page/', 'typoscript/templates/'));
 
@@ -978,5 +984,668 @@ t3lib_extMgm::addPItoST43($_EXTKEY, 'pi1/class.tx_kbnescefe_pi1.php', '_pi1', 'l
 $TCA['tt_content']['columns']['colPos']['config']['items']['kb_nescefe'] = Array('LLL:EXT:kb_nescefe/locallang_db.xml:tt_content.containerColumn', $GLOBALS['TYPO3_CONF_VARS']['EXTCONF'][$_EXTKEY]['containerElementColPos']);
 
 $GLOBALS['TYPO3_CONF_VARS']['SC_OPTIONS']['ext/impexp/class.tx_impexp.php']['before_writeRecordsRecords']['kb_nescefe'] = 'EXT:kb_nescefe/class.tx_kbnescefe_impexpHook.php:tx_kbnescefe_impexpHook->updateColPos';
+
+
+###########################
+## EXTENSION: p2_realurl
+## FILE:      /home/gregory/www/typo3dummy/typo3conf/ext/p2_realurl/ext_localconf.php
+###########################
+
+$_EXTKEY = 'p2_realurl';
+$_EXTCONF = $GLOBALS['TYPO3_CONF_VARS']['EXT']['extConf'][$_EXTKEY];
+
+
+if (!defined('TYPO3_MODE')) {
+	die ('Access denied!');
+}
+
+$TYPO3_CONF_VARS[TYPO3_MODE]['XCLASS']['ext/realurl/class.tx_realurl_advanced.php'] = t3lib_extMgm::extPath('p2_realurl').'class.ux_tx_realurl_advanced.php';
+
+
+###########################
+## EXTENSION: static_info_tables
+## FILE:      /home/gregory/www/typo3dummy/typo3conf/ext/static_info_tables/ext_localconf.php
+###########################
+
+$_EXTKEY = 'static_info_tables';
+$_EXTCONF = $GLOBALS['TYPO3_CONF_VARS']['EXT']['extConf'][$_EXTKEY];
+
+
+if (!defined ('TYPO3_MODE')) 	die ('Access denied.');
+
+if (!defined ('STATIC_INFO_TABLES_EXTkey')) {
+	define('STATIC_INFO_TABLES_EXTkey',$_EXTKEY);
+}
+
+if (!defined ('PATH_BE_staticinfotables')) {
+	define('PATH_BE_staticinfotables', t3lib_extMgm::extPath(STATIC_INFO_TABLES_EXTkey));
+}
+
+if (!defined ('PATH_BE_staticinfotables_rel')) {
+	define('PATH_BE_staticinfotables_rel', t3lib_extMgm::extRelPath(STATIC_INFO_TABLES_EXTkey));
+}
+
+$_EXTCONF = unserialize($_EXTCONF);    // unserializing the configuration so we can use it here:
+
+if (!isset($GLOBALS['TYPO3_CONF_VARS']['EXTCONF'][STATIC_INFO_TABLES_EXTkey]['charset']))	{
+	$GLOBALS['TYPO3_CONF_VARS']['EXTCONF'][STATIC_INFO_TABLES_EXTkey]['charset'] = (isset($_EXTCONF) && is_array($_EXTCONF) && $_EXTCONF['charset'] ? $_EXTCONF['charset'] : 'utf-8');
+}
+
+$labelTable = array(
+	'static_territories' => array(
+		'label_fields' => array(	// possible label fields for different languages. Default as last.
+			'tr_name_##', 'tr_name_en',
+		),
+		'isocode_field' => array(
+			'tr_iso_##',
+		),
+	),
+	'static_countries' => array(
+		'label_fields' => array(
+			'cn_short_##', 'cn_short_en',
+		),
+		'isocode_field' => array(
+			'cn_iso_##',
+		),
+	),
+	'static_country_zones' => array(
+		'label_fields' => array(
+			'zn_name_##', 'zn_name_local',
+		),
+		'isocode_field' => array(
+			'zn_code', 'zn_country_iso_##',
+		),
+	),
+	'static_languages' => array(
+		'label_fields' => array(
+			'lg_name_##', 'lg_name_en',
+		),
+		'isocode_field' => array(
+			'lg_iso_##', 'lg_country_iso_##',
+		),
+	),
+	'static_currencies' => array(
+		'label_fields' => array(
+			'cu_name_##', 'cu_name_en',
+		),
+		'isocode_field' => array(
+			'cu_iso_##',
+		),
+	),
+);
+
+if (t3lib_extMgm::isLoaded('static_info_tables_markets')) {
+	$labelTable['static_markets'] = array(
+		'label_fields' => array(
+			'institution_description',
+		),
+		'isocode_field' => array(
+			'institution_description',
+		),
+	);
+}
+
+if (isset($GLOBALS['TYPO3_CONF_VARS']['EXTCONF'][STATIC_INFO_TABLES_EXTkey]['tables']) && is_array($GLOBALS['TYPO3_CONF_VARS']['EXTCONF'][STATIC_INFO_TABLES_EXTkey]['tables'])) {
+	$GLOBALS['TYPO3_CONF_VARS']['EXTCONF'][STATIC_INFO_TABLES_EXTkey]['tables'] = array_merge ($labelTable, $GLOBALS['TYPO3_CONF_VARS']['EXTCONF'][STATIC_INFO_TABLES_EXTkey]['tables']);
+} else {
+	$GLOBALS['TYPO3_CONF_VARS']['EXTCONF'][STATIC_INFO_TABLES_EXTkey]['tables'] = $labelTable;
+}
+
+require_once(t3lib_extMgm::extPath(STATIC_INFO_TABLES_EXTkey).'class.tx_staticinfotables_div.php');
+
+###########################
+## EXTENSION: captcha
+## FILE:      /home/gregory/www/typo3dummy/typo3conf/ext/captcha/ext_localconf.php
+###########################
+
+$_EXTKEY = 'captcha';
+$_EXTCONF = $GLOBALS['TYPO3_CONF_VARS']['EXT']['extConf'][$_EXTKEY];
+
+
+if (!defined ('TYPO3_MODE')) 	die ('Access denied.');
+
+
+$_EXTCONF = unserialize($_EXTCONF);    // unserializing the configuration so we can use it here
+$GLOBALS['TYPO3_CONF_VARS']['EXTCONF'][$_EXTKEY]['useTTF'] = intval($_EXTCONF['useTTF']) ? 1 : 0;
+
+$GLOBALS['TYPO3_CONF_VARS']['EXTCONF'][$_EXTKEY]['imgHeight'] = intval($_EXTCONF['imgHeight']) ? intval($_EXTCONF['imgHeight']) : 25;
+$GLOBALS['TYPO3_CONF_VARS']['EXTCONF'][$_EXTKEY]['imgWidth'] = intval($_EXTCONF['imgWidth']) ? intval($_EXTCONF['imgWidth']) : 95;
+$GLOBALS['TYPO3_CONF_VARS']['EXTCONF'][$_EXTKEY]['captchaChars'] = intval($_EXTCONF['captchaChars']) ? intval($_EXTCONF['captchaChars']) : 5;
+$GLOBALS['TYPO3_CONF_VARS']['EXTCONF'][$_EXTKEY]['noNumbers'] = intval($_EXTCONF['noNumbers']) ? 1 : 0;
+$GLOBALS['TYPO3_CONF_VARS']['EXTCONF'][$_EXTKEY]['noLower'] = intval($_EXTCONF['noLower']) ? 1 : 0;
+$GLOBALS['TYPO3_CONF_VARS']['EXTCONF'][$_EXTKEY]['noUpper'] = intval($_EXTCONF['noUpper']) ? 1 : 0;
+
+$GLOBALS['TYPO3_CONF_VARS']['EXTCONF'][$_EXTKEY]['letterSpacing'] = intval($_EXTCONF['letterSpacing']) ? intval($_EXTCONF['letterSpacing']) : 16;
+$GLOBALS['TYPO3_CONF_VARS']['EXTCONF'][$_EXTKEY]['fontSize'] = intval($_EXTCONF['fontSize']) ? intval($_EXTCONF['fontSize']) : 16;
+$GLOBALS['TYPO3_CONF_VARS']['EXTCONF'][$_EXTKEY]['fontFile'] = trim($_EXTCONF['fontFile']);
+
+$GLOBALS['TYPO3_CONF_VARS']['EXTCONF'][$_EXTKEY]['bold'] = intval($_EXTCONF['bold']) ? 1 : 0;
+$GLOBALS['TYPO3_CONF_VARS']['EXTCONF'][$_EXTKEY]['angle'] = intval($_EXTCONF['angle']) ? intval($_EXTCONF['angle']) : 20;
+$GLOBALS['TYPO3_CONF_VARS']['EXTCONF'][$_EXTKEY]['diffx'] = intval($_EXTCONF['diffx']) ? intval($_EXTCONF['diffx']) : 0;
+$GLOBALS['TYPO3_CONF_VARS']['EXTCONF'][$_EXTKEY]['diffy'] = intval($_EXTCONF['diffy']) ? intval($_EXTCONF['diffy']) : 2;
+$GLOBALS['TYPO3_CONF_VARS']['EXTCONF'][$_EXTKEY]['xpos'] = intval($_EXTCONF['xpos']) ? intval($_EXTCONF['xpos']) : 3;
+$GLOBALS['TYPO3_CONF_VARS']['EXTCONF'][$_EXTKEY]['ypos'] = intval($_EXTCONF['ypos']) ? intval($_EXTCONF['ypos']) : 4;
+$GLOBALS['TYPO3_CONF_VARS']['EXTCONF'][$_EXTKEY]['noises'] = intval($_EXTCONF['noises']) ? intval($_EXTCONF['noises']) : 6;
+
+$GLOBALS['TYPO3_CONF_VARS']['EXTCONF'][$_EXTKEY]['backcolor'] = trim($_EXTCONF['backcolor']) ? trim($_EXTCONF['backcolor']) : '#f4f4f4';
+$GLOBALS['TYPO3_CONF_VARS']['EXTCONF'][$_EXTKEY]['textcolor'] = trim($_EXTCONF['textcolor']) ? trim($_EXTCONF['textcolor']) : '#000000';
+$GLOBALS['TYPO3_CONF_VARS']['EXTCONF'][$_EXTKEY]['obfusccolor'] = trim($_EXTCONF['obfusccolor']) ? trim($_EXTCONF['obfusccolor']) : '#c0c0c0';
+$GLOBALS['TYPO3_CONF_VARS']['EXTCONF'][$_EXTKEY]['excludeChars'] = trim($_EXTCONF['excludeChars']) ? trim($_EXTCONF['excludeChars']) : '';
+
+
+
+###########################
+## EXTENSION: jb_gd_resize
+## FILE:      /home/gregory/www/typo3dummy/typo3conf/ext/jb_gd_resize/ext_localconf.php
+###########################
+
+$_EXTKEY = 'jb_gd_resize';
+$_EXTCONF = $GLOBALS['TYPO3_CONF_VARS']['EXT']['extConf'][$_EXTKEY];
+
+
+if (!defined ('TYPO3_MODE'))     die ('Access denied.');
+
+//turn image processing on
+$TYPO3_CONF_VARS['GFX']['image_processing'] = '1';
+//disable imagemagick
+$TYPO3_CONF_VARS['GFX']['im'] = '0';
+//enable use of gd
+$TYPO3_CONF_VARS['GFX']['gdlib'] = '1';
+
+$TYPO3_CONF_VARS['GFX']['gdlib'] = '1';
+
+$GLOBALS['TYPO3_CONF_VARS']['GFX']['thumbnails'] = 1;
+
+$TYPO3_CONF_VARS['FE']['XCLASS']['tslib/class.tslib_gifbuilder.php']=t3lib_extMgm::extPath($_EXTKEY).'class.ux_tslib_gifBuilder.php';
+$TYPO3_CONF_VARS['BE']['XCLASS']['t3lib/thumbs.php']=t3lib_extMgm::extPath($_EXTKEY).'thumbs.php';
+$TYPO3_CONF_VARS['BE']['XCLASS']['t3lib/class.t3lib_stdgraphic.php']=t3lib_extMgm::extPath($_EXTKEY).'class.ux_t3lib_stdGraphic.php';
+
+###########################
+## EXTENSION: bvd_set_page_title
+## FILE:      /home/gregory/www/typo3dummy/typo3conf/ext/bvd_set_page_title/ext_localconf.php
+###########################
+
+$_EXTKEY = 'bvd_set_page_title';
+$_EXTCONF = $GLOBALS['TYPO3_CONF_VARS']['EXT']['extConf'][$_EXTKEY];
+
+
+if (!defined ("TYPO3_MODE")) 	die ("Access denied.");
+
+/**
+ * Example of how to configure a class for extension of another class:
+ */
+
+
+$TYPO3_CONF_VARS["FE"]["XCLASS"]["t3lib/class.t3lib_tstemplate.php"]=t3lib_extMgm::extPath($_EXTKEY)."class.ux_t3lib_TStemplate.php";
+
+
+###########################
+## EXTENSION: wec_contentelements
+## FILE:      /home/gregory/www/typo3dummy/typo3conf/ext/wec_contentelements/ext_localconf.php
+###########################
+
+$_EXTKEY = 'wec_contentelements';
+$_EXTCONF = $GLOBALS['TYPO3_CONF_VARS']['EXT']['extConf'][$_EXTKEY];
+
+
+if (!defined('TYPO3_MODE')) {
+	die ('Access denied.');
+}
+
+$TYPO3_CONF_VARS['SC_OPTIONS']['tslib/class.tslib_content.php']['cObjTypeAndClassDefault'][] = 'tx_weccontentelements_cobj';
+$TYPO3_CONF_VARS['SC_OPTIONS']['tslib/class.tslib_content.php']['getData'][] = 'tx_weccontentelements_getXMLData';
+
+$extConf = unserialize($GLOBALS['TYPO3_CONF_VARS']['EXT']['extConf']['wec_contentelements']);
+if (is_array($extConf) && array_key_exists('includeDefaultContentElements', $extConf)) {
+	$includeDefaultContentElements = $extConf['includeDefaultContentElements'];
+} else {
+	$includeDefaultContentElements = TRUE;
+}
+
+if ($includeDefaultContentElements) {
+	tx_weccontentelements_lib::addTyposcript($_EXTKEY, 'youtube');
+	tx_weccontentelements_lib::addTyposcript($_EXTKEY, 'vimeo');
+	tx_weccontentelements_lib::addTyposcript($_EXTKEY, 'localmenu');
+	tx_weccontentelements_lib::addTyposcript($_EXTKEY, 'slideshow');
+	tx_weccontentelements_lib::addTyposcript($_EXTKEY, 'filedownload');
+}
+
+
+###########################
+## EXTENSION: realurl
+## FILE:      /home/gregory/www/typo3dummy/typo3conf/ext/realurl/ext_localconf.php
+###########################
+
+$_EXTKEY = 'realurl';
+$_EXTCONF = $GLOBALS['TYPO3_CONF_VARS']['EXT']['extConf'][$_EXTKEY];
+
+
+
+$TYPO3_CONF_VARS['SC_OPTIONS']['t3lib/class.t3lib_tstemplate.php']['linkData-PostProc']['tx_realurl'] = 'EXT:realurl/class.tx_realurl.php:&tx_realurl->encodeSpURL';
+$TYPO3_CONF_VARS['SC_OPTIONS']['tslib/class.tslib_content.php']['typoLink_PostProc']['tx_realurl'] = 'EXT:realurl/class.tx_realurl.php:&tx_realurl->encodeSpURL_urlPrepend';
+$TYPO3_CONF_VARS['SC_OPTIONS']['tslib/class.tslib_fe.php']['checkAlternativeIdMethods-PostProc']['tx_realurl'] = 'EXT:realurl/class.tx_realurl.php:&tx_realurl->decodeSpURL';
+$TYPO3_CONF_VARS['SC_OPTIONS']['t3lib/class.t3lib_tcemain.php']['clearPageCacheEval']['tx_realurl'] = 'EXT:realurl/class.tx_realurl.php:&tx_realurl->clearPageCacheMgm';
+
+$TYPO3_CONF_VARS['SC_OPTIONS']['t3lib/class.t3lib_tcemain.php']['clearAllCache_additionalTables']['tx_realurl_urldecodecache'] = 'tx_realurl_urldecodecache';
+$TYPO3_CONF_VARS['SC_OPTIONS']['t3lib/class.t3lib_tcemain.php']['clearAllCache_additionalTables']['tx_realurl_urlencodecache'] = 'tx_realurl_urlencodecache';
+
+$TYPO3_CONF_VARS['SC_OPTIONS']['t3lib/class.t3lib_tcemain.php']['processDatamapClass']['tx_realurl'] = 'EXT:realurl/class.tx_realurl_tcemain.php:&tx_realurl_tcemain';
+$TYPO3_CONF_VARS['SC_OPTIONS']['t3lib/class.t3lib_tcemain.php']['processCmdmapClass']['tx_realurl'] = 'EXT:realurl/class.tx_realurl_tcemain.php:&tx_realurl_tcemain';
+
+$TYPO3_CONF_VARS['FE']['addRootLineFields'] .= ',tx_realurl_pathsegment,tx_realurl_exclude,tx_realurl_pathoverride';
+$TYPO3_CONF_VARS['FE']['pageOverlayFields'] .= ',tx_realurl_pathsegment';
+
+// Include configuration file
+$_realurl_conf = @unserialize($_EXTCONF);
+if (is_array($_realurl_conf)) {
+	$_realurl_conf_file = trim($_realurl_conf['configFile']);
+	if ($_realurl_conf_file && @file_exists(PATH_site . $_realurl_conf_file)) {
+		require_once(PATH_site . $_realurl_conf_file);
+	}
+	unset($_realurl_conf_file);
+}
+
+define('TX_REALURL_AUTOCONF_FILE', 'typo3conf/realurl_autoconf.php');
+if (!isset($GLOBALS['TYPO3_CONF_VARS']['EXTCONF']['realurl'])) {
+	@include_once(PATH_site . TX_REALURL_AUTOCONF_FILE);
+}
+unset($_realurl_conf);
+
+define('TX_REALURL_SEGTITLEFIELDLIST_DEFAULT', 'tx_realurl_pathsegment,alias,nav_title,title,uid');
+define('TX_REALURL_SEGTITLEFIELDLIST_PLO', 'tx_realurl_pathsegment,nav_title,title,uid');
+
+// TYPO3 clean up handler
+//$GLOBALS ['TYPO3_CONF_VARS']['EXTCONF']['lowlevel']['cleanerModules'][$_EXTKEY] = array('EXT:' . $_EXTKEY . '/class.tx_realurl_cleanuphandler.php:tx_realurl_cleanuphandler');
+
+
+###########################
+## EXTENSION: realurlmanagement
+## FILE:      /home/gregory/www/typo3dummy/typo3conf/ext/realurlmanagement/ext_localconf.php
+###########################
+
+$_EXTKEY = 'realurlmanagement';
+$_EXTCONF = $GLOBALS['TYPO3_CONF_VARS']['EXT']['extConf'][$_EXTKEY];
+
+
+if (!defined ('TYPO3_MODE')) 	die ('Access denied.');
+$TYPO3_CONF_VARS["BE"]['XCLASS']['ext/belog/mod/index.php']=t3lib_extMgm::extPath($_EXTKEY) . 'class.ux_SC_mod_tools_log_index.php';
+
+###########################
+## EXTENSION: tscobj
+## FILE:      /home/gregory/www/typo3dummy/typo3conf/ext/tscobj/ext_localconf.php
+###########################
+
+$_EXTKEY = 'tscobj';
+$_EXTCONF = $GLOBALS['TYPO3_CONF_VARS']['EXT']['extConf'][$_EXTKEY];
+
+
+	if (!defined ('TYPO3_MODE')) {
+		die ('Access denied.');
+	}
+	
+	// Add plugin
+	t3lib_extMgm::addPItoST43($_EXTKEY,'pi1/class.tx_tscobj_pi1.php','_pi1','list_type',1);
+
+###########################
+## EXTENSION: weeaar_googlesitemap
+## FILE:      /home/gregory/www/typo3dummy/typo3conf/ext/weeaar_googlesitemap/ext_localconf.php
+###########################
+
+$_EXTKEY = 'weeaar_googlesitemap';
+$_EXTCONF = $GLOBALS['TYPO3_CONF_VARS']['EXT']['extConf'][$_EXTKEY];
+
+
+if (!defined ('TYPO3_MODE')) 	die ('Access denied.');
+
+t3lib_extMgm::addPItoST43($_EXTKEY,'pi1/class.tx_weeaargooglesitemap_pi1.php','_pi1','',1);
+
+###########################
+## EXTENSION: indexed_search
+## FILE:      /home/gregory/www/typo3dummy/typo3/sysext/indexed_search/ext_localconf.php
+###########################
+
+$_EXTKEY = 'indexed_search';
+$_EXTCONF = $GLOBALS['TYPO3_CONF_VARS']['EXT']['extConf'][$_EXTKEY];
+
+
+if (!defined ('TYPO3_MODE')) 	die ('Access denied.');
+
+t3lib_extMgm::addPItoST43($_EXTKEY);
+
+t3lib_extMgm::addTypoScript($_EXTKEY,'editorcfg','
+	tt_content.CSS_editor.ch.tx_indexedsearch = < plugin.tx_indexedsearch.CSS_editor
+',43);
+
+	// Attach to hooks:
+$TYPO3_CONF_VARS['SC_OPTIONS']['tslib/class.tslib_fe.php']['pageIndexing'][] = 'EXT:indexed_search/class.indexer.php:tx_indexedsearch_indexer';
+$TYPO3_CONF_VARS['SC_OPTIONS']['tslib/class.tslib_fe.php']['headerNoCache']['tx_indexedsearch'] = 'EXT:indexed_search/hooks/class.tx_indexedsearch_tslib_fe_hook.php:&tx_indexedsearch_tslib_fe_hook->headerNoCache';
+
+	// Register with "crawler" extension:
+$TYPO3_CONF_VARS['EXTCONF']['crawler']['procInstructions']['tx_indexedsearch_reindex'] = 'Re-indexing';
+$TYPO3_CONF_VARS['EXTCONF']['crawler']['cli_hooks']['tx_indexedsearch_crawl'] = 'EXT:indexed_search/class.crawler.php:&tx_indexedsearch_crawler';
+
+	// Register with TCEmain:
+$TYPO3_CONF_VARS['SC_OPTIONS']['t3lib/class.t3lib_tcemain.php']['processCmdmapClass']['tx_indexedsearch'] = 'EXT:indexed_search/class.crawler.php:&tx_indexedsearch_crawler';
+$TYPO3_CONF_VARS['SC_OPTIONS']['t3lib/class.t3lib_tcemain.php']['processDatamapClass']['tx_indexedsearch'] = 'EXT:indexed_search/class.crawler.php:&tx_indexedsearch_crawler';
+
+	// Configure default document parsers:
+$TYPO3_CONF_VARS['EXTCONF']['indexed_search']['external_parsers'] = array(
+	'pdf' => 'EXT:indexed_search/class.external_parser.php:&tx_indexed_search_extparse',
+	'doc' => 'EXT:indexed_search/class.external_parser.php:&tx_indexed_search_extparse',
+	'pps' => 'EXT:indexed_search/class.external_parser.php:&tx_indexed_search_extparse',
+	'ppt' => 'EXT:indexed_search/class.external_parser.php:&tx_indexed_search_extparse',
+	'xls' => 'EXT:indexed_search/class.external_parser.php:&tx_indexed_search_extparse',
+	'sxc' => 'EXT:indexed_search/class.external_parser.php:&tx_indexed_search_extparse',
+	'sxi' => 'EXT:indexed_search/class.external_parser.php:&tx_indexed_search_extparse',
+	'sxw' => 'EXT:indexed_search/class.external_parser.php:&tx_indexed_search_extparse',
+	'ods' => 'EXT:indexed_search/class.external_parser.php:&tx_indexed_search_extparse',
+	'odp' => 'EXT:indexed_search/class.external_parser.php:&tx_indexed_search_extparse',
+	'odt' => 'EXT:indexed_search/class.external_parser.php:&tx_indexed_search_extparse',
+	'rtf' => 'EXT:indexed_search/class.external_parser.php:&tx_indexed_search_extparse',
+	'txt' => 'EXT:indexed_search/class.external_parser.php:&tx_indexed_search_extparse',
+	'html' => 'EXT:indexed_search/class.external_parser.php:&tx_indexed_search_extparse',
+	'htm' => 'EXT:indexed_search/class.external_parser.php:&tx_indexed_search_extparse',
+	'csv' => 'EXT:indexed_search/class.external_parser.php:&tx_indexed_search_extparse',
+	'xml' => 'EXT:indexed_search/class.external_parser.php:&tx_indexed_search_extparse',
+	'jpg' => 'EXT:indexed_search/class.external_parser.php:&tx_indexed_search_extparse',
+	'jpeg' => 'EXT:indexed_search/class.external_parser.php:&tx_indexed_search_extparse',
+	'tif' => 'EXT:indexed_search/class.external_parser.php:&tx_indexed_search_extparse',
+);
+
+
+	// EXAMPLE configuration of hooks:
+/*
+$TYPO3_CONF_VARS['EXTCONF']['indexed_search']['pi1_hooks'] = array (
+	'initialize_postProc' => 'EXT:indexed_search/example/class.pihook.php:&tx_indexedsearch_pihook',
+	'getResultRows' => 'EXT:indexed_search/example/class.pihook.php:&tx_indexedsearch_pihook',
+	'printResultRow' => 'EXT:indexed_search/example/class.pihook.php:&tx_indexedsearch_pihook',
+	'prepareResultRowTemplateData_postProc' => 'EXT:indexed_search/example/class.pihook.php:&tx_indexedsearch_pihook',
+);
+*/
+
+	// EXAMPLE of adding fields to root line:
+#$TYPO3_CONF_VARS['EXTCONF']['indexed_search']['addRootLineFields']['level3'] = 3;
+
+
+	// Example of crawlerhook (see also ext_tables.php!)
+/*
+	$TYPO3_CONF_VARS['EXTCONF']['indexed_search']['crawler']['tx_myext_example1'] = 'EXT:indexed_search/example/class.crawlerhook.php:&tx_indexedsearch_crawlerhook';
+*/
+
+###########################
+## EXTENSION: irfaq
+## FILE:      /home/gregory/www/typo3dummy/typo3conf/ext/irfaq/ext_localconf.php
+###########################
+
+$_EXTKEY = 'irfaq';
+$_EXTCONF = $GLOBALS['TYPO3_CONF_VARS']['EXT']['extConf'][$_EXTKEY];
+
+
+if (!defined ('TYPO3_MODE')) 	die ('Access denied.');
+t3lib_extMgm::addUserTSConfig('options.saveDocNew.tx_irfaq_q=1');
+t3lib_extMgm::addUserTSConfig('options.saveDocNew.tx_irfaq_cat=1');
+t3lib_extMgm::addUserTSConfig('options.saveDocNew.tx_irfaq_expert=1');
+
+t3lib_extMgm::addPItoST43($_EXTKEY, 'pi1/class.tx_irfaq_pi1.php', '_pi1', 'list_type', 1);
+
+//listing FAQ in Web->Page view
+$TYPO3_CONF_VARS['EXTCONF']['cms']['db_layout']['addTables']['tx_irfaq_q'][0] = array(
+	'fList' => 'q,a,q_from,expert',
+	'icon' => TRUE
+);
+
+// TCEmain hooks for managing related entries
+$GLOBALS ['TYPO3_CONF_VARS']['SC_OPTIONS']['t3lib/class.t3lib_tcemain.php']['processDatamapClass']['irfaq'] = 'EXT:irfaq/class.tx_irfaq_tcemain.php:tx_irfaq_tcemain';
+$GLOBALS ['TYPO3_CONF_VARS']['SC_OPTIONS']['t3lib/class.t3lib_tcemain.php']['processCmdmapClass']['irfaq'] = 'EXT:irfaq/class.tx_irfaq_tcemain.php:tx_irfaq_tcemain';
+
+// Hook to comments for comments closing
+$GLOBALS['TYPO3_CONF_VARS']['EXTCONF']['comments']['closeCommentsAfter'][$_EXTKEY] = 'EXT:irfaq/class.tx_irfaq_comments_hooks.php:tx_irfaq_comments_hooks->irfaqHook';
+
+// Page module hook
+$GLOBALS['TYPO3_CONF_VARS']['SC_OPTIONS']['cms/layout/class.tx_cms_layout.php']['list_type_Info']['irfaq_pi1'][] = 'EXT:irfaq/class.tx_irfaq_cms_layout.php:tx_irfaq_cms_layout->getExtensionSummary';
+
+
+###########################
+## EXTENSION: tt_news
+## FILE:      /home/gregory/www/typo3dummy/typo3conf/ext/tt_news/ext_localconf.php
+###########################
+
+$_EXTKEY = 'tt_news';
+$_EXTCONF = $GLOBALS['TYPO3_CONF_VARS']['EXT']['extConf'][$_EXTKEY];
+
+
+
+/**
+ * $Id: ext_localconf.php 60835 2012-04-18 10:54:35Z rupi $
+ */
+
+if (!defined ("TYPO3_MODE")) 	die ("Access denied.");
+
+/**
+* Register hooks in TCEmain:
+*/
+
+	// this hook is used to prevent saving of news or category records which have categories assigned that are not allowed for the current BE user.
+	// The list of allowed categories can be set with 'tt_news_cat.allowedItems' in user/group TSconfig.
+	// This check will be disabled until 'options.useListOfAllowedItems' (user/group TSconfig) is set to a value.
+$GLOBALS ['TYPO3_CONF_VARS']['SC_OPTIONS']['t3lib/class.t3lib_tcemain.php']['processDatamapClass']['tt_news'] = 'EXT:tt_news/lib/class.tx_ttnews_tcemain.php:tx_ttnews_tcemain';
+
+	// this hook is used to prevent saving of a news record that has non-allowed categories assigned when a command is executed (modify,copy,move,delete...).
+	// it checks if the record has an editlock. If true, nothing will not be saved.
+$GLOBALS ['TYPO3_CONF_VARS']['SC_OPTIONS']['t3lib/class.t3lib_tcemain.php']['processCmdmapClass']['tt_news'] = 'EXT:tt_news/lib/class.tx_ttnews_tcemain.php:tx_ttnews_tcemain_cmdmap';
+
+
+
+$confArr = unserialize($GLOBALS['TYPO3_CONF_VARS']['EXT']['extConf']['tt_news']);
+
+if (t3lib_extMgm::isLoaded('version')) {
+	// If the extension "version" is loaded, this line adds the code VERSION_PREVIEW to the "what_to_display" section in the tt_news content element
+	$TYPO3_CONF_VARS['EXTCONF']['tt_news']['what_to_display'][] = array('Preview of non-public article versions (VERSION_PREVIEW)', 'VERSION_PREVIEW');
+}
+
+// Page module hook
+$GLOBALS['TYPO3_CONF_VARS']['SC_OPTIONS']['cms/layout/class.tx_cms_layout.php']['list_type_Info']['9']['tt_news'] = 'EXT:tt_news/lib/class.tx_ttnews_cms_layout.php:tx_ttnews_cms_layout->getExtensionSummary';
+
+// Fix for template file name created with older versions
+$TYPO3_CONF_VARS['SC_OPTIONS']['tce']['formevals']['tx_ttnews_templateeval'] = 'EXT:tt_news/lib/class.tx_ttnews_templateeval.php';
+
+
+// register Ajax scripts
+$TYPO3_CONF_VARS['FE']['eID_include']['tt_news'] = 'EXT:tt_news/pi/fe_index.php';
+$TYPO3_CONF_VARS['BE']['AJAX']['txttnewsM1::expandCollapse'] = t3lib_extMgm::extPath('tt_news').'mod1/index.php:tx_ttnews_module1->ajaxExpandCollapse';
+$TYPO3_CONF_VARS['BE']['AJAX']['txttnewsM1::loadList'] = t3lib_extMgm::extPath('tt_news').'mod1/index.php:tx_ttnews_module1->ajaxLoadList';
+$TYPO3_CONF_VARS['BE']['AJAX']['tceFormsCategoryTree::expandCollapse'] = t3lib_extMgm::extPath('tt_news').'lib/class.tx_ttnews_TCAform_selectTree.php:tx_ttnews_TCAform_selectTree->ajaxExpandCollapse';
+
+
+if (function_exists('t3lib_utility_VersionNumber::convertVersionNumberToInteger')) {
+	$t3version = t3lib_utility_VersionNumber::convertVersionNumberToInteger(TYPO3_version);
+} else {
+    $t3version = t3lib_div::int_from_ver(TYPO3_version);
+}
+
+if ($t3version < 4006000) {
+	// caching framework configuration
+	if (!is_array($GLOBALS['TYPO3_CONF_VARS']['SYS']['caching']['cacheConfigurations']['tt_news_cache'])) {
+		$GLOBALS['TYPO3_CONF_VARS']['SYS']['caching']['cacheConfigurations']['tt_news_cache'] = array(
+			'frontend' => 't3lib_cache_frontend_StringFrontend',
+			'backend' => 't3lib_cache_backend_DbBackend',
+			'options' => array(
+				'cacheTable' => 'tt_news_cache',
+				'tagsTable' => 'tt_news_cache_tags'
+			)
+		);
+	}
+} else {
+	// caching framework configuration
+	if (!is_array($GLOBALS['TYPO3_CONF_VARS']['SYS']['caching']['cacheConfigurations']['tt_news_cache'])) {
+		$GLOBALS['TYPO3_CONF_VARS']['SYS']['caching']['cacheConfigurations']['tt_news_cache'] = array(
+			'frontend' => 't3lib_cache_frontend_StringFrontend',
+			'backend' => 't3lib_cache_backend_DbBackend',
+			'options' => array()
+		);
+	}
+}
+$GLOBALS['TYPO3_CONF_VARS']['SYS']['caching']['cacheConfigurations']['tt_news_cache']['frontend'] = 't3lib_cache_frontend_VariableFrontend';
+
+// register news cache table for "clear all caches"
+if ($confArr['cachingMode']=='normal') {
+	$GLOBALS ['TYPO3_CONF_VARS']['SC_OPTIONS']['t3lib/class.t3lib_tcemain.php']['clearAllCache_additionalTables']['tt_news_cache'] = 'tt_news_cache';
+}
+
+
+
+###########################
+## EXTENSION: mbl_newsevent
+## FILE:      /home/gregory/www/typo3dummy/typo3conf/ext/mbl_newsevent/ext_localconf.php
+###########################
+
+$_EXTKEY = 'mbl_newsevent';
+$_EXTCONF = $GLOBALS['TYPO3_CONF_VARS']['EXT']['extConf'][$_EXTKEY];
+
+
+if (!defined ("TYPO3_MODE")) 	die ("Access denied.");
+
+if (TYPO3_MODE!='BE')	{
+	require_once(t3lib_extMgm::extPath('mbl_newsevent').'class.mbl_newsevent.php');
+}
+
+$TYPO3_CONF_VARS['EXTCONF']['tt_news']['extraItemMarkerHook'][] = 'tx_mblnewsevent'; 
+
+$TYPO3_CONF_VARS['EXTCONF']['tt_news']['extraCodesHook'][] = 'tx_mblnewsevent'; 
+
+$TYPO3_CONF_VARS['EXTCONF']['tt_news']['selectConfHook'][] = 'tx_mblnewsevent';
+
+$TYPO3_CONF_VARS['EXTCONF']['tt_news']['extraGlobalMarkerHook'][] = 'tx_mblnewsevent';
+
+###########################
+## EXTENSION: powermail
+## FILE:      /home/gregory/www/typo3dummy/typo3conf/ext/powermail/ext_localconf.php
+###########################
+
+$_EXTKEY = 'powermail';
+$_EXTCONF = $GLOBALS['TYPO3_CONF_VARS']['EXT']['extConf'][$_EXTKEY];
+
+
+if (!defined ('TYPO3_MODE')) {
+	die ('Access denied.');
+}
+
+if (TYPO3_MODE == 'BE') {
+	include_once(t3lib_extMgm::extPath('powermail') . 'lib/class.user_powermail_tx_powermail_fieldsetchoose.php');
+}
+
+$TYPO3_CONF_VARS['BE']['AJAX']['tx_powermail::controller'] = t3lib_extMgm::extPath('powermail') . 'mod1/class.tx_powermail_ajax.php:tx_powermail_Ajax->ajaxController';
+
+$confArr = unserialize($GLOBALS['TYPO3_CONF_VARS']['EXT']['extConf']['powermail']); // Get backend config
+include_once(t3lib_extMgm::extPath('powermail') . 'lib/user_powermailOnCurrentPage.php'); // Conditions for JS including
+include_once(t3lib_extMgm::extPath('powermail') . 'lib/user_powermail_misc.php'); // Some powermail userFunc (Conditions if any further step)
+include_once(t3lib_extMgm::extPath('powermail') . 'lib/user_powermailCheckT3jquery.php'); // Conditions for Check if t3jquery is loaded or not
+include_once(t3lib_extMgm::extPath('powermail') . 'lib/user_powermailCheckT3jqueryCDNMode.php'); // Conditions for Check if t3jquery is in CDN Mode
+include_once(t3lib_extMgm::extPath('powermail') . 'cli/class.tx_powermail_scheduler_addFields.php'); // Scheduler addFields class
+
+t3lib_extMgm::addPageTSConfig('<INCLUDE_TYPOSCRIPT: source="FILE:EXT:powermail/pageTSconfig.txt">');
+
+t3lib_extMgm::addPItoST43($_EXTKEY, 'pi1/class.tx_powermail_pi1.php', '_pi1', 'CType', 1);
+
+$TYPO3_CONF_VARS['EXTCONF']['cms']['db_layout']['addTables']['tx_powermail_fieldsets'][0] = array(
+	'fList' => 'uid,title',
+	'icon' => TRUE,
+);
+$TYPO3_CONF_VARS['EXTCONF']['cms']['db_layout']['addTables']['tx_powermail_fields'][0] = array(
+	'fList' => 'uid,title,name,type,fieldset',
+	'icon' => TRUE,
+);
+
+/* SCHEDULER SETTINGS */
+$TYPO3_CONF_VARS['SC_OPTIONS']['scheduler']['tasks']['tx_powermail_scheduler'] = array(
+	'extension' => 'powermail',
+	'title' => 'Automatic Export Mails',
+	'description' => 'Send your CSV, XLS or HTML exports via Email to a defined target',
+	'additionalFields' => 'tx_powermail_scheduler_addFields'
+);
+
+
+###########################
+## EXTENSION: ameos_dragndropupload
+## FILE:      /home/gregory/www/typo3dummy/typo3conf/ext/ameos_dragndropupload/ext_localconf.php
+###########################
+
+$_EXTKEY = 'ameos_dragndropupload';
+$_EXTCONF = $GLOBALS['TYPO3_CONF_VARS']['EXT']['extConf'][$_EXTKEY];
+
+
+# TYPO3 CVS ID: $Id: ext_localconf.php,v 1.3 2004/03/22 16:37:55 typo3 Exp $
+
+if (!defined ('TYPO3_MODE')) 	die ('Access denied.');
+
+if (TYPO3_MODE=='BE')	{
+	$TYPO3_CONF_VARS[TYPO3_MODE]['XCLASS']['typo3/file_upload.php']=t3lib_extMgm::extPath($_EXTKEY).'res/xclass/class.ux_sc_file_upload.php';
+}
+
+###########################
+## EXTENSION: skinFlex
+## FILE:      /home/gregory/www/typo3dummy/typo3conf/ext/skinFlex/ext_localconf.php
+###########################
+
+$_EXTKEY = 'skinFlex';
+$_EXTCONF = $GLOBALS['TYPO3_CONF_VARS']['EXT']['extConf'][$_EXTKEY];
+
+
+$_EXTCONF = unserialize($_EXTCONF);
+
+tx_weccontentelements_lib::addTyposcript($_EXTKEY, 'slideshow');
+// tx_weccontentelements_lib::addTyposcript($_EXTKEY, 'clickToPlay');
+// tx_weccontentelements_lib::addTyposcript($_EXTKEY, 'imageLegend');
+
+
+// tx_weccontentelements_lib::addTyposcript($_EXTKEY, 'flexContact');
+// tx_weccontentelements_lib::addTyposcript($_EXTKEY, 'flexQuote');
+// tx_weccontentelements_lib::addTyposcript($_EXTKEY, 'flexIntro');
+
+// tx_weccontentelements_lib::addTyposcript($_EXTKEY, 'flexZoomSur');
+// tx_weccontentelements_lib::addTyposcript($_EXTKEY, 'flexKaleidoscope');
+
+// tx_weccontentelements_lib::addTyposcript($_EXTKEY, 'flexSlideshow');
+// tx_weccontentelements_lib::addTyposcript($_EXTKEY, 'flexLogoList');
+// tx_weccontentelements_lib::addTyposcript($_EXTKEY, 'flexList');
+
+// tx_weccontentelements_lib::addTyposcript($_EXTKEY, 'flexEtapes');
+// tx_weccontentelements_lib::addTyposcript($_EXTKEY, 'flexPedago');
+// tx_weccontentelements_lib::addTyposcript($_EXTKEY, 'flexChrono');
+// tx_weccontentelements_lib::addTyposcript($_EXTKEY, 'flexIndex');
+// tx_weccontentelements_lib::addTyposcript($_EXTKEY, 'flexIndexNav');
+
+// tx_weccontentelements_lib::addTyposcript($_EXTKEY, 'flexAjaxZoom');
+
+###########################
+## EXTENSION: scriptmerger
+## FILE:      /home/gregory/www/typo3dummy/typo3conf/ext/scriptmerger/ext_localconf.php
+###########################
+
+$_EXTKEY = 'scriptmerger';
+$_EXTCONF = $GLOBALS['TYPO3_CONF_VARS']['EXT']['extConf'][$_EXTKEY];
+
+
+
+if (!defined ('TYPO3_MODE')) {
+	die ('Access denied.');
+}
+
+	// post processing hook to clear any existing cache files if the button in
+	// the backend is clicked (contains an age check)
+$GLOBALS['TYPO3_CONF_VARS']['SC_OPTIONS']['t3lib/class.t3lib_tcemain.php']['clearCachePostProc'][] =
+    'EXT:scriptmerger/class.tx_scriptmerger_cache.php:&tx_scriptmerger_cache->clearCachePostProc';
+
+	// register the minify, compress and merge processes
+if (TYPO3_MODE == 'FE') {
+	$TYPO3_CONF_VARS['SC_OPTIONS']['tslib/class.tslib_fe.php']['contentPostProc-output'][] =
+		'EXT:scriptmerger/class.tx_scriptmerger.php:tx_scriptmerger->contentPostProcOutput';
+	$TYPO3_CONF_VARS['SC_OPTIONS']['tslib/class.tslib_fe.php']['contentPostProc-all'][] =
+		'EXT:scriptmerger/class.tx_scriptmerger.php:tx_scriptmerger->contentPostProcAll';
+}
+
+	// needs to be disabled for the frontend, otherwise the default exclude rule prevents any script files from merging
+$TYPO3_CONF_VARS['FE']['versionNumberInFilename'] = '';
+$TYPO3_CONF_VARS['FE']['compressionLevel'] = '0';
 
 ?>

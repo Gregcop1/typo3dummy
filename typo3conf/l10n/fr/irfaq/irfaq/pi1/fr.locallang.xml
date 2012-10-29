@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+      <label index="fold_faq">répertoire des faq</label>
+      <label index="text_expert">Expert :</label>
+      <label index="text_category">Catégorie :</label>
+      <label index="text_asked_by">Question posée par :</label>
+      <label index="text_show">Afficher tout</label>
+      <label index="text_hide">Cacher tout</label>
+      <label index="text_related_faq">Questions liées</label>
+      <label index="text_related_links">Liens liées</label>
+      <label index="searchButtonLabel">Recherche</label>
+      <label index="noSuchEntry">Désolé, aucune réponse n'a été trouvé</label>
+      <label index="back">Retour</label>
+      <label index="no_ts_template">Erreur (irfaq) : Le gabarit de l'extension n'est pas configuré, aller dans Web-&gt;Gabarit et corriger l'erreur Typoscript</label>
+    </languageKey>
+  </data>
+</T3locallangExt>

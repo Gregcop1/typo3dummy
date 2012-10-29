@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff version="1.0">
+  <file source-language="EN" datatype="plaintext" original="messages" date="2012-08-09T07:24:57Z" product-name="powermail" target-language="fr">
+    <header/>
+    <body>
+      <trans-unit id="value.description" xml:space="preserve">
+        <source>This is the Answer of a User</source>
+      </trans-unit>
+      <trans-unit id="field.description" xml:space="preserve">
+        <source>This is the related field to this answer</source>
+      </trans-unit>
+      <trans-unit id="mails.description" xml:space="preserve">
+        <source>This is the related mail to this answer</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

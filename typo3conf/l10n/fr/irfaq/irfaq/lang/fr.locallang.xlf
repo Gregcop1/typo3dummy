@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff version="1.0">
+  <file source-language="en" target-language="fr" datatype="plaintext" original="messages" date="Tue Jul 12 18:48:10 UTC 2011" product-name="irfaq">
+    <header/>
+    <body>
+      <trans-unit id="pi1_title_irfaq" approved="yes">
+        <source>Modern FAQ</source>
+        <target state="translated">Foires aux questions</target>
+      </trans-unit>
+      <trans-unit id="pi1_plus_wiz_description_irfaq" approved="yes">
+        <source>FAQ with dynamic and static list</source>
+        <target state="translated">FAQ avec liste dynamique et statique</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff version="1.0">
+  <file source-language="EN" datatype="plaintext" original="messages" date="2012-08-09T07:24:57Z" product-name="powermail" target-language="fr">
+    <header/>
+    <body>
+      <trans-unit id="title.description" xml:space="preserve">
+        <source>title</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

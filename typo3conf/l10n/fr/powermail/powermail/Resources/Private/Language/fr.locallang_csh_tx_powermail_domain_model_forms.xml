@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+      <label index="title.description"/>
+      <label index="css.description"/>
+      <label index="pages.description"/>
+    </languageKey>
+  </data>
+</T3locallangExt>

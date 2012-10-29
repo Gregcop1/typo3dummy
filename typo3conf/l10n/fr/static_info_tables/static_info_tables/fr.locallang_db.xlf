@@ -1,0 +1,260 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff version="1.0">
+  <file source-language="en" target-language="fr" datatype="plaintext" original="messages" date="Tue Jul 12 18:53:51 UTC 2011" product-name="static_info_tables">
+    <header/>
+    <body>
+      <trans-unit id="static_territories.title" approved="yes">
+        <source>Territory</source>
+        <target state="translated">Territoire</target>
+      </trans-unit>
+      <trans-unit id="static_territories_item.tr_iso_nr" approved="yes">
+        <source>ISO nr territory code:</source>
+        <target state="translated">Code de territoire:</target>
+      </trans-unit>
+      <trans-unit id="static_territories_item.tr_parent_iso_nr" approved="yes">
+        <source>Parent territory code:</source>
+        <target state="translated">Code du territoire contenant celui-ci:</target>
+      </trans-unit>
+      <trans-unit id="static_territories_item.tr_name_en" approved="yes">
+        <source>Name (EN):</source>
+        <target state="translated">Nom (EN):</target>
+      </trans-unit>
+      <trans-unit id="static_countries.title" approved="yes">
+        <source>Countries</source>
+        <target state="translated">Pays</target>
+      </trans-unit>
+      <trans-unit id="static_countries_item.cn_iso_2" approved="yes">
+        <source>ISO 3166-1 A2 Country code:</source>
+        <target state="translated">Code de pays ISO 3166-1 A2:</target>
+      </trans-unit>
+      <trans-unit id="static_countries_item.cn_iso_3" approved="yes">
+        <source>ISO 3166-1 A3 Country code:</source>
+        <target state="translated">Code de pays ISO 3166-1 A3:</target>
+      </trans-unit>
+      <trans-unit id="static_countries_item.cn_iso_nr" approved="yes">
+        <source>ISO 3166-1 Nr Country code:</source>
+        <target state="translated">Code de pays ISO 3166-1 numérique:</target>
+      </trans-unit>
+      <trans-unit id="static_countries_item.cn_official_name_local" approved="yes">
+        <source>Official name (local):</source>
+        <target state="translated">Nom officiel (local):</target>
+      </trans-unit>
+      <trans-unit id="static_countries_item.cn_official_name_en" approved="yes">
+        <source>Official name (EN):</source>
+        <target state="translated">Nom officiel (EN):</target>
+      </trans-unit>
+      <trans-unit id="static_countries_item.cn_capital" approved="yes">
+        <source>Capital:</source>
+        <target state="translated">Capitale:</target>
+      </trans-unit>
+      <trans-unit id="static_countries_item.cn_tldomain" approved="yes">
+        <source>Top level domain:</source>
+        <target state="translated">Domaine de premier niveau:</target>
+      </trans-unit>
+      <trans-unit id="static_countries_item.cn_currency_iso_nr" approved="yes">
+        <source>ISO 4217 Nr Currency code:</source>
+        <target state="translated">Code de devise ISO 4217 numérique:</target>
+      </trans-unit>
+      <trans-unit id="static_countries_item.cn_currency_iso_3" approved="yes">
+        <source>ISO 4217 A3 Currency code:</source>
+        <target state="translated">Code de devise ISO 4217 A3:</target>
+      </trans-unit>
+      <trans-unit id="static_countries_item.cn_phone" approved="yes">
+        <source>Int. phone prefix:</source>
+        <target state="translated">Préfixe téléphonique international:</target>
+      </trans-unit>
+      <trans-unit id="static_countries_item.cn_uno_member" approved="yes">
+        <source>UN member:</source>
+        <target state="translated">Membre de l'ONU:</target>
+      </trans-unit>
+      <trans-unit id="static_countries_item.cn_eu_member" approved="yes">
+        <source>EU member:</source>
+        <target state="translated">Membre de l'Union européenne:</target>
+      </trans-unit>
+      <trans-unit id="static_countries_item.cn_address_format" approved="yes">
+        <source>Address format:</source>
+        <target state="translated">Format d'adresse:</target>
+      </trans-unit>
+      <trans-unit id="static_countries_item.cn_address_format_1" approved="yes">
+        <source>zip city</source>
+        <target state="translated">code-postal  localité</target>
+      </trans-unit>
+      <trans-unit id="static_countries_item.cn_address_format_2" approved="yes">
+        <source>city zip</source>
+        <target state="translated">localité code-postal</target>
+      </trans-unit>
+      <trans-unit id="static_countries_item.cn_address_format_3" approved="yes">
+        <source>city region-code zip</source>
+        <target state="translated">localité code-de-région code-postal</target>
+      </trans-unit>
+      <trans-unit id="static_countries_item.cn_address_format_4" approved="yes">
+        <source>city (region-name) zip</source>
+        <target state="translated">localité (nom-de-région) code-postal</target>
+      </trans-unit>
+      <trans-unit id="static_countries_item.cn_address_format_5" approved="yes">
+        <source>city/zip</source>
+        <target state="translated">localité/code-postal</target>
+      </trans-unit>
+      <trans-unit id="static_countries_item.cn_address_format_6" approved="yes">
+        <source>zip city, region-code</source>
+        <target state="translated">code-postal localité, code-de-région</target>
+      </trans-unit>
+      <trans-unit id="static_countries_item.cn_address_format_7" approved="yes">
+        <source>zip city region-code</source>
+        <target state="translated">code-postal localité code-de-région</target>
+      </trans-unit>
+      <trans-unit id="static_countries_item.cn_address_format_8" approved="yes">
+        <source>zip city (region-name)</source>
+        <target state="translated">code-postal localité (nom-de-région)</target>
+      </trans-unit>
+      <trans-unit id="static_countries_item.cn_address_format_9" approved="yes">
+        <source>city - region-code/zip</source>
+        <target state="translated">localité - code-de-région/code-postal</target>
+      </trans-unit>
+      <trans-unit id="static_countries_item.cn_zone_flag" approved="yes">
+        <source>Zone flag:</source>
+        <target state="translated">Indicateur de subdivision:</target>
+      </trans-unit>
+      <trans-unit id="static_countries_item.cn_short_local" approved="yes">
+        <source>Short name (local):</source>
+        <target state="translated">Nom court (local):</target>
+      </trans-unit>
+      <trans-unit id="static_countries_item.cn_short_en" approved="yes">
+        <source>Short name (EN):</source>
+        <target state="translated">Nom court (EN):</target>
+      </trans-unit>
+      <trans-unit id="static_country_zones.title" approved="yes">
+        <source>Country subdivisions</source>
+        <target state="translated">Subdivision de pays</target>
+      </trans-unit>
+      <trans-unit id="static_country_zones_item.zn_country_iso_nr" approved="yes">
+        <source>ISO 3166-1 Nr Country code:</source>
+        <target state="translated">Code de pays ISO 3166-1 numérique:</target>
+      </trans-unit>
+      <trans-unit id="static_country_zones_item.zn_country_iso_2" approved="yes">
+        <source>ISO 3166-1 A2 Country code:</source>
+        <target state="translated">Code de pays ISO 3166-1 A2:</target>
+      </trans-unit>
+      <trans-unit id="static_country_zones_item.zn_country_iso_3" approved="yes">
+        <source>ISO 3166-1 A3 Country code:</source>
+        <target state="translated">Code de pays ISO 3166-1 A3:</target>
+      </trans-unit>
+      <trans-unit id="static_country_zones_item.zn_code" approved="yes">
+        <source>ISO 3166-2 Country Zone code:</source>
+        <target state="translated">Code de subdivision de pays ISO 3166-2:</target>
+      </trans-unit>
+      <trans-unit id="static_country_zones_item.zn_name_en" approved="yes">
+        <source>Name (EN):</source>
+        <target state="translated">Nom (EN):</target>
+      </trans-unit>
+      <trans-unit id="static_languages.title" approved="yes">
+        <source>Languages</source>
+        <target state="translated">Langue</target>
+      </trans-unit>
+      <trans-unit id="static_languages_item.lg_iso_2" approved="yes">
+        <source>ISO 639-1 A2 Language code:</source>
+        <target state="translated">Code de langue ISO 639-1 A2:</target>
+      </trans-unit>
+      <trans-unit id="static_languages_item.lg_collate_locale" approved="yes">
+        <source>Collating locale:</source>
+        <target state="translated">Localisation pour la comparaison de chaînes:</target>
+      </trans-unit>
+      <trans-unit id="static_languages_item.lg_name_en" approved="yes">
+        <source>Name (EN):</source>
+        <target state="translated">Nom (EN):</target>
+      </trans-unit>
+      <trans-unit id="static_languages_item.lg_typo3" approved="yes">
+        <source>Typo3 language code:</source>
+        <target state="translated">Code de langue Typo3:</target>
+      </trans-unit>
+      <trans-unit id="static_languages_item.lg_sacred" approved="yes">
+        <source>Sacred language:</source>
+        <target state="translated">Langue sacrée:</target>
+      </trans-unit>
+      <trans-unit id="static_languages_item.lg_constructed" approved="yes">
+        <source>Constructed language:</source>
+        <target state="translated">Langue construite:</target>
+      </trans-unit>
+      <trans-unit id="static_currencies.title" approved="yes">
+        <source>Currencies</source>
+        <target state="translated">Devise</target>
+      </trans-unit>
+      <trans-unit id="static_currencies_item.cu_iso_3" approved="yes">
+        <source>ISO 4217 A3 Currency code:</source>
+        <target state="translated">Code de devise ISO 4217 A3:</target>
+      </trans-unit>
+      <trans-unit id="static_currencies_item.cu_iso_nr" approved="yes">
+        <source>ISO 4217 Nr Currency code:</source>
+        <target state="translated">Code de devise ISO 4217 numérique:</target>
+      </trans-unit>
+      <trans-unit id="static_currencies_item.cu_name_en" approved="yes">
+        <source>Name (EN):</source>
+        <target state="translated">Nom (EN):</target>
+      </trans-unit>
+      <trans-unit id="static_currencies_item.cu_sub_name_en" approved="yes">
+        <source>Sub name (EN):</source>
+        <target state="translated">Nom de subdivision (EN):</target>
+      </trans-unit>
+      <trans-unit id="static_currencies_item.cu_symbol_left" approved="yes">
+        <source>Symbol left:</source>
+        <target state="translated">Symbole à gauche:</target>
+      </trans-unit>
+      <trans-unit id="static_currencies_item.cu_symbol_right" approved="yes">
+        <source>Symbol right:</source>
+        <target state="translated">Symbole à droite:</target>
+      </trans-unit>
+      <trans-unit id="static_currencies_item.cu_thousands_point" approved="yes">
+        <source>Thousands point:</source>
+        <target state="translated">Marque des milliers:</target>
+      </trans-unit>
+      <trans-unit id="static_currencies_item.cu_decimal_point" approved="yes">
+        <source>Decimal point:</source>
+        <target state="translated">Marque décimale:</target>
+      </trans-unit>
+      <trans-unit id="static_currencies_item.cu_decimal_digits" approved="yes">
+        <source>Decimal digits:</source>
+        <target state="translated">Nombre de décimales:</target>
+      </trans-unit>
+      <trans-unit id="static_currencies_item.cu_sub_divisor" approved="yes">
+        <source>Divisor:</source>
+        <target state="translated">Diviseur:</target>
+      </trans-unit>
+      <trans-unit id="static_currencies_item.cu_sub_symbol_left" approved="yes">
+        <source>Sub symbol left:</source>
+        <target state="translated">Symbole à gauche - Subdivision:</target>
+      </trans-unit>
+      <trans-unit id="static_currencies_item.cu_sub_symbol_right" approved="yes">
+        <source>Sub symbol right:</source>
+        <target state="translated">Symbole à droite - Subdivision:</target>
+      </trans-unit>
+      <trans-unit id="static_markets.title" approved="yes">
+        <source>Markets</source>
+        <target state="translated">Marchés</target>
+      </trans-unit>
+      <trans-unit id="static_markets.country" approved="yes">
+        <source>Country:</source>
+        <target state="translated">Pays</target>
+      </trans-unit>
+      <trans-unit id="static_markets.mic" approved="yes">
+        <source>MIC:</source>
+        <target state="translated">MIC:</target>
+      </trans-unit>
+      <trans-unit id="static_markets.institution_description" approved="yes">
+        <source>Institution:</source>
+        <target state="translated">Institution:</target>
+      </trans-unit>
+      <trans-unit id="static_markets.acronym" approved="yes">
+        <source>Acronym:</source>
+        <target state="translated">Acronyme:</target>
+      </trans-unit>
+      <trans-unit id="static_markets.city" approved="yes">
+        <source>City:</source>
+        <target state="translated">Ville:</target>
+      </trans-unit>
+      <trans-unit id="static_markets.url" approved="yes">
+        <source>URL:</source>
+        <target state="translated">URL:</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,9 +1,9 @@
 ### Include du dossier typoscript/extensions/
 <INCLUDE_TYPOSCRIPT: source="FILE:EXT:skin_dummy/typoscript/extensions/tx_automaketemplate_pi1.ts">
 ### Include du dossier typoscript/blocs/
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:skin_dummy/typoscript/blocs/1-defaultColumn.ts">
 <INCLUDE_TYPOSCRIPT: source="FILE:EXT:skin_dummy/typoscript/blocs/borderColumn.ts">
 <INCLUDE_TYPOSCRIPT: source="FILE:EXT:skin_dummy/typoscript/blocs/centerColumn.ts">
-<INCLUDE_TYPOSCRIPT: source="FILE:EXT:skin_dummy/typoscript/blocs/defaultColumn.ts">
 <INCLUDE_TYPOSCRIPT: source="FILE:EXT:skin_dummy/typoscript/blocs/leftColumn.ts">
 <INCLUDE_TYPOSCRIPT: source="FILE:EXT:skin_dummy/typoscript/blocs/rightColumn.ts">
 ### Include du dossier typoscript/menus/

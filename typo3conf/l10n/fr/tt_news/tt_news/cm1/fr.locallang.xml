@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+      <label index="moduleFunction.tx_ttnews_modfunc1">Gestionnaire de catégories de tt_news</label>
+      <label index="title">Gestionnaire de catégories d'actualités</label>
+      <label index="moveCategoryinto">déplacer la catégorie dans</label>
+      <label index="copyCategoryinto">copier la catégorie dans</label>
+      <label index="copyCategoryafter">copier la catégorie après</label>
+      <label index="edit">éditer l'enregistrement</label>
+      <label index="showInfo">Afficher les informations</label>
+      <label index="unHide">Afficher l'enregistrement</label>
+      <label index="hide">Masquer l'enregistrement</label>
+      <label index="deleteWarning">Etes-vous certain de vouloir supprimer cet enregistrement ?</label>
+      <label index="delete">Enregistrement supprimé !</label>
+      <label index="new">Créer une nouvelle catégorie dans ce niveau</label>
+      <label index="newsub">Créer une nouvelle sous catégorie</label>
+    </languageKey>
+  </data>
+</T3locallangExt>

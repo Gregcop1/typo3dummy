@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+      <label index="pi1_title_irfaq">Foires aux questions</label>
+      <label index="pi1_plus_wiz_description_irfaq">FAQ avec liste dynamique et statique</label>
+    </languageKey>
+  </data>
+</T3locallangExt>

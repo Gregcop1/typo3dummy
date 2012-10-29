@@ -12,8 +12,8 @@ config {
   images.maxW = 990
 }
 
-styles.content.imgtext.maxW = 990
-styles.content.imgtext.maxWInText = 990
+styles.content.imgtext.maxW = {$config.images.maxW}
+styles.content.imgtext.maxWInText = {$config.images.maxW}
 
 menu{
   topID = 4

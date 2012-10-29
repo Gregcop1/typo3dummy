@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+      <label index="moduleFunction.tx_ttnews_modfunc1">Administrer les catégories de tt_news</label>
+      <label index="title">Administrer les catégories de nouvelles</label>
+      <label index="moveCategoryinto">Déplacer la catégorie dans</label>
+      <label index="copyCategoryinto">Copier la catégorie dans</label>
+      <label index="copyCategoryafter">Copier la catégorie après</label>
+      <label index="edit">Éditer l'article</label>
+      <label index="showInfo">Afficher les informations</label>
+      <label index="unHide">Afficher l'article</label>
+      <label index="hide">Cacher l'article</label>
+      <label index="deleteWarning">Êtes-vous sûr de vouloir effacer cet article ?</label>
+      <label index="delete">Effacer l'article !</label>
+    </languageKey>
+  </data>
+</T3locallangExt>

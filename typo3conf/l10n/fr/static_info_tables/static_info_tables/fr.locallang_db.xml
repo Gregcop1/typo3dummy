@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+      <label index="static_territories.title">Territoire</label>
+      <label index="static_territories_item.tr_iso_nr">Code de territoire:</label>
+      <label index="static_territories_item.tr_parent_iso_nr">Code du territoire contenant celui-ci:</label>
+      <label index="static_territories_item.tr_name_en">Nom (EN):</label>
+      <label index="static_countries.title">Pays</label>
+      <label index="static_countries_item.cn_iso_2">Code de pays ISO 3166-1 A2:</label>
+      <label index="static_countries_item.cn_iso_3">Code de pays ISO 3166-1 A3:</label>
+      <label index="static_countries_item.cn_iso_nr">Code de pays ISO 3166-1 numérique:</label>
+      <label index="static_countries_item.cn_official_name_local">Nom officiel (local):</label>
+      <label index="static_countries_item.cn_official_name_en">Nom officiel (EN):</label>
+      <label index="static_countries_item.cn_capital">Capitale:</label>
+      <label index="static_countries_item.cn_tldomain">Domaine de premier niveau:</label>
+      <label index="static_countries_item.cn_currency_iso_nr">Code de devise ISO 4217 numérique:</label>
+      <label index="static_countries_item.cn_currency_iso_3">Code de devise ISO 4217 A3:</label>
+      <label index="static_countries_item.cn_phone">Préfixe téléphonique international:</label>
+      <label index="static_countries_item.cn_uno_member">Membre de l'ONU:</label>
+      <label index="static_countries_item.cn_eu_member">Membre de l'Union européenne:</label>
+      <label index="static_countries_item.cn_address_format">Format d'adresse:</label>
+      <label index="static_countries_item.cn_address_format_1">code-postal  localité</label>
+      <label index="static_countries_item.cn_address_format_2">localité code-postal</label>
+      <label index="static_countries_item.cn_address_format_3">localité code-de-région code-postal</label>
+      <label index="static_countries_item.cn_address_format_4">localité (nom-de-région) code-postal</label>
+      <label index="static_countries_item.cn_address_format_5">localité/code-postal</label>
+      <label index="static_countries_item.cn_address_format_6">code-postal localité, code-de-région</label>
+      <label index="static_countries_item.cn_address_format_7">code-postal localité code-de-région</label>
+      <label index="static_countries_item.cn_address_format_8">code-postal localité (nom-de-région)</label>
+      <label index="static_countries_item.cn_address_format_9">localité - code-de-région/code-postal</label>
+      <label index="static_countries_item.cn_zone_flag">Indicateur de subdivision:</label>
+      <label index="static_countries_item.cn_short_local">Nom court (local):</label>
+      <label index="static_countries_item.cn_short_en">Nom court (EN):</label>
+      <label index="static_country_zones.title">Subdivision de pays</label>
+      <label index="static_country_zones_item.zn_country_iso_nr">Code de pays ISO 3166-1 numérique:</label>
+      <label index="static_country_zones_item.zn_country_iso_2">Code de pays ISO 3166-1 A2:</label>
+      <label index="static_country_zones_item.zn_country_iso_3">Code de pays ISO 3166-1 A3:</label>
+      <label index="static_country_zones_item.zn_code">Code de subdivision de pays ISO 3166-2:</label>
+      <label index="static_country_zones_item.zn_name_en">Nom (EN):</label>
+      <label index="static_languages.title">Langue</label>
+      <label index="static_languages_item.lg_iso_2">Code de langue ISO 639-1 A2:</label>
+      <label index="static_languages_item.lg_collate_locale">Localisation pour la comparaison de chaînes:</label>
+      <label index="static_languages_item.lg_name_en">Nom (EN):</label>
+      <label index="static_languages_item.lg_typo3">Code de langue Typo3:</label>
+      <label index="static_languages_item.lg_sacred">Langue sacrée:</label>
+      <label index="static_languages_item.lg_constructed">Langue construite:</label>
+      <label index="static_currencies.title">Devise</label>
+      <label index="static_currencies_item.cu_iso_3">Code de devise ISO 4217 A3:</label>
+      <label index="static_currencies_item.cu_iso_nr">Code de devise ISO 4217 numérique:</label>
+      <label index="static_currencies_item.cu_name_en">Nom (EN):</label>
+      <label index="static_currencies_item.cu_sub_name_en">Nom de subdivision (EN):</label>
+      <label index="static_currencies_item.cu_symbol_left">Symbole à gauche:</label>
+      <label index="static_currencies_item.cu_symbol_right">Symbole à droite:</label>
+      <label index="static_currencies_item.cu_thousands_point">Marque des milliers:</label>
+      <label index="static_currencies_item.cu_decimal_point">Marque décimale:</label>
+      <label index="static_currencies_item.cu_decimal_digits">Nombre de décimales:</label>
+      <label index="static_currencies_item.cu_sub_divisor">Diviseur:</label>
+      <label index="static_currencies_item.cu_sub_symbol_left">Symbole à gauche - Subdivision:</label>
+      <label index="static_currencies_item.cu_sub_symbol_right">Symbole à droite - Subdivision:</label>
+      <label index="static_markets.title">Marchés</label>
+      <label index="static_markets.country">Pays</label>
+      <label index="static_markets.mic">MIC:</label>
+      <label index="static_markets.institution_description">Institution:</label>
+      <label index="static_markets.acronym">Acronyme:</label>
+      <label index="static_markets.city">Ville:</label>
+      <label index="static_markets.url">URL:</label>
+    </languageKey>
+  </data>
+</T3locallangExt>

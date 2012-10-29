@@ -30,16 +30,16 @@ template.home {
     UL.id.mainNav     = 1
     UL.id.bottomNav     = 1
 
-    DIV.id.centerColumn    = 1
+    DIV.id.mainContent    = 1
   }
 
   subparts {
     logo < lib.logo
+    mainContent < lib.centerColumn
 
     topNav  < menu.top
     mainNav < menu.main
     bottomNav  < menu.bottom
 
-    centerColumn < lib.centerColumn
   }
 }

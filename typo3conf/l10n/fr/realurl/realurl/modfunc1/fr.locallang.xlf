@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff version="1.0">
+  <file source-language="en" target-language="fr" datatype="plaintext" original="messages" date="Tue Jul 12 18:52:12 UTC 2011" product-name="realurl">
+    <header/>
+    <body>
+      <trans-unit id="title" approved="yes">
+        <source>Speaking URL Management</source>
+        <target state="translated">Gestion de la réécriture d'URL</target>
+      <alt-trans xml:space="preserve" origin="djul"><target>Gestionnaire d'adresses (URL)</target></alt-trans><alt-trans xml:space="preserve" origin="romac"><target>Gestion des URLs réécrites</target></alt-trans><alt-trans xml:space="preserve" origin="djul"><target>Gestion des adresses (URL)</target></alt-trans></trans-unit>
+      <trans-unit id="no_page_id" approved="yes">
+        <source>Please, select a page from the page tree.</source>
+      <target state="translated">Veuillez sélectionner une page dans l'arborescence.</target><alt-trans xml:space="preserve" origin="romac"><target>Veuillez sélectionner une page dans l'arborescence.</target></alt-trans></trans-unit>
+      <trans-unit id="depth" approved="yes">
+        <source>Depth:</source>
+      <target state="translated">Profondeur:</target><alt-trans xml:space="preserve" origin="djul"><target>Profondeur :</target></alt-trans><alt-trans xml:space="preserve" origin="romac"><target>Profondeur:</target></alt-trans></trans-unit>
+      <trans-unit id="function" approved="yes">
+        <source>Show:</source>
+      <target state="translated">Afficher:</target><alt-trans xml:space="preserve" origin="djul"><target>Afficher :</target></alt-trans><alt-trans xml:space="preserve" origin="romac"><target>Afficher:</target></alt-trans></trans-unit>
+      <trans-unit id="default_language" approved="yes">
+        <source>Default</source>
+      <target state="translated">Par défaut</target><alt-trans xml:space="preserve" origin="romac"><target>Par défaut</target></alt-trans></trans-unit>
+      <trans-unit id="all_languages" approved="yes">
+        <source>All</source>
+      <target state="translated">Toutes</target><alt-trans xml:space="preserve" origin="djul"><target>Toutes</target></alt-trans></trans-unit>
+      <trans-unit id="language" approved="yes">
+        <source>Language:</source>
+      <target state="translated">Langue:</target><alt-trans xml:space="preserve" origin="djul"><target>Langue :</target></alt-trans></trans-unit>
+      <trans-unit id="search_path" approved="yes">
+        <source>Path:</source>
+      <target state="translated">Chemin:</target><alt-trans xml:space="preserve" origin="djul"><target>Chemin :</target></alt-trans></trans-unit>
+      <trans-unit id="look_up" approved="yes">
+        <source>Look up</source>
+      <target state="translated">Chercher</target><alt-trans xml:space="preserve" origin="djul"><target>Chercher</target></alt-trans></trans-unit>
+      <trans-unit id="show_all" approved="yes">
+        <source>Show all</source>
+      <target state="translated">Montrer tout</target></trans-unit>
+      <trans-unit id="displaying_results" approved="yes">
+        <source>Results %1$d-%2$d of %3$d</source>
+      <target state="translated">Résultats %1$d-%2$d sur %3$d</target><alt-trans xml:space="preserve" origin="djul"><target>Résultats %1$d-%2$d sur %3$d</target></alt-trans></trans-unit>
+      <trans-unit id="all_domains" approved="yes">
+        <source>-- All domains --</source>
+      <target state="translated">-- Tous les domaines --</target><alt-trans xml:space="preserve" origin="djul"><target>-- Tous les domaines --</target></alt-trans></trans-unit>
+    </body>
+  </file>
+</xliff>

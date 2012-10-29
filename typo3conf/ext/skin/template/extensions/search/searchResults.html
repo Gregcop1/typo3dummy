@@ -1,0 +1,133 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>indexed_search template</title>
+</head>
+
+<body>
+
+<h1>Indexed Search: Tableless template</h1>
+
+
+<h2>TEMPLATE_SEARCH_FORM</h2>
+<p><em>Template for displaying the search form.</em></p>
+
+<!-- ###SEARCH_FORM### begin -->
+<div class="tx-indexedsearch-searchbox searchbox-tmpl-css">
+<form action="###ACTION_URL###" method="post" class="cssform" name="tx_indexedsearch">
+	<div>
+		<input type="hidden" name="tx_indexedsearch[_sections]" value="0" />
+		<input type="hidden" name="tx_indexedsearch[_freeIndexUid]" value="_" />
+		<input type="hidden" name="tx_indexedsearch[pointer]" value="0" />
+		<!-- ###HIDDEN_FIELDS### begin -->
+		<input type="hidden" name="###HIDDEN_FIELDNAME###" value="###HIDDEN_VALUE###" />
+		<!-- ###HIDDEN_FIELDS### end -->
+	</div>
+
+		<div class="tx-indexedsearch-form">
+			<label id="tx-indexedsearch-searchbox-label" for="tx-indexedsearch-searchbox-sword">###FORM_SEARCHFOR###</label>
+			
+		
+      <!-- ###ADDITONAL_KEYWORD### begin -->
+  		<input type="hidden" name="tx_indexedsearch[sword_prev]" value="###SWORD_PREV_VALUE###" />
+  		<input type="checkbox" name="tx_indexedsearch[sword_prev_include]" id="tx_indexedsearch_sword_prev_include" value="1" ###SWORD_PREV_INCLUDE_CHECKED### /> <label for="tx_indexedsearch_sword_prev_include">###ADD_TO_CURRENT_SEARCH###.</label>
+  		<!-- ###ADDITONAL_KEYWORD### end -->
+    		  
+      <input type="text" name="tx_indexedsearch[sword]" value="###SWORD_VALUE###" id="tx-indexedsearch-searchbox-sword" class="texte"/>
+      <input type="submit" name="tx_indexedsearch[submit_button]" value="###FORM_SUBMIT###" id="tx-indexedsearch-searchbox-button-submit" class="submitSearch" />
+    </div>
+    <br />
+</form>
+</div>
+<!-- ###SEARCH_FORM### end -->
+<br /><br />
+
+
+
+
+<h2>TEMPLATE_RULES</h2>
+<p><em>Template for displaying the search rules.</em></p>
+
+<!-- ###RULES### begin -->
+	<div class="tx-indexedsearch-rules">
+		<h2>###RULES_HEADER###</h2>
+		<p>###RULES_TEXT###</p>
+	</div>
+<!-- ###RULES### end -->
+<br /><br />
+
+
+
+
+<h2>TEMPLATE_RESULT_SECTION_LINKS</h2>
+<p><em>Template for the section links in section mode.</em></p>
+
+<!-- ###RESULT_SECTION_LINKS### begin -->
+	<div class="tx-indexedsearch-sec">
+		<ol>
+			###LINKS###
+		</ol>
+	</div>
+<!-- ###RESULT_SECTION_LINKS### end -->
+
+<!-- ###RESULT_SECTION_LINKS_LINK### begin -->
+			<li>###LINK###</li>
+<!-- ###RESULT_SECTION_LINKS_LINK### end -->
+<br /><br />
+
+
+
+
+<h2>TEMPLATE_SECTION_HEADER</h2>
+<p><em>Template for the section title in section mode.</em></p>
+<!-- ###SECTION_HEADER### begin -->
+	<div id="###ANCHOR_URL###" class="tx-indexedsearch-secHead secHead-tmpl-css">
+		<h2 class="tx-indexedsearch-title title">###SECTION_TITLE###</h2>
+	</div>
+
+<!-- ###SECTION_HEADER### end -->
+<br /><br />
+
+
+
+
+<h2>TEMPLATE_RESULT_OUTPUT</h2>
+<p><em>Template for the search result list.</em></p>
+<!-- ###RESULT_OUTPUT### begin -->
+	<div class="tx-indexedsearch-res res res-tmpl-css">
+		<!-- ###HEADER_ROW### begin -->
+		<h3 class="title_search">###TITLE###</h3>
+		<!-- ###HEADER_ROW### end -->
+
+		<!-- ###ROW_LONG### begin -->
+		<p class="tx-indexedsearch-descr descr">###DESCRIPTION###</p>
+		<!-- ###ROW_LONG### end -->
+
+		<!-- ###ROW_SHORT### begin -->
+		<p class="tx-indexedsearch-descr descr">###DESCRIPTION###</p>
+		<!-- ###ROW_SHORT### end -->
+
+	</div>
+<!-- ###RESULT_OUTPUT### end -->
+<!-- ###RESULT_OUTPUT_ALT### begin -->
+	<div class="tx-indexedsearch-res res res2 res-tmpl-css">
+		<!-- ###HEADER_ROW### begin -->
+		<h3 class="title_search">###TITLE###</h3>
+		<!-- ###HEADER_ROW### end -->
+
+		<!-- ###ROW_LONG### begin -->
+		<p class="tx-indexedsearch-descr descr">###DESCRIPTION###</p>
+		<!-- ###ROW_LONG### end -->
+
+		<!-- ###ROW_SHORT### begin -->
+		<p class="tx-indexedsearch-descr descr">###DESCRIPTION###</p>
+		<!-- ###ROW_SHORT### end -->
+
+	</div>
+<!-- ###RESULT_OUTPUT### end --><br /><br />
+
+
+</body>
+</html>

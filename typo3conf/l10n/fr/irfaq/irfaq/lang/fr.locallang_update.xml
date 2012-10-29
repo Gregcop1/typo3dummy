@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+      <label index="form_intro">Ce module met à jour toutes les anciennes versions des instances "irfaq" avec cette nouvelle version</label>
+      <label index="replace_empty">Traiter toutes les valeurs vides comme manquantes. Cela permettra de restaurer les anciennes valeurs non vides même si vous l'avez déjà mis à vide dans l’enregistrement. Lorsque décochée les valeurs vides existantes sont préservées.</label>
+      <label index="submit_button">Vérifier et mettre à jour maintenant !</label>
+      <label index="errors">Erreurs survenues pendant l'enregistrement des données dans la base de données</label>
+      <label index="result">Nombre d'instances "irfaq" : %d. Instances converties au nouveau format : %d.</label>
+    </languageKey>
+  </data>
+</T3locallangExt>

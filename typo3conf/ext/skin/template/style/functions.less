@@ -43,10 +43,10 @@
     width: @width / @parentWidth * 100%;
 }
 
-.border-radius (@rad : @radius) {
-    border-radius         : @rad;
-    -webkit-border-radius : @rad;
-    -moz-border-radius    : @rad;
+.border-radius (@radTL : @radius, @radTR : @radius, @radBR : @radius, @radBL : @radius, ) {
+    border-radius         : @arguments;
+    -webkit-border-radius : @arguments;
+    -moz-border-radius    : @arguments;
 }
 
 .box-shadow (@x: 0, @y: 0, @blur: 1px, @color: #000) {

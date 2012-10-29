@@ -1,0 +1,8 @@
+2006-03-27 : First release
+2006-03-29 : Progress bar + JAVA source code
+2006-04-12 : Clickmenu entry added
+2007-02-26 : Integration in DAM + folder upload + better look and feel ( mostly sponsored by http://snowflake.ch/ )
+2008-02-04 : Adapted to work also on Mac osx ( Safari + Firefox 2 ) with default Java environment
+2008-03-03 : Corrected upload max file size calculation thanks to patch of Michael Ablass
+2008-04-11 : Drag-drop upload is now compatible with T3 rights management
+2009-07-27 : Corrected a problem in the way headers were displayed in the backend module; corrected DAM problems with icons and ACL integration

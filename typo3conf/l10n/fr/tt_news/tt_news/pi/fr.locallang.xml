@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+      <label index="latestHeader">Actualité :</label>
+      <label index="textCatLatest">Cat :</label>
+      <label index="textCat">Catégorie :</label>
+      <label index="textNewsAge">Il y a :</label>
+      <label index="more">[En savoir plus]</label>
+      <label index="preAuthor">Auteur :</label>
+      <label index="backToList">&lt;- retour vers %s</label>
+      <label index="goToArchive">Consulter les archives</label>
+      <label index="archiveHeader">ARCHIVES :</label>
+      <label index="archiveItems">articles</label>
+      <label index="archiveItem">article</label>
+      <label index="archiveEmptyMsg">Désolé, il y a aucun article dans les archives.</label>
+      <label index="noResultsMsg">aucun résultat</label>
+      <label index="searchEmptyMsg">Veuillez entrer un mot-clé.</label>
+      <label index="noNewsToListMsg">Pas d'article dans la liste.</label>
+      <label index="versionPreviewMessage">Version prévisualisable</label>
+      <label index="versionPreviewMessageLinkToOriginal">(cliquez ici pour voir la version publique de cet article)</label>
+      <label index="nonPlublicVersionMsg">Erreur ! Vous avez demandé à visualiser la version privée d'un article</label>
+      <label index="noNewsIdMsg">Erreur : Les paramètres pour afficher la nouvelle sont incorrects ou absents</label>
+      <label index="noTranslMsg">Désolé, il n'y a pas de traduction pour cet article</label>
+      <label index="noNewsForArchPeriod">Désolé, il n'y a pas de traduction pour cet article dans cette période d'archive.</label>
+      <label index="textRelated">Actualités sur le même thême :</label>
+      <label index="textLinks">Liens :</label>
+      <label index="textFiles">Fichiers :</label>
+      <label index="textRelatedByCategory">Autres nouvelles pour cette catégorie :</label>
+      <label index="pi_list_browseresults_prev">&lt; Précédente</label>
+      <label index="pi_list_browseresults_page">Page</label>
+      <label index="pi_list_browseresults_next">Suivante &gt;</label>
+      <label index="pi_list_browseresults_first">&lt;&lt; Première</label>
+      <label index="pi_list_browseresults_last">Dernière &gt;&gt;</label>
+      <label index="pi_list_browseresults_displays">Afficher les résultats ###SPAN_BEGIN###%s à %s&lt;/span&gt; sur un total de ###SPAN_BEGIN###%s&lt;/span&gt;</label>
+      <label index="pi_list_browseresults_displays_advanced">Afficher les résultats ###FROM### à ###TO### sur un total de ###OUT_OF###</label>
+      <label index="pi_list_browseresults_to">à</label>
+      <label index="searchButtonLabel">Chercher</label>
+      <label index="altTextCatSelector">N'afficher que cette catégorie :</label>
+      <label index="altTextCatShortcut">Voir :</label>
+      <label index="catmenuHeader">Sélectionnez une catégorie :</label>
+      <label index="nextArticle">Article suivant</label>
+      <label index="prevArticle">Article précédent</label>
+    </languageKey>
+  </data>
+</T3locallangExt>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+      <label index="m_default">défaut</label>
+      <label index="m_ext">étendu</label>
+      <label index="m_country">pays</label>
+      <label index="m_other">autre</label>
+    </languageKey>
+  </data>
+</T3locallangExt>

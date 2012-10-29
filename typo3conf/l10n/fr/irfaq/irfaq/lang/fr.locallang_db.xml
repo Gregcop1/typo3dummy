@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+      <label index="tx_irfaq_q">FAQ</label>
+      <label index="tx_irfaq_q.q">Question :</label>
+      <label index="tx_irfaq_q.a">Réponse :</label>
+      <label index="tx_irfaq_q.q_from">Réponse par :</label>
+      <label index="tx_irfaq_q.expert">Expert :</label>
+      <label index="tx_irfaq_q.related">Question liées :</label>
+      <label index="tx_irfaq_q.related_links">Question liées (une part ligne) :</label>
+      <label index="tx_irfaq_q.related_new">Créer une nouvelle FAQ et l'ajouter ici</label>
+      <label index="tx_irfaq_q.related_edit">Éditer l'entrée sélectionnée</label>
+      <label index="tx_irfaq_q.extra_tab">Supplément</label>
+      <label index="tx_irfaq_q.disable_comments">Désactiver les commentaires</label>
+      <label index="tx_irfaq_q.comments_closetime">Fermer le commentaire :</label>
+      <label index="tx_irfaq_cat">Catégorie de FAQ</label>
+      <label index="tx_irfaq_expert">FAQ des experts</label>
+      <label index="tx_irfaq_expert.name">Nom :</label>
+      <label index="tx_irfaq_expert.url">Site web :</label>
+      <label index="tt_content.list_type_pi1">FAQ Moderne</label>
+      <label index="tx_irfaq.pi_flexform.sheet_general">Général</label>
+      <label index="tx_irfaq.pi_flexform.sheet_categories">Catégories</label>
+      <label index="tx_irfaq.pi_flexform.sheet_search">Recherche</label>
+      <label index="tx_irfaq.pi_flexform.what_to_display">Mode d'affichage :</label>
+      <label index="tx_irfaq.pi_flexform.category_selection">Catégorie sélectionnée</label>
+      <label index="tx_irfaq.pi_flexform.category_selection_notCategorized">[Non catégorisé]</label>
+      <label index="tx_irfaq.pi_flexform.view_dynamic">Vue dynamique avec DHTML (réponses repliables)</label>
+      <label index="tx_irfaq.pi_flexform.view_static">Vue statique avec réponses sous la liste des questions</label>
+      <label index="tx_irfaq.pi_flexform.view_static_separate">Vue statique avec réponses sur une page séparée</label>
+      <label index="tx_irfaq.pi_flexform.view_search">Fomulaire de recherche</label>
+      <label index="tx_irfaq.pi_flexform.no_view">Non configuré !</label>
+      <label index="tx_irfaq.pi_flexform.select_deselect_categories">Mode des catégories</label>
+      <label index="tx_irfaq.pi_flexform.category_selection_showAll">Afficher tout (ne prend pas en compte la sélectionné ci-dessous)</label>
+      <label index="tx_irfaq.pi_flexform.category_selection_showSelected">Afficher les questions avec les catégories sélectionnées</label>
+      <label index="tx_irfaq.pi_flexform.category_selection_DontShowSelected">Ne PAS afficher les questions avec les catégories sélectionnées</label>
+      <label index="tx_irfaq.pi_flexform.searchPid">Rediriger vers la page</label>
+      <label index="tx_irfaq.pi_flexform.emptySearchAtStart">Fomulaire de recherche vide à l'ouverture</label>
+      <label index="tx_irfaq.sysfolder">FAQ Moderne</label>
+      <label index="tx_irfaq.pi_flexform.enableRatings">Activer les votes</label>
+    </languageKey>
+  </data>
+</T3locallangExt>

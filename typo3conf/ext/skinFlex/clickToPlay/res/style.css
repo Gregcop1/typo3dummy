@@ -1,0 +1,5 @@
+.clickToPlayBloc { display: inline-block; position: relative; }
+.clickToPlayBloc .infos { position: absolute; top: 80px; left: 0; right: 0; }
+.clickToPlayBloc h3 { margin : 10px 30px 10px 30px; }
+.clickToPlayBloc p { margin: 10px 30px 20px 30px; }
+.clickToPlayBloc .player { position: absolute; display: none; left: 0; top: 0; }

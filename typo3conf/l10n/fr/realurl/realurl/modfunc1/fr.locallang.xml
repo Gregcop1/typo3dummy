@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+      <label index="title">Gestion de la réécriture d'URL</label>
+      <label index="no_page_id">Veuillez sélectionner une page dans l'arborescence.</label>
+      <label index="depth">Profondeur:</label>
+      <label index="function">Afficher:</label>
+      <label index="default_language">Par défaut</label>
+      <label index="all_languages">Toutes</label>
+      <label index="language">Langue:</label>
+      <label index="search_path">Chemin:</label>
+      <label index="look_up">Chercher</label>
+      <label index="show_all">Montrer tout</label>
+      <label index="displaying_results">Résultats %1$d-%2$d sur %3$d</label>
+      <label index="all_domains">-- Tous les domaines --</label>
+    </languageKey>
+  </data>
+</T3locallangExt>
