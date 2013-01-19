@@ -3,6 +3,9 @@ if (!defined ('TYPO3_MODE')) {
 	die ('Access denied.');
 }
 
+require_once('/var/www/typo3/src/global_localconf.php');
+
+
 $TYPO3_CONF_VARS['SYS']['sitename'] = 'New TYPO3 site';
 
 	// Default password is "joh316" :
@@ -21,7 +24,7 @@ $TYPO3_CONF_VARS['SYS']['compat_version'] = '4.5';	//  Modified or inserted by T
 $typo_db_username = 'github';	//  Modified or inserted by TYPO3 Install Tool.
 $typo_db_password = 'github*46';	//  Modified or inserted by TYPO3 Install Tool.
 $typo_db_host = 'localhost';	//  Modified or inserted by TYPO3 Install Tool.
-$typo_db = 'typo3_dummy';	//  Modified or inserted by TYPO3 Install Tool.
+$typo_db = 'typo3dummy';	//  Modified or inserted by TYPO3 Install Tool.
 $TYPO3_CONF_VARS['BE']['installToolPassword'] = 'd700366a0dd0b5e458d30f34d2dcb17d';	//  Modified or inserted by TYPO3 Install Tool.
 $TYPO3_CONF_VARS['GFX']['im'] = '0';	//  Modified or inserted by TYPO3 Install Tool.
 $TYPO3_CONF_VARS['GFX']['jpg_quality'] = '90';	//  Modified or inserted by TYPO3 Install Tool.
