@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="select_container"/>
+			<label index="container_invalid"/>
+			<label index="no_betemplatefile"/>
+			<label index="no_container"/>
+			<label index="column"/>
+			<label index="newSection"/>
+			<label index="sectionList"/>
+			<label index="update_label"/>
+			<label index="update_message"/>
+			<label index="update_finished"/>
+			<label index="update_none"/>
+			<label index="update_error"/>
+		</languageKey>
+  </data>
+</T3locallangExt>

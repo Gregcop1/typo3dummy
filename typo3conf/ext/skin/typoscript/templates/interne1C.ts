@@ -1,7 +1,4 @@
 page {
-  headerData.10.default < page.headerData.10.2
-  10.default < page.10.2
-
   headerData.10.2 < template.interne1C
   headerData.10.2.workOnSubpart = DOCUMENT_HEADER
   10.2 =< template.interne1C
@@ -12,7 +9,7 @@ page {
   }
 }
 
-temp.templateFile = EXT:skin/template/home.html
+temp.templateFile = EXT:skin/template/interne1C.html
 
 ## gestion de la template
 template.interne1C = TEMPLATE
@@ -26,18 +23,19 @@ template.interne1C {
   template.elements {
     H1.id.logo = 1
 
+    UL.id.topNav     = 1
     UL.id.mainNav     = 1
+    UL.id.bottomNav     = 1
 
-    DIV.id.sidebar    = 1
-    DIV.id.centerColumn    = 1
+    DIV.id.mainContent    = 1
   }
 
   subparts {
-    mainNav < menu.main
-
     logo < lib.logo
+    mainContent < lib.centerColumn
 
-    sidebar < lib.sidebarColumn
-    centerColumn < lib.centerColumn
+    topNav  < menu.top
+    mainNav < menu.main
+    bottomNav  < menu.bottom
   }
 }

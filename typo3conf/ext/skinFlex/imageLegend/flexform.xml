@@ -1,0 +1,40 @@
+<T3DataStructure>
+  	<sheets>
+  		<sDEF>
+			<ROOT>
+				<TCEforms>
+					<sheetTitle>LLL:EXT:skinFlex/imageLegend/locallang.xml:flexform.imageLegend.sheets.general</sheetTitle>
+		        </TCEforms>
+				<type>array</type>
+				<el>
+					<file>
+						<TCEforms>
+							<label>LLL:EXT:skinFlex/imageLegend/locallang.xml:flexform.imageLegend.image</label>
+							<config>
+								<type>group</type>
+								<internal_type>file</internal_type>
+								<allowed>gif,jpg,jpeg,tif,bmp,pcx,tga,png,pdf,ai</allowed>
+								<max_size>5000</max_size>
+								<uploadfolder>uploads/skinFlex/imageLegend/</uploadfolder>
+								<maxitems>1</maxitems>
+								<size>1</size>
+								<selectedListStyle>width:200px</selectedListStyle>
+								<show_thumbs>1</show_thumbs>
+							</config>
+						</TCEforms>
+					</file>
+					<title>
+						<TCEforms>
+							<label>LLL:EXT:skinFlex/imageLegend/locallang.xml:flexform.imageLegend.title</label>
+							<config>
+								<type>input</type>
+							</config>
+						</TCEforms>
+					</title>
+				</el>
+			</ROOT>
+  		</sDEF>
+  	</sheets>
+</T3DataStructure>
+
+

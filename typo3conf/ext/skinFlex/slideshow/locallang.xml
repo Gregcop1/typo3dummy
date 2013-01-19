@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>database</type>
+		<description>Language labels for database tables/fields belonging to extension 'wec_contentelements'</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="tt_content.slideshow.title">Slideshow</label>
+			<label index="tt_content.slideshow.description">This item insert a slideshow of selected images</label>
+
+			<label index="flexform.slideshow.sheets.general">Main Content</label>
+			<label index="flexform.slideshow.title">Title</label>
+			<label index="flexform.slideshow.image">Image</label>
+			<label index="flexform.slideshow.imageFile">Image File</label>
+			<label index="flexform.slideshow.imageLink">Image Link</label>
+		</languageKey>
+
+		<languageKey index="fr" type="array">
+			<label index="tt_content.slideshow.title">Diaporama d'images</label>
+			<label index="tt_content.slideshow.description">Cet élèment insère un diaporama des images que vous sélectionnez</label>
+
+			<label index="flexform.slideshow.sheets.general">Contenu général</label>
+			<label index="flexform.slideshow.title">Titre</label>
+			<label index="flexform.slideshow.image">Image</label>
+			<label index="flexform.slideshow.imageFile">Fichier image</label>
+			<label index="flexform.slideshow.link">Lien</label>
+		</languageKey>
+	</data>
+</T3locallang>

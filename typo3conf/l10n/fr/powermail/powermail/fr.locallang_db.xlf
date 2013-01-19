@@ -1,0 +1,444 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff version="1.0">
+  <file source-language="en" datatype="plaintext" original="messages" date="2011-11-30T15:09:41Z" product-name="powermail" target-language="fr">
+    <header/>
+    <body>
+      <trans-unit id="please_select" xml:space="preserve" approved="yes">
+        <source>Please select...</source>
+      <target state="translated">Veuillez sélectionner...</target></trans-unit>
+      <trans-unit id="tx_powermail_forms" xml:space="preserve" approved="yes">
+        <source>Forms</source>
+      <target state="translated">Formulaires</target></trans-unit>
+      <trans-unit id="tt_content.CType_pi1" xml:space="preserve" approved="yes">
+        <source>powermail</source>
+      <target state="translated">powermail</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.title" xml:space="preserve" approved="yes">
+        <source>Form title (for internal usage only)</source>
+      <target state="translated">Titre du formulaire</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.fieldsets" xml:space="preserve" approved="yes">
+        <source>Form pages</source>
+      <target state="translated">Pages de formulaire</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.preview" xml:space="preserve" approved="yes">
+        <source>Preview</source>
+      <target state="translated">Prévisualiser</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.recipient" xml:space="preserve" approved="yes">
+        <source>Email of recipient (and optional name of recipient)</source>
+      <target state="translated">Destinataire</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.subject_r" xml:space="preserve" approved="yes">
+        <source>Subject for recipient's mail</source>
+      <target state="translated">Sujet du mail au destinataire</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.subject_s" xml:space="preserve" approved="yes">
+        <source>Subject for sender's mail</source>
+      <target state="translated">Sujet du mail à l'expéditeur</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.sender" xml:space="preserve" approved="yes">
+        <source>Senders email address</source>
+      <target state="translated">Champ de l'expéditeur (email)</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.sendername" xml:space="preserve" approved="yes">
+        <source>Senders name</source>
+      <target state="translated">Nom de l'expéditeur</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.confirm" xml:space="preserve" approved="yes">
+        <source>Activate confirmation page</source>
+      <target state="translated">Activer la page de confirmation</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.startingpoint" xml:space="preserve" approved="yes">
+        <source>Save mails in page (empty for same page)</source>
+      <target state="translated">Sauvegarder les mails dans la page</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.multiple" xml:space="preserve" approved="yes">
+        <source>Multiple steps (every fieldset is a single page)</source>
+      <target state="translated">Étapes multiples (Chaque groupe de champs est une page)</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.multiple.I.0" xml:space="preserve" approved="yes">
+        <source>Show all fieldsets on one page (default)</source>
+      <target state="translated">Présenter tous les groupes de champs sur la même page (par défaut)</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.multiple.I.1" xml:space="preserve" approved="yes">
+        <source>Multiple pages (client application)</source>
+      <target state="translated">Etapes JS multiples</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.multiple.I.2" xml:space="preserve" approved="yes">
+        <source>Multiple pages (server application)</source>
+      <target state="translated">Etapes PHP multiples</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.recip_table" xml:space="preserve" approved="yes">
+        <source>Table of recipients</source>
+      <target state="translated">Table des destinataires</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.recip_id" xml:space="preserve" approved="yes">
+        <source>Recipients from upper table</source>
+      <target state="translated">Destinataires de la table ci-dessus</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.recip_field" xml:space="preserve" approved="yes">
+        <source>Fieldname where mail is stored</source>
+      <target state="translated">Nom du champ où l'e-mail est stocké</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.query" xml:space="preserve" approved="yes">
+        <source>Alternative SQL-Query</source>
+      <target state="translated">Requête SQL alternative</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.thanks" xml:space="preserve" approved="yes">
+        <source>Response text (shown on website after submit)</source>
+      <target state="translated">Texte de réponse (affiché sur le site web)</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.mailsender" xml:space="preserve" approved="yes">
+        <source>Email-Text for sender</source>
+      <target state="translated">Texte de l'email pour l'expéditeur</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.mailsender.default" xml:space="preserve" approved="yes">
+        <source>Thank you for your message:
+
+###POWERMAIL_ALL###</source>
+      <target state="translated">Merci pour votre message. Votre texte: ###POWERMAIL_ALL###</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.mailreceiver" xml:space="preserve" approved="yes">
+        <source>Email-Text for receiver</source>
+      <target state="translated">Texte de l'email pour le destinataire</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.mailreceiver.default" xml:space="preserve" approved="yes">
+        <source>This is an email from your website:
+
+###POWERMAIL_ALL###</source>
+      <target state="translated">Ceci est un email de votre site web. Le texte: ###POWERMAIL_ALL###</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.redirect" xml:space="preserve" approved="yes">
+        <source>Auto-redirect after confirmation-page</source>
+      <target state="translated">Redirection automatique après la page de confirmation</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.updateError" xml:space="preserve" approved="yes">
+        <source>Powermail ERROR: Please go back to the extension manager, choose powermail and click the update button!</source>
+      <target state="translated">Erreur Powermail : Merci de retourner au gestionnaire d'extension, choisir Powermail et cliquer sur le bouton "Mise à jour" !</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.noError" xml:space="preserve" approved="yes">
+        <source>No errors found</source>
+      <target state="translated">Aucune erreur trouvée</target></trans-unit>
+      <trans-unit id="tx_powermail_fieldsets" xml:space="preserve" approved="yes">
+        <source>Fieldsets</source>
+      <target state="translated">Groupe de champs</target></trans-unit>
+      <trans-unit id="tx_powermail_fieldsets.form" xml:space="preserve" approved="yes">
+        <source>Form</source>
+      <target state="translated">Formulaire</target></trans-unit>
+      <trans-unit id="tx_powermail_fieldsets.title" xml:space="preserve" approved="yes">
+        <source>Title</source>
+      <target state="translated">Titre</target></trans-unit>
+      <trans-unit id="tx_powermail_fieldsets.fields" xml:space="preserve" approved="yes">
+        <source>Fields</source>
+      <target state="translated">Champs</target></trans-unit>
+      <trans-unit id="tx_powermail_fieldsets.addition" xml:space="preserve" approved="yes">
+        <source>Additional Settings</source>
+      <target state="translated">Réglages additionnels</target></trans-unit>
+      <trans-unit id="tx_powermail_fieldsets.class" xml:space="preserve" approved="yes">
+        <source>Add CSS class</source>
+      <target state="translated">Ajouter une classe CSS</target></trans-unit>
+      <trans-unit id="tx_powermail_fieldsets.tt_content" xml:space="preserve" approved="yes">
+        <source>Powermail Content Element</source>
+      <target state="translated">Élément de contenu Powermail</target></trans-unit>
+      <trans-unit id="tx_powermail_fields" xml:space="preserve" approved="yes">
+        <source>Fields</source>
+      <target state="translated">Champ</target><note>Mis volontairement au singulier pour correspondre aux noms des tables systèmes. Le titre de la table affiché de la table est au singulier même si le nom de la table en base de données est au pluriel. Il devrait être au singulier sur la version anglophone également.</note></trans-unit>
+      <trans-unit id="tx_powermail_fields.fieldset" xml:space="preserve" approved="yes">
+        <source>Fieldset</source>
+      <target state="translated">Groupe de champs</target></trans-unit>
+      <trans-unit id="tx_powermail_fields.title" xml:space="preserve" approved="yes">
+        <source>Title</source>
+      <target state="translated">Titre</target></trans-unit>
+      <trans-unit id="tx_powermail_fields.name" xml:space="preserve" approved="yes">
+        <source>Name</source>
+      <target state="translated">Nom</target></trans-unit>
+      <trans-unit id="tx_powermail_fields.description" xml:space="preserve" approved="yes">
+        <source>Description</source>
+      <target state="translated">Description</target></trans-unit>
+      <trans-unit id="tx_powermail_fields.type" xml:space="preserve" approved="yes">
+        <source>Fieldtype</source>
+      <target state="translated">Type de champ</target></trans-unit>
+      <trans-unit id="tx_powermail_fields.field" xml:space="preserve" approved="yes">
+        <source>Settings</source>
+      <target state="translated">Réglages</target></trans-unit>
+      <trans-unit id="tx_powermail_fields.fe_field" xml:space="preserve" approved="yes">
+        <source>Fill out this field with fe_user field</source>
+      <target state="translated">Remplir ce champ avec le champ fe_user</target></trans-unit>
+      <trans-unit id="tx_powermail_fields.class" xml:space="preserve" approved="yes">
+        <source>Add CSS class</source>
+      <target state="translated">Ajouter une classe CSS</target></trans-unit>
+      <trans-unit id="tx_powermail_fields.pattern" xml:space="preserve" approved="yes">
+        <source>RegExp Pattern</source>
+      <target state="translated">Motif RegExp</target></trans-unit>
+      <trans-unit id="tx_powermail_mails" xml:space="preserve" approved="yes">
+        <source>Mails</source>
+      <target state="translated">Mails</target></trans-unit>
+      <trans-unit id="tx_powermail_mails.formid" xml:space="preserve" approved="yes">
+        <source>Content UID where form is in</source>
+      <target state="translated">ID du contenu où se trouve le formulaire</target></trans-unit>
+      <trans-unit id="tx_powermail_mails.recipient" xml:space="preserve" approved="yes">
+        <source>Recipient</source>
+      <target state="translated">Destinataire</target></trans-unit>
+      <trans-unit id="tx_powermail_mails.cc_recipient" xml:space="preserve" approved="yes">
+        <source>CC recipient(s)</source>
+      <target state="translated">Copie Cachée ( destinataire )</target></trans-unit>
+      <trans-unit id="tx_powermail_mails.subject_r" xml:space="preserve" approved="yes">
+        <source>Subject</source>
+      <target state="translated">Sujet</target></trans-unit>
+      <trans-unit id="tx_powermail_mails.sender" xml:space="preserve" approved="yes">
+        <source>Sender</source>
+      <target state="translated">Expéditeur</target></trans-unit>
+      <trans-unit id="tx_powermail_mails.content" xml:space="preserve" approved="yes">
+        <source>Content</source>
+      <target state="translated">Contenu</target></trans-unit>
+      <trans-unit id="tx_powermail_mails.content_RTE" xml:space="preserve" approved="yes">
+        <source>Full screen Rich Text Editing</source>
+      <target state="translated">Editeur HTML en plein écran</target></trans-unit>
+      <trans-unit id="tx_powermail_mails.piVars" xml:space="preserve" approved="yes">
+        <source>All values</source>
+      <target state="translated">Toutes les valeurs</target></trans-unit>
+      <trans-unit id="tx_powermail_mails.senderIP" xml:space="preserve" approved="yes">
+        <source>IP address of sender</source>
+      <target state="translated">Adresse IP de l'expéditeur</target></trans-unit>
+      <trans-unit id="tx_powermail_mails.UserAgent" xml:space="preserve" approved="yes">
+        <source>User agent of sender</source>
+      <target state="translated">Agent utilisateur de l'expéditeur</target></trans-unit>
+      <trans-unit id="tx_powermail_mails.Referer" xml:space="preserve" approved="yes">
+        <source>Link to page with form</source>
+      <target state="translated">Lien sur la page du formulaire</target></trans-unit>
+      <trans-unit id="tx_powermail_mails.SP_TZ" xml:space="preserve" approved="yes">
+        <source>User location</source>
+      <target state="translated">Lieu d'utilisateur</target></trans-unit>
+      <trans-unit id="tx_powermail_mails.Additional" xml:space="preserve" approved="yes">
+        <source>Additional information</source>
+      <target state="translated">Informations complémentaires</target></trans-unit>
+      <trans-unit id="tx_powermail_mails.feuser" xml:space="preserve" approved="yes">
+        <source>Filled out from FE_User</source>
+      <target state="translated">Remplir à partir d'un Utilisateur FE</target></trans-unit>
+      <trans-unit id="tt_content.list_type_pi1" xml:space="preserve" approved="yes">
+        <source>Powermail</source>
+      <target state="translated">Powermail</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.div1" xml:space="preserve" approved="yes">
+        <source>Formdata</source>
+      <target state="translated">Données du formulaire</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.div2" xml:space="preserve" approved="yes">
+        <source>Fields</source>
+      <target state="translated">Champs</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.div4" xml:space="preserve" approved="yes">
+        <source>Recipients</source>
+      <target state="translated">Destinataires</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.div3" xml:space="preserve" approved="yes">
+        <source>Sender</source>
+      <target state="translated">Expéditeur</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.div5" xml:space="preserve" approved="yes">
+        <source>Answer page</source>
+      <target state="translated">Page de réponse</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.div6" xml:space="preserve" approved="yes">
+        <source>Email-Text sender</source>
+      <target state="translated">Texte du mail à l'expéditeur</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.div7" xml:space="preserve" approved="yes">
+        <source>Email-Text receiver</source>
+      <target state="translated">Texte du mail au destinataire</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.div8" xml:space="preserve" approved="yes">
+        <source>Access</source>
+      <target state="translated">Accès</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.fieldtitle.text" xml:space="preserve" approved="yes">
+        <source>Textfield</source>
+      <target state="translated">Champ texte simple</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.fieldtitle.textarea" xml:space="preserve" approved="yes">
+        <source>Textarea</source>
+      <target state="translated">Champ texte multi-lignes</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.fieldtitle.select" xml:space="preserve" approved="yes">
+        <source>Select box</source>
+      <target state="translated">Menu déroulant</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.fieldtitle.check" xml:space="preserve" approved="yes">
+        <source>Checkbox(s)</source>
+      <target state="translated">Case(s) à cocher</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.fieldtitle.radio" xml:space="preserve" approved="yes">
+        <source>Radiobutton(s)</source>
+      <target state="translated">Bouton(s) radio</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.fieldtitle.password" xml:space="preserve" approved="yes">
+        <source>Password field</source>
+      <target state="translated">Champ mot de passe</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.fieldtitle.file" xml:space="preserve" approved="yes">
+        <source>File upload</source>
+      <target state="translated">Chargement de fichier</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.fieldtitle.content" xml:space="preserve" approved="yes">
+        <source>TYPO3 pagecontent</source>
+      <target state="translated">Contenu de page TYPO3</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.fieldtitle.hidden" xml:space="preserve" approved="yes">
+        <source>Hidden field</source>
+      <target state="translated">Champ caché</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.fieldtitle.label" xml:space="preserve" approved="yes">
+        <source>Show some text</source>
+      <target state="translated">Afficher un texte</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.fieldtitle.html" xml:space="preserve" approved="yes">
+        <source>Enter your own HTML code</source>
+      <target state="translated">Saisir du code HTML</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.fieldtitle.submit" xml:space="preserve" approved="yes">
+        <source>Submit button</source>
+      <target state="translated">Bouton de validation</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.fieldtitle.reset" xml:space="preserve" approved="yes">
+        <source>Reset button</source>
+      <target state="translated">Bouton de réinitialisation</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.fieldtitle.datetime" xml:space="preserve" approved="yes">
+        <source>Date and time field</source>
+      <target state="translated">Champ heure et date</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.fieldtitle.date" xml:space="preserve" approved="yes">
+        <source>Date field</source>
+      <target state="translated">Champ la date</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.fieldtitle.button" xml:space="preserve" approved="yes">
+        <source>Button</source>
+      <target state="translated">Bouton</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.fieldtitle.submitgraphic" xml:space="preserve" approved="yes">
+        <source>Graphic as submit</source>
+      <target state="translated">Bouton sous forme d'image</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.fieldtitle.countryselect" xml:space="preserve" approved="yes">
+        <source>Country selection</source>
+      <target state="translated">Séléction de pays</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.fieldtitle.captcha" xml:space="preserve" approved="yes">
+        <source>Captcha request</source>
+      <target state="translated">Demande de captcha</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.fieldtitle.typoscript" xml:space="preserve" approved="yes">
+        <source>Add typoscript object</source>
+      <target state="translated">Ajouter un object typoscript</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.fieldtitle.div1" xml:space="preserve" approved="yes">
+        <source>Standard</source>
+      <target state="translated">Satndard</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.fieldtitle.div2" xml:space="preserve" approved="yes">
+        <source>Extra</source>
+      <target state="translated">Extra</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.fieldtitle.div3" xml:space="preserve" approved="yes">
+        <source>Extensions</source>
+      <target state="translated">Extensions</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.xml.name" xml:space="preserve" approved="yes">
+        <source>Name for templates</source>
+      <target state="translated">Noms des modèles</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.xml.label" xml:space="preserve" approved="yes">
+        <source>Description</source>
+      <target state="translated">Description</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.xml.size" xml:space="preserve" approved="yes">
+        <source>Size</source>
+      <target state="translated">Taille</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.xml.maxlength" xml:space="preserve" approved="yes">
+        <source>Max. length</source>
+      <target state="translated">Longueur max.</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.xml.readonly" xml:space="preserve" approved="yes">
+        <source>Read only</source>
+      <target state="translated">Lecture uniquement</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.xml.mandatory" xml:space="preserve" approved="yes">
+        <source>Mandatory field</source>
+      <target state="translated">Champ obligatoire</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.xml.cols" xml:space="preserve" approved="yes">
+        <source>Number of columns</source>
+      <target state="translated">Nombre de colonnes</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.xml.rows" xml:space="preserve" approved="yes">
+        <source>Number of rows</source>
+      <target state="translated">Nombre de lignes</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.xml.wrap" xml:space="preserve" approved="yes">
+        <source>Break allowed</source>
+      <target state="translated">Retour à la ligne autorisé</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.xml.wrap.0" xml:space="preserve" approved="yes">
+        <source>No break</source>
+      <target state="translated">Pas de retour à la ligne</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.xml.wrap.1" xml:space="preserve" approved="yes">
+        <source>Break allowed</source>
+      <target state="translated">Retour à la ligne autorisé</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.xml.multiple" xml:space="preserve" approved="yes">
+        <source>Multiple select allowed</source>
+      <target state="translated">Séléction multiple autorisée</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.xml.options" xml:space="preserve" approved="yes">
+        <source>Enter your options</source>
+      <target state="translated">Saisir vos options</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.xml.relation" xml:space="preserve" approved="yes">
+        <source>TYPO3 content</source>
+      <target state="translated">Elément de contenu TYPO3</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.xml.send" xml:space="preserve" approved="yes">
+        <source>Send this content via email</source>
+      <target state="translated">Envoyer cet élément de contenu via email</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.xml.value" xml:space="preserve" approved="yes">
+        <source>Default value</source>
+      <target state="translated">Valeur par défaut</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.xml.src" xml:space="preserve" approved="yes">
+        <source>Grafic source</source>
+      <target state="translated">Chemin vers l'image</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.xml.alt" xml:space="preserve" approved="yes">
+        <source>Alternative text for image</source>
+      <target state="translated">Texte alternatif pour l'image</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.xml.preselect" xml:space="preserve" approved="yes">
+        <source>Preselect country</source>
+      <target state="translated">Suppression de pays pour présélection</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.xml.within" xml:space="preserve" approved="yes">
+        <source>Only show this countries</source>
+      <target state="translated">Afficher ces pays uniquement</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.xml.without" xml:space="preserve" approved="yes">
+        <source>Show list without this countries</source>
+      <target state="translated">Afficher la liste sans ces pays</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.xml.typoscript" xml:space="preserve" approved="yes">
+        <source>Typoscript object</source>
+      <target state="translated">Object typoscript</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.xml.validate" xml:space="preserve" approved="yes">
+        <source>Validate this field for</source>
+      <target state="translated">Valider ce champ en tant que</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.xml.validate.1" xml:space="preserve" approved="yes">
+        <source>Email-address</source>
+      <target state="translated">Adresse e-mail</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.xml.validate.2" xml:space="preserve" approved="yes">
+        <source>URL</source>
+      <target state="translated">URL</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.xml.validate.3" xml:space="preserve" approved="yes">
+        <source>Digits only</source>
+      <target state="translated">Chiffres uniquement</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.xml.validate.4" xml:space="preserve" approved="yes">
+        <source>Digits only (without comma or point)</source>
+      <target state="translated">Chiffres uniquement (sans virgule ou point)</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.xml.validate.5" xml:space="preserve" approved="yes">
+        <source>Letters only</source>
+      <target state="translated">Lettres uniquement</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.xml.validate.6" xml:space="preserve" approved="yes">
+        <source>Letters and digits only</source>
+      <target state="translated">Lettres et chiffres uniquement</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.xml.validate.7" xml:space="preserve" approved="yes">
+        <source>Regular expression</source>
+      <target state="translated">Expression régulière</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.xml.validate.8" xml:space="preserve" approved="yes">
+        <source>Letters only (incl. Umlauts)</source>
+      <target state="translated">Lettres uniquement (Umlauts compris)</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.xml.validate.9" xml:space="preserve" approved="yes">
+        <source>Letters and digits only (incl. Umlauts)</source>
+      <target state="translated">Lettres et chiffres uniquement (Umlauts compris)</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.xml.inputtype" xml:space="preserve" approved="yes">
+        <source>HTML5 input type</source>
+      <target state="translated">Type de champ HTML5</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.xml.inputtype.0" xml:space="preserve" approved="yes">
+        <source>Text</source>
+      <target state="translated">Texte</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.xml.inputtype.1" xml:space="preserve" approved="yes">
+        <source>Color</source>
+      <target state="translated">Couleur</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.xml.inputtype.2" xml:space="preserve" approved="yes">
+        <source>Range</source>
+      <target state="translated">Plage</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.xml.inputtype.3" xml:space="preserve" approved="yes">
+        <source>Tel</source>
+      <target state="translated">Téléphone</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.xml.inputtype.4" xml:space="preserve" approved="yes">
+        <source>Time</source>
+      <target state="translated">Heure</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.xml.min" xml:space="preserve" approved="yes">
+        <source>Minimal Date</source>
+      <target state="translated">Date minimale</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.xml.max" xml:space="preserve" approved="yes">
+        <source>Maximal Date</source>
+      <target state="translated">Date maximale</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.xml.mincalc" xml:space="preserve" approved="yes">
+        <source>Calculated minimum date from now (in days)</source>
+      <target state="translated">Calculer la date minimum depuis maintenant (en nombre de jours)</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.xml.maxcalc" xml:space="preserve" approved="yes">
+        <source>Calculated maximum date from now (in days)</source>
+      <target state="translated">Calculer la date maximum depuis maintenant (en nombre de jours)</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.xml.step" xml:space="preserve" approved="yes">
+        <source>Allowed steps (HTML5)</source>
+      <target state="translated">Autoriser les étapes (HTML5)</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.xml.pattern" xml:space="preserve" approved="yes">
+        <source>RegEx pattern for value (HTML5)</source>
+      <target state="translated">Motif RegEx pour la valeur (HTML5)</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.xml.placeholder" xml:space="preserve" approved="yes">
+        <source>Placeholder (HTML5)</source>
+      <target state="translated">Champ fictif (HTML5)</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.xml.example" xml:space="preserve" approved="yes">
+        <source>Field example</source>
+      <target state="translated">Exemple de champ</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.xml.countryzone" xml:space="preserve" approved="yes">
+        <source>Add countryzone select (XAJAX needed)</source>
+      <target state="translated">Ajouter une sélection de Code Postal ( Necessite XAJAX )</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.xml.error" xml:space="preserve" approved="yes">
+        <source>Please select a fieldtype to continue.</source>
+      <target state="translated">Veuillez séléctionner un type de champ pour continuer</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.xml.countryselect.error" xml:space="preserve" approved="yes">
+        <source>Please install the extension static_info_tables to use this feature.</source>
+      <target state="translated">Veuillez installer l'extension static_info_tables pour utiliser cette option</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.xml.date.showselector" xml:space="preserve" approved="yes">
+        <source>Show month and year selector</source>
+      <target state="translated">afficher la sélection du mois et de l'année</target></trans-unit>
+      <trans-unit id="tx_powermail_forms.xml.clearSession" xml:space="preserve" approved="yes">
+        <source>Refresh page and clear whole session</source>
+      <target state="translated">Rafraichissez la page</target></trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>database</type>
+		<description>Language labels for database tables/fields belonging to extension 'wec_contentelements'</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="tt_content.clickToPlay.title">Play a video</label>
+			<label index="tt_content.clickToPlay.description"></label>
+
+			<label index="flexform.clickToPlay.sheets.general">mainContent</label>
+			<label index="flexform.clickToPlay.title">Title</label>
+			<label index="flexform.clickToPlay.description">Description</label>
+			<label index="flexform.clickToPlay.image">Image</label>
+			<label index="flexform.clickToPlay.video">Video Link</label>
+			<label index="tt_content.clickToPlay.btnLabel">Play the video</label>
+		</languageKey>
+
+		<languageKey index="fr" type="array">
+			<label index="tt_content.clickToPlay.title">Jouer la vidéo</label>
+			<label index="tt_content.clickToPlay.description"></label>
+
+			<label index="flexform.clickToPlay.sheets.general">Contenu général</label>
+			<label index="flexform.clickToPlay.bloc">Bloc</label>
+			<label index="flexform.clickToPlay.title">Titre</label>
+			<label index="flexform.clickToPlay.description">Description</label>
+			<label index="flexform.clickToPlay.image">Image</label>
+			<label index="flexform.clickToPlay.video">Vidéo</label>
+			<label index="tt_content.clickToPlay.btnLabel">Jouer la vidéo</label>
+		</languageKey>
+	</data>
+</T3locallang>

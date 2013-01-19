@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>database</type>
+		<description>Language labels for database tables/fields belonging to extension 'wec_contentelements'</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="tt_content.imageLegend.title">Image with legend</label>
+			<label index="tt_content.imageLegend.description"></label>
+
+			<label index="flexform.imageLegend.sheets.general">mainContent</label>
+			<label index="flexform.imageLegend.image">Image</label>
+			<label index="flexform.imageLegend.title">Legend</label>
+		</languageKey>
+
+		<languageKey index="fr" type="array">
+			<label index="tt_content.imageLegend.title">Image légendée</label>
+			<label index="tt_content.imageLegend.description"></label>
+
+			<label index="flexform.imageLegend.sheets.general">Contenu général</label>
+			<label index="flexform.imageLegend.image">Image</label>
+			<label index="flexform.imageLegend.title">Légende</label>
+		</languageKey>
+	</data>
+</T3locallang>

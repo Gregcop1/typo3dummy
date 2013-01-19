@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff version="1.0">
+  <file source-language="EN" datatype="plaintext" original="messages" date="2012-08-09T07:24:57Z" product-name="powermail" target-language="fr">
+    <header/>
+    <body>
+      <trans-unit id="title.description" xml:space="preserve">
+        <source>Enter a title for this form</source>
+      </trans-unit>
+      <trans-unit id="css.description" xml:space="preserve">
+        <source>Choose a Layout (changes the classes in Frontend)</source>
+      </trans-unit>
+      <trans-unit id="pages.description" xml:space="preserve">
+        <source>Add a description for this form</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

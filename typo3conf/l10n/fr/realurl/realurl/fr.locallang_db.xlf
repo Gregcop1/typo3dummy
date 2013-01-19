@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff version="1.0">
+  <file source-language="en" target-language="fr" datatype="plaintext" original="messages" date="Tue Jul 12 18:52:12 UTC 2011" product-name="realurl">
+    <header/>
+    <body>
+      <trans-unit id="pages.tx_realurl_pathsegment" approved="yes">
+        <source>Speaking URL path segment:</source>
+        <target state="translated">Segment de l'adresse (URL) réécrite :</target>
+      <alt-trans xml:space="preserve" origin="djul"><target>Segment de l'adresse (URL) réécrite :</target></alt-trans></trans-unit>
+      <trans-unit id="pages.tx_realurl_exclude" approved="yes">
+        <source>Exclude from speaking URL:</source>
+        <target state="translated">Exclure de la réécriture d'URL :</target>
+      <alt-trans xml:space="preserve" origin="djul"><target>Désactiver la réécriture d'adresses (URL) :</target></alt-trans><alt-trans xml:space="preserve" origin="djul"><target>Désactiver la réécriture d'URL :</target></alt-trans></trans-unit>
+      <trans-unit id="pages.tx_realurl_path_override" approved="yes">
+        <source>Override the whole page path</source>
+      <target state="translated">Ecraser entièrement le chemin de la page</target><alt-trans xml:space="preserve" origin="djul"><target>Ecraser entièrement le chemin de la page</target></alt-trans><alt-trans xml:space="preserve" origin="romac"><target>Passer outre le chemin de la page</target></alt-trans><alt-trans xml:space="preserve" origin="djul"><target>Réécrire entièrement le chemin de la page</target></alt-trans></trans-unit>
+      <trans-unit id="pages.tx_realurl_nocache" approved="yes">
+        <source>Disable RealURL cache</source>
+      <target state="translated">Désactiver le cache de RealURL</target><alt-trans xml:space="preserve" origin="romac"><target>Désactiver le cache de RealURL</target></alt-trans></trans-unit>
+      <trans-unit id="moduleFunction.tx_realurl_modfunc1" approved="yes">
+        <source>RealURL management</source>
+        <target state="translated">Gestion de RealURL</target>
+      <alt-trans xml:space="preserve" origin="djul"><target>Gestionnaire d'adresses (URL)</target></alt-trans><alt-trans xml:space="preserve" origin="djul"><target>Gestionnaire RealURL</target></alt-trans></trans-unit>
+    </body>
+  </file>
+</xliff>

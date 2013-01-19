@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+      <label index="pi1_title">powermail</label>
+      <label index="pi1_plus_wiz_description">Extension de formulaires de messagerie simple et puissante avec stockage en base de données, contrôles javascript et beaucoup plus ...</label>
+    </languageKey>
+  </data>
+</T3locallangExt>

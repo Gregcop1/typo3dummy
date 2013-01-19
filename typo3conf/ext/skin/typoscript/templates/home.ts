@@ -26,18 +26,20 @@ template.home {
   template.elements {
     H1.id.logo = 1
 
-  	UL.id.mainNav     = 1
+    UL.id.topNav     = 1
+    UL.id.mainNav     = 1
+    UL.id.bottomNav     = 1
 
-    DIV.id.sidebar    = 1
-    DIV.id.centerColumn    = 1
+    DIV.id.mainContent    = 1
   }
 
   subparts {
-    mainNav < menu.main
-
     logo < lib.logo
+    mainContent < lib.centerColumn
 
-    sidebar < lib.sidebarColumn
-    centerColumn < lib.centerColumn
+    topNav  < menu.top
+    mainNav < menu.main
+    bottomNav  < menu.bottom
+
   }
 }

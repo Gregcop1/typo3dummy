@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+      <label index="pages.tx_realurl_pathsegment">Segment de l'adresse (URL) réécrite :</label>
+      <label index="pages.tx_realurl_exclude">Exclure de la réécriture d'URL :</label>
+      <label index="pages.tx_realurl_path_override">Ecraser entièrement le chemin de la page</label>
+      <label index="pages.tx_realurl_nocache">Désactiver le cache de RealURL</label>
+      <label index="moduleFunction.tx_realurl_modfunc1">Gestion de RealURL</label>
+    </languageKey>
+  </data>
+</T3locallangExt>

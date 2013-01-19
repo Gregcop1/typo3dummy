@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff version="1.0">
+  <file source-language="en" target-language="fr" datatype="plaintext" original="messages" date="Tue Jul 12 18:48:10 UTC 2011" product-name="irfaq">
+    <header/>
+    <body>
+      <trans-unit id="fold_faq" approved="yes">
+        <source>fold faq</source>
+        <target state="translated">répertoire des faq</target>
+      </trans-unit>
+      <trans-unit id="text_expert" approved="yes">
+        <source>Expert:</source>
+        <target state="translated">Expert :</target>
+      </trans-unit>
+      <trans-unit id="text_category" approved="yes">
+        <source>Category: </source>
+        <target state="translated">Catégorie :</target>
+      </trans-unit>
+      <trans-unit id="text_asked_by" approved="yes">
+        <source>Question asked by: </source>
+        <target state="translated">Question posée par :</target>
+      </trans-unit>
+      <trans-unit id="text_show" approved="yes">
+        <source>Show all</source>
+        <target state="translated">Afficher tout</target>
+      </trans-unit>
+      <trans-unit id="text_hide" approved="yes">
+        <source>Hide all</source>
+        <target state="translated">Cacher tout</target>
+      </trans-unit>
+      <trans-unit id="text_related_faq" approved="yes">
+        <source>Related entries:</source>
+        <target state="translated">Questions liées</target>
+      </trans-unit>
+      <trans-unit id="text_related_links" approved="yes">
+        <source>Related links:</source>
+        <target state="translated">Liens liées</target>
+      </trans-unit>
+      <trans-unit id="searchButtonLabel" approved="yes">
+        <source>Search</source>
+        <target state="translated">Recherche</target>
+      </trans-unit>
+      <trans-unit id="noSuchEntry" approved="yes">
+        <source>Sorry, could not find such FAQ entry.</source>
+        <target state="translated">Désolé, aucune réponse n'a été trouvé</target>
+      </trans-unit>
+      <trans-unit id="back" approved="yes">
+        <source>Go back</source>
+        <target state="translated">Retour</target>
+      </trans-unit>
+      <trans-unit id="no_ts_template" approved="yes">
+        <source>Error (irfaq): extension's TypoScript template is not included. Please, go to Web&gt;Template and fix this error</source>
+        <target state="translated">Erreur (irfaq) : Le gabarit de l'extension n'est pas configuré, aller dans Web-&gt;Gabarit et corriger l'erreur Typoscript</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

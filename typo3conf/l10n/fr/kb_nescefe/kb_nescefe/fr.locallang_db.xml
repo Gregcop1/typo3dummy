@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+			<label index="tt_content.CType_pi1_wizard"/>
+			<label index="tt_content.CType_pi1_desc"/>
+			<label index="tt_content.CType_pi1"/>
+			<label index="tt_content.cPos"/>
+			<label index="tt_content.container"/>
+			<label index="tt_content.containerColumn"/>
+			<label index="tx_kbnescefe_containers"/>
+			<label index="tx_kbnescefe_containers.name"/>
+			<label index="tx_kbnescefe_containers.fetemplate"/>
+			<label index="tx_kbnescefe_containers.betemplate"/>
+		</languageKey>
+  </data>
+</T3locallangExt>

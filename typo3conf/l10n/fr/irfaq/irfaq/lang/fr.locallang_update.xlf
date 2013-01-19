@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff version="1.0">
+  <file source-language="en" target-language="fr" datatype="plaintext" original="messages" date="Tue Jul 12 18:48:10 UTC 2011" product-name="irfaq">
+    <header/>
+    <body>
+      <trans-unit id="form_intro" approved="yes">
+        <source>This module will update all irfaq instances from the previous versions to this latest version.</source>
+        <target state="translated">Ce module met à jour toutes les anciennes versions des instances "irfaq" avec cette nouvelle version</target>
+      </trans-unit>
+      <trans-unit id="replace_empty" approved="yes">
+        <source>Treat all empty values as missing. This will restore old non-empty values even if you already set empty in the record. When unchecked empty existing values are preserved.</source>
+      <target state="translated">Traiter toutes les valeurs vides comme manquantes. Cela permettra de restaurer les anciennes valeurs non vides même si vous l'avez déjà mis à vide dans l’enregistrement. Lorsque décochée les valeurs vides existantes sont préservées.</target></trans-unit>
+      <trans-unit id="submit_button" approved="yes">
+        <source>Check and update now!</source>
+        <target state="translated">Vérifier et mettre à jour maintenant !</target>
+      </trans-unit>
+      <trans-unit id="errors" approved="yes">
+        <source>Errors while saving data to the database:</source>
+        <target state="translated">Erreurs survenues pendant l'enregistrement des données dans la base de données</target>
+      </trans-unit>
+      <trans-unit id="result" approved="yes">
+        <source>Total irfaq instances: %d. Converted to the new format: %d.</source>
+        <target state="translated">Nombre d'instances "irfaq" : %d. Instances converties au nouveau format : %d.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,15 +1,13 @@
 ### Include du dossier typoscript/extensions/
 <INCLUDE_TYPOSCRIPT: source="FILE:EXT:skin_dummy/typoscript/extensions/tx_automaketemplate_pi1.ts">
-<INCLUDE_TYPOSCRIPT: source="FILE:EXT:skin_dummy/typoscript/extensions/tx_gcblog_pi1.ts">
-<INCLUDE_TYPOSCRIPT: source="FILE:EXT:skin_dummy/typoscript/extensions/tx_ingallery_pi1.ts">
 ### Include du dossier typoscript/blocs/
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:skin_dummy/typoscript/blocs/1-defaultColumn.ts">
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:skin_dummy/typoscript/blocs/borderColumn.ts">
 <INCLUDE_TYPOSCRIPT: source="FILE:EXT:skin_dummy/typoscript/blocs/centerColumn.ts">
-<INCLUDE_TYPOSCRIPT: source="FILE:EXT:skin_dummy/typoscript/blocs/defaultColumn.ts">
-<INCLUDE_TYPOSCRIPT: source="FILE:EXT:skin_dummy/typoscript/blocs/logo.ts">
-<INCLUDE_TYPOSCRIPT: source="FILE:EXT:skin_dummy/typoscript/blocs/sidebarColumn.ts">
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:skin_dummy/typoscript/blocs/leftColumn.ts">
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:skin_dummy/typoscript/blocs/rightColumn.ts">
 ### Include du dossier typoscript/menus/
 <INCLUDE_TYPOSCRIPT: source="FILE:EXT:skin_dummy/typoscript/menus/default.ts">
-<INCLUDE_TYPOSCRIPT: source="FILE:EXT:skin_dummy/typoscript/menus/main.ts">
 ### Include du dossier typoscript/page/
 <INCLUDE_TYPOSCRIPT: source="FILE:EXT:skin_dummy/typoscript/page/1-temp.templateName.ts">
 <INCLUDE_TYPOSCRIPT: source="FILE:EXT:skin_dummy/typoscript/page/bodyTagCObject.ts">

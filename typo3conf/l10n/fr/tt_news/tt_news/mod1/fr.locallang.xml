@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="fr" type="array">
+      <label index="title">Gestion des actualités</label>
+      <label index="function1">Gestionnaire de catégories d'actualités</label>
+      <label index="function2"/>
+      <label index="nothingfound">Cette pages ne contient aucune catégorie de news. Sélectionnez une page qui contient des catégories dans la liste ci-dessous :</label>
+      <label index="noNewsFound">Il n'y a aucune actualité correspondant à la sélection courante.</label>
+      <label index="showSubcatgories">Montrer les sous catégories</label>
+      <label index="hideSubcatgories">Cacher les sous catégories</label>
+      <label index="path">Chemin :</label>
+      <label index="categories">Catégories:</label>
+      <label index="showOnlyEditable">Montrer uniquement les enregistrements éditables</label>
+      <label index="showThumbs">Montrer les images</label>
+      <label index="defaultLangLabel">Par défaut</label>
+      <label index="allPages">Toutes les pages</label>
+      <label index="thisPage">Cette page</label>
+      <label index="oneLevel">Cette page et 1 sous niveau</label>
+      <label index="twoLevels">Cette page et 2 sous niveaux</label>
+      <label index="threeLevels">Cette page et 3 sous niveaux</label>
+      <label index="fourLevels">Cette page et 4 sous niveaux</label>
+      <label index="enterSearchLevels">Montrer les actualités de :</label>
+      <label index="showingAll">Montrer les actus de toutes les catégories.</label>
+      <label index="showingOnlyCat">Montrer les actus de la catégorie :</label>
+      <label index="selectCategory">Sélectionnez une catégorie</label>
+      <label index="showEditIcons">Afficher les crayons dans l'arborescence</label>
+      <label index="expandAll">Tout déployer</label>
+      <label index="showHiddenCategories">Montrer les catégories cachées</label>
+      <label index="treeTitle">Catégories d'actualité</label>
+      <label index="resetCatSelection">[annuler la sélection]</label>
+      <label index="showAllResetSel">Annuler la sélection de catégorie courante</label>
+      <label index="moveCategoryinto">Déplacer la catégorie dans</label>
+      <label index="copyCategoryinto">Copier la catégorie dans</label>
+      <label index="copyCategoryafter">Copier la catégorie après</label>
+      <label index="createCategory">Créer une catégorie</label>
+      <label index="createArticle">Créer un article</label>
+      <label index="createArticleInCategory">Créer un article de cette catégorie</label>
+      <label index="edit">Editer l'enregistrement</label>
+      <label index="showInfo">Informations</label>
+      <label index="unHide">Afficher l'enregistrement</label>
+      <label index="hide">Masquer l'enregistrement</label>
+      <label index="deleteWarning">Etes-vous sûr de vouloir supprimer l'enregistrement ?</label>
+      <label index="delete">Supprimer l'enregistrement (!)</label>
+      <label index="openFePreview">Prévisualisation</label>
+      <label index="noEditPagePerms">Vous n'êtes pas autorisé(e) à éditer le contenu dans la page où se trouve cet enregistrement.</label>
+      <label index="noEditCategories">Vous n'êtes pas autorisé(e) ) éditer cet enregistrement car il est assigné à une ou plusieurs catégories interdite.</label>
+      <label index="first">Premier</label>
+      <label index="last">Dernier</label>
+      <label index="reload">Recharger</label>
+      <label index="next">Suivant</label>
+      <label index="previous">Précédent</label>
+      <label index="pageIndicator">Page %1$s sur %2$d</label>
+      <label index="rangeIndicator">Enregistrements %1$s - %2$d sur %3$d</label>
+    </languageKey>
+  </data>
+</T3locallangExt>

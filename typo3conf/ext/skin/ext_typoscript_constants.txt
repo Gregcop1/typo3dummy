@@ -1,0 +1,41 @@
+config {
+  adminPanel = 0
+  debug = 0
+  noCache = 1
+  cachePeriod = 604800
+  sendCacheHeaders = 1
+  cacheClearAtMidnight = 1
+  realURL = 1
+  homeID = 1
+  domain = typo3dummy.greg.fr
+  siteName = Typo3 Dummy
+  images.maxW = 990
+}
+
+styles.content.imgtext.maxW = {$config.images.maxW}
+styles.content.imgtext.maxWInText = {$config.images.maxW}
+
+menu{
+  topID = 4
+  bottomID = 5
+}
+
+sitemap{
+  pid_list = 1
+  recursive = 10
+}
+
+scriptmerger{
+  css{
+    enable = 1
+  }
+  javascript{
+    enable = 1
+  }
+}
+
+plugin.powermail {
+  template.formWrap = {$filepaths.extensions}powermail/form_wrap.html
+  template.fieldWrap = {$filepaths.extensions}powermail/field_wrap.html
+  template.mandatory = {$filepaths.extensions}powermail/mandatory.html
+}

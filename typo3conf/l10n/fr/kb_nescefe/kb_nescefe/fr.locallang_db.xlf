@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2011-10-17T21:55:34Z" product-name="kb_nescefe" target-language="fr">
+		<header/>
+		<body>
+			<trans-unit id="tt_content.CType_pi1_wizard">
+				<source>Nested content element container</source>
+			</trans-unit>
+			<trans-unit id="tt_content.CType_pi1_desc">
+				<source>This element allows you to create a container which in can hold multiply other content elements in different columns</source>
+			</trans-unit>
+			<trans-unit id="tt_content.CType_pi1">
+				<source>Content element container</source>
+			</trans-unit>
+			<trans-unit id="tt_content.cPos">
+				<source>Position in Parent Element</source>
+			</trans-unit>
+			<trans-unit id="tt_content.container">
+				<source>Container template</source>
+			</trans-unit>
+			<trans-unit id="tt_content.containerColumn">
+				<source>Container column</source>
+			</trans-unit>
+			<trans-unit id="tx_kbnescefe_containers">
+				<source>Container Template</source>
+			</trans-unit>
+			<trans-unit id="tx_kbnescefe_containers.name">
+				<source>Name</source>
+			</trans-unit>
+			<trans-unit id="tx_kbnescefe_containers.fetemplate">
+				<source>FE-Template</source>
+			</trans-unit>
+			<trans-unit id="tx_kbnescefe_containers.betemplate">
+				<source>BE-Template</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2011-10-17T21:55:34Z" product-name="kb_nescefe" target-language="fr">
+		<header/>
+		<body>
+			<trans-unit id="select_container">
+				<source>Please select a container template</source>
+			</trans-unit>
+			<trans-unit id="container_invalid">
+				<source>Choosen container is invalid</source>
+			</trans-unit>
+			<trans-unit id="no_betemplatefile">
+				<source>No valid BE-Templatefile set in container</source>
+			</trans-unit>
+			<trans-unit id="no_container">
+				<source>[None]</source>
+			</trans-unit>
+			<trans-unit id="column">
+				<source>Column ###IDX###</source>
+			</trans-unit>
+			<trans-unit id="newSection">
+				<source>NEW Section "###LABEL###"</source>
+			</trans-unit>
+			<trans-unit id="sectionList">
+				<source>Section list</source>
+			</trans-unit>
+			<trans-unit id="update_label">
+				<source>Update Nested Content Elements</source>
+			</trans-unit>
+			<trans-unit id="update_message">
+				<source>If you have used the "kb_nescefe" extension already before, and updated the extension to the newest version 1.0.0 or later, you will need to run this update wizard once. Just press the "Update" button below. This will change some values in the tt_content table of the database.&lt;br /&gt;&lt;br /&gt;WARNING: Before pressing the "Update" button you should make a BACKUP of your entire database or at least of the tt_content table. In case any problems occur during update you can then restore the previous situation!!!</source>
+			</trans-unit>
+			<trans-unit id="update_finished">
+				<source>The update was performed properly. Please take care if all nested content element containers show their contained content elements properly! %d content elements inside of containers have been modified. %d containers have been modified</source>
+			</trans-unit>
+			<trans-unit id="update_none">
+				<source>There was no update necessary!</source>
+			</trans-unit>
+			<trans-unit id="update_error">
+				<source>An error occured during updating the content elments!</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

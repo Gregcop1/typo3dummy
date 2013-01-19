@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff version="1.0">
+  <file source-language="en" target-language="fr" datatype="plaintext" original="messages" date="Tue Jul 12 18:48:10 UTC 2011" product-name="irfaq">
+    <header/>
+    <body>
+      <trans-unit id="tx_irfaq_q" approved="yes">
+        <source>FAQ</source>
+        <target state="translated">FAQ</target>
+      </trans-unit>
+      <trans-unit id="tx_irfaq_q.q" approved="yes">
+        <source>Question:</source>
+        <target state="translated">Question :</target>
+      </trans-unit>
+      <trans-unit id="tx_irfaq_q.a" approved="yes">
+        <source>Answer:</source>
+        <target state="translated">Réponse :</target>
+      </trans-unit>
+      <trans-unit id="tx_irfaq_q.q_from" approved="yes">
+        <source>Asked by:</source>
+        <target state="translated">Réponse par :</target>
+      </trans-unit>
+      <trans-unit id="tx_irfaq_q.expert" approved="yes">
+        <source>Expert:</source>
+        <target state="translated">Expert :</target>
+      </trans-unit>
+      <trans-unit id="tx_irfaq_q.related" approved="yes">
+        <source>Related entries:</source>
+        <target state="translated">Question liées :</target>
+      </trans-unit>
+      <trans-unit id="tx_irfaq_q.related_links" approved="yes">
+        <source>Related links (one per line):</source>
+        <target state="translated">Question liées (une part ligne) :</target>
+      </trans-unit>
+      <trans-unit id="tx_irfaq_q.related_new" approved="yes">
+        <source>Create new FAQ and add here</source>
+        <target state="translated">Créer une nouvelle FAQ et l'ajouter ici</target>
+      </trans-unit>
+      <trans-unit id="tx_irfaq_q.related_edit" approved="yes">
+        <source>Edit selected entry</source>
+        <target state="translated">Éditer l'entrée sélectionnée</target>
+      </trans-unit>
+      <trans-unit id="tx_irfaq_q.extra_tab" approved="yes">
+        <source>Extras</source>
+        <target state="translated">Supplément</target>
+      </trans-unit>
+      <trans-unit id="tx_irfaq_q.disable_comments" approved="yes">
+        <source>Disable comments:</source>
+        <target state="translated">Désactiver les commentaires</target>
+      </trans-unit>
+      <trans-unit id="tx_irfaq_q.comments_closetime" approved="yes">
+        <source>Close commenting at:</source>
+        <target state="translated">Fermer le commentaire :</target>
+      </trans-unit>
+      <trans-unit id="tx_irfaq_cat" approved="yes">
+        <source>FAQ category</source>
+        <target state="translated">Catégorie de FAQ</target>
+      </trans-unit>
+      <trans-unit id="tx_irfaq_expert" approved="yes">
+        <source>FAQ expert</source>
+        <target state="translated">FAQ des experts</target>
+      </trans-unit>
+      <trans-unit id="tx_irfaq_expert.name" approved="yes">
+        <source>Name:</source>
+        <target state="translated">Nom :</target>
+      </trans-unit>
+      <trans-unit id="tx_irfaq_expert.url" approved="yes">
+        <source>URL:</source>
+        <target state="translated">Site web :</target>
+      </trans-unit>
+      <trans-unit id="tt_content.list_type_pi1" approved="yes">
+        <source>Modern FAQ</source>
+        <target state="translated">FAQ Moderne</target>
+      </trans-unit>
+      <trans-unit id="tx_irfaq.pi_flexform.sheet_general" approved="yes">
+        <source>General</source>
+        <target state="translated">Général</target>
+      </trans-unit>
+      <trans-unit id="tx_irfaq.pi_flexform.sheet_categories" approved="yes">
+        <source>Categories</source>
+        <target state="translated">Catégories</target>
+      </trans-unit>
+      <trans-unit id="tx_irfaq.pi_flexform.sheet_search" approved="yes">
+        <source>Search</source>
+        <target state="translated">Recherche</target>
+      </trans-unit>
+      <trans-unit id="tx_irfaq.pi_flexform.what_to_display" approved="yes">
+        <source>What to display:</source>
+        <target state="translated">Mode d'affichage :</target>
+      </trans-unit>
+      <trans-unit id="tx_irfaq.pi_flexform.category_selection" approved="yes">
+        <source>Category selection:</source>
+        <target state="translated">Catégorie sélectionnée</target>
+      </trans-unit>
+      <trans-unit id="tx_irfaq.pi_flexform.category_selection_notCategorized" approved="yes">
+        <source>[not categorized]</source>
+        <target state="translated">[Non catégorisé]</target>
+      </trans-unit>
+      <trans-unit id="tx_irfaq.pi_flexform.view_dynamic" approved="yes">
+        <source>Dynamic view with dhtml (answers folding out)</source>
+        <target state="translated">Vue dynamique avec DHTML (réponses repliables)</target>
+      </trans-unit>
+      <trans-unit id="tx_irfaq.pi_flexform.view_static" approved="yes">
+        <source>Static view with answers below of question list</source>
+        <target state="translated">Vue statique avec réponses sous la liste des questions</target>
+      </trans-unit>
+      <trans-unit id="tx_irfaq.pi_flexform.view_static_separate" approved="yes">
+        <source>Static view with answers on a separate page</source>
+        <target state="translated">Vue statique avec réponses sur une page séparée</target>
+      </trans-unit>
+      <trans-unit id="tx_irfaq.pi_flexform.view_search" approved="yes">
+        <source>Search form</source>
+        <target state="translated">Fomulaire de recherche</target>
+      </trans-unit>
+      <trans-unit id="tx_irfaq.pi_flexform.no_view" approved="yes">
+        <source>not configured!!!</source>
+        <target state="translated">Non configuré !</target>
+      </trans-unit>
+      <trans-unit id="tx_irfaq.pi_flexform.select_deselect_categories" approved="yes">
+        <source>Category mode:</source>
+        <target state="translated">Mode des catégories</target>
+      </trans-unit>
+      <trans-unit id="tx_irfaq.pi_flexform.category_selection_showAll" approved="yes">
+        <source>Show all (don't care about selection below)</source>
+        <target state="translated">Afficher tout (ne prend pas en compte la sélectionné ci-dessous)</target>
+      </trans-unit>
+      <trans-unit id="tx_irfaq.pi_flexform.category_selection_showSelected" approved="yes">
+        <source>Show items with selected categories</source>
+        <target state="translated">Afficher les questions avec les catégories sélectionnées</target>
+      </trans-unit>
+      <trans-unit id="tx_irfaq.pi_flexform.category_selection_DontShowSelected" approved="yes">
+        <source>Do NOT show items with selected categories</source>
+        <target state="translated">Ne PAS afficher les questions avec les catégories sélectionnées</target>
+      </trans-unit>
+      <trans-unit id="tx_irfaq.pi_flexform.searchPid" approved="yes">
+        <source>Redirect to page</source>
+        <target state="translated">Rediriger vers la page</target>
+      </trans-unit>
+      <trans-unit id="tx_irfaq.pi_flexform.emptySearchAtStart" approved="yes">
+        <source>Empty search at start</source>
+        <target state="translated">Fomulaire de recherche vide à l'ouverture</target>
+      </trans-unit>
+      <trans-unit id="tx_irfaq.sysfolder" approved="yes">
+        <source>Modern FAQ</source>
+        <target state="translated">FAQ Moderne</target>
+      </trans-unit>
+      <trans-unit id="tx_irfaq.pi_flexform.enableRatings" approved="yes">
+        <source>Enable ratings:</source>
+        <target state="translated">Activer les votes</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

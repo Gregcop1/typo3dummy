@@ -1,0 +1,66 @@
+2010-07-23 Bernhard Kraft  <kraftb@think-open.at>
+
+	* Changed a "width" style for special 4.4.x CSS
+	* Uploaded Extensio to TER as 1.1.0
+	* Updated documentation
+
+2010-07-08 Bernhard Kraft  <kraftb@think-open.at>
+
+	* Fixed styles issues with 4.4 branch
+	* Fixed issues when moving content elements
+	* Fixed issues when creating new content elements in branches < 4.3
+	* Major rewrite of the tcemain hook class and copy/cut & paste handling
+	* Updated documentation
+	* Added a feature which allows to include custom CSS files for every BE-Template
+	* Added some doxygen documentation
+
+2010-06-29 Bernhard Kraft  <kraftb@think-open.at>
+
+	* Making an Import/Export of kb_nescefe elements or pages with such elements now works properly
+	* Now works with new TYPO3 Version 4.4.0
+
+2010-06-23 Bernhard Kraft  <kraftb@think-open.at>
+
+	* kb_nescefe containers can now get properly exported / imported along with all content elements inside them (Sponsored by bluemars.net)
+
+2010-05-10 Bernhard Kraft  <kraftb@think-open.at>
+
+	* Uploaded Extension to TER as 1.0.3
+
+2010-03-24 Bernhard Kraft  <kraftb@think-open.at>
+
+	* Fixed a bug: Double container element header output in FE
+	* Fixed a bug: When a page containing content elements got copied and recursiveCopy is active, sub elements were not referenced correctly (THX to Erich Reitmeier and Igor Reitmair for reporting this bug and Igor Reitmeir for sponsoring the extension)
+
+2010-02-15 Bernhard Kraft  <kraftb@think-open.at>
+
+	* Removed static templates and included minimal required TypoScript by default.
+	* Added TypoScript top level object “tt_content” as default renderObj
+
+2010-02-11 Bernhard Kraft  <kraftb@think-open.at>
+
+	* Created an update wizard which allows to update systems using kb_nescefe < 1.0.0 to the current version (See documentation)
+	* Fixed a bug concerning creation of translated containers
+	* The colPos value being set for elements inside containers is now configurable from within the extension manager
+
+2010-02-09 Bernhard Kraft  <kraftb@think-open.at>
+
+	* Raised extension state to "stable"
+	* Change of major version to 1.0.0
+	* The position of an element in the container is now stored in a separated field "parentPosition" instead of misusing the "colPos" field
+	* Now works with TYPO3 version >= 4.3.0
+
+2009-01-23 Bernhard Kraft  <kraftb@think-open.at>
+
+	* Fixed a bug with content-slide (THX to Georg Ringer for reporting this)
+	* Added Icon for "Container Element" in TCEforms CType drop-down
+	* Added Icon in "new Content Element wizard"
+
+2008-02-28 Bernhard Kraft  <kraftb@kraftb.at>
+
+	* Removed a debug "print_r"
+
+2007-10-02 Bernhard Kraft  <kraftb@kraftb.at>
+
+	* Initial release
+
