@@ -7,7 +7,7 @@ config {
   cacheClearAtMidnight = 1
   realURL = 1
   homeID = 1
-  domain = typo3dummy.greg.fr
+  domain = dummyGeneric.local.inouit.com
   siteName = Typo3 Dummy
   images.maxW = 990
 }
