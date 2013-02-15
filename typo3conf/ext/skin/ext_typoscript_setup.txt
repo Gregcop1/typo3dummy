@@ -2,6 +2,7 @@
 <INCLUDE_TYPOSCRIPT: source="FILE:EXT:skin/typoscript/extensions/tt_news.ts">
 <INCLUDE_TYPOSCRIPT: source="FILE:EXT:skin/typoscript/extensions/tx_inaddthis_pi1.ts">
 <INCLUDE_TYPOSCRIPT: source="FILE:EXT:skin/typoscript/extensions/tx_indexedsearch.ts">
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:skin/typoscript/extensions/tx_powermail_pi1.ts">
 ### Include du dossier typoscript/blocs/
 <INCLUDE_TYPOSCRIPT: source="FILE:EXT:skin/typoscript/blocs/logo.ts">
 ### Include du dossier typoscript/menus/
@@ -15,3 +16,4 @@
 ### Include du dossier typoscript/templates/
 <INCLUDE_TYPOSCRIPT: source="FILE:EXT:skin/typoscript/templates/home.ts">
 <INCLUDE_TYPOSCRIPT: source="FILE:EXT:skin/typoscript/templates/interne1C.ts">
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:skin/typoscript/templates/interne2C.ts">

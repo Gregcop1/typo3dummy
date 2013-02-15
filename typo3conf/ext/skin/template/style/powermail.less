@@ -1,25 +1,6 @@
 @import 'functions.less';
 
-.tx_powermail_pi1_form {
-    fieldset { border: 0; }
-    .tx_powermail_line { clear: both; display: block; position: relative; .margin(1, 0, 1, 0); width: 50%; }
-    label { position: absolute; .padding(.4, 1, .4, 1); .border-radius(0, 0, 3px, 0); .box-shadow(2px, 2px, 3px, @gray); z-index: 1; }
-    .powermail_mandatory { margin-left: 5px; }
-    textarea { height: 80px; }
-    input[type="text"],
-    input[type="email"],
-    input[type="password"],
-    input[type="submit"],
-    textarea { position: relative; padding: 7px 1%; width: 98%; .border-radius; .box-shadow(2px, 2px, 3px, @gray); border: 1px solid @gray; background-color: @white; text-indent: 90px; }
-    input[type="text"]:focus,
-    input[type="email"]:focus,
-    input[type="password"]:focus,
-    textarea:focus { z-index: 2; .box-shadow(2px, 2px, 3px, @outlineBlue); outline: 0; text-indent: 0; }
-    input[type="text"].invalid,
-    input[type="email"].invalid,
-    input[type="password"].invalid,
-    textarea.invalid { .box-shadow(2px, 2px, 3px, @errorRed); }
-}
+
 
 .error {
     .padding(.3, 1, .5, 1); height:auto; .border-radius; .box-shadow(0, 0, 6px, @gray); background-color: @errorRed; z-index:10; color: @white;

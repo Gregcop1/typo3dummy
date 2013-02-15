@@ -1,3 +1,4 @@
+*.log
 typo3conf/ext/gc_lib/
 typo3conf/ext/sav_skin/
 typo3conf/temp*

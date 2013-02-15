@@ -5,9 +5,9 @@ config {
   cachePeriod = 604800
   sendCacheHeaders = 1
   cacheClearAtMidnight = 1
-  realURL = 1
+  realURL = 0
   homeID = 1
-  domain = dummyGeneric.local.inouit.com
+  domain = dummy.dev.inouit.com
   siteName = Typo3 Dummy
   images.maxW = 990
 }
